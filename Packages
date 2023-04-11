@@ -1,5 +1,6 @@
 Package: com.github.al3raQe.just4me
 Version: 2.0.0
+Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends:  com.spark.snowboard 	
@@ -13,6 +14,7 @@ Name: Just 4 Me
 
 Package: com.github.al3raQe.IQ-xXx-IQ
 Version: 1.87.0
+Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends:  com.spark.snowboard 	
@@ -24,3 +26,18 @@ SHA1: 2d96485d157cc816357293571f1066ee4898353c
 SHA256: af26f845ca4e979bb9befce28964a1937f5fd57c732b6cf0ccffa4fb856c60e5
 Depiction: https://al3raqe.github.io
 Name: IQ-xXx-IQ
+
+Package: com.lema.wolf
+Version: 2.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, firmware (>= 5.0) 
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
+Filename: Debs/com.lema.wolf_2.1.deb	
+Size: 2848920	
+Priority optional
+MD5sum: 88c17aee430ab5283ff4afac1b5b5c39
+SHA1: faadef3caf0ac9c77e940ca0ec58197c1a035d62
+SHA256: 2f77186a3fc5c87fc1f1736b5fb20f339a38a4e5fee4b042f58e2f67a971dbf1
+Name: Wolf
