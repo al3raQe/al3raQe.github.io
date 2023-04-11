@@ -1,3 +1,19 @@
+Package: org.thebigboss.whatsapprevael
+Version: 10.14-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader 
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
+Filename: ./debs/whatsapprevael_10.14-1.deb	
+Size: 1574320
+Priority optional
+MD5sum: 3992a82a0dad455c087caebf2b8af158
+SHA1: 8bf448297c17bb0090ac77e14253ef186731e871
+SHA256: 8b9156569229f3e72675f72c1ccf33e368366b454c2250a5e5df7aeb863205b1
+Name: Whatsapp Revael
+Description: Many features of the WhatsApp application.
+
 Package: com.github.al3raQe.youtube.reborn
 Version: 4.0.9
 Section: Tweaks
