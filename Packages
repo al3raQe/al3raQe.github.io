@@ -1,3 +1,19 @@
+Package: com.github.al3raQe.youtube.reborn
+Version: 4.0.9
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, firmware (>= 13.0) 
+Depiction: https://onejailbreak.com/blog/youtube-reborn/
+Filename: ./debs/YouTube.Reborn.v4.0.9.deb	
+Size: 9029026
+Priority optional
+MD5sum: 9e363e9db1654ba341c09fb52c3c2fd2
+SHA1: 53e34615f94b44dcbbe7a366b9a1997a37b46084
+SHA256: e4d02afe7294fb800108deb99ffda0e86c10fd3a765fdff4bea38fd875c05f42
+Name: YouTube Reborn
+Description: YouTube Reborn is a jailbreak tweak that can download Video for free.
+
 Package: me.lau.atria
 Version: 1.3.3
 Section: Tweaks
