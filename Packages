@@ -4,7 +4,7 @@ Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends:  com.spark.snowboard 	
-Filename: Debs/com.github.al3raQe.just4me_2.0.0_iphoneos-arm	
+Filename: Debs/com.github.al3raQe.just4me_2.0.0_iphoneos-arm.deb		
 Size: 4729970	
 MD5sum: 2f9599bd3efdc6b8103ac2b4ea6bb06d	
 SHA1: 3d7b2ef1b7f2b3d7295b8d9282603d15e330d01c	
@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends:  com.spark.snowboard 	
 Conflicts: com.anemonetheming.anemone
-Filename: Debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm	
+Filename: debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm.deb	
 Size: 5618426	
 MD5sum: cc9a3676b31735fa919ba7b513686ee0
 SHA1: 2d96485d157cc816357293571f1066ee4898353c
