@@ -7,11 +7,12 @@ Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
 Filename: ./debs/whatsapprevael_10.14-1.deb	
 Size: 1574320
-Priority optional
+Priority: optional
 MD5sum: 3992a82a0dad455c087caebf2b8af158
 SHA1: 8bf448297c17bb0090ac77e14253ef186731e871
 SHA256: 8b9156569229f3e72675f72c1ccf33e368366b454c2250a5e5df7aeb863205b1
 Name: Whatsapp Revael
+Author: al3raQe
 Description: Many features of the WhatsApp application.
 
 Package: com.github.al3raQe.youtube.reborn
@@ -23,11 +24,12 @@ Depends: mobilesubstrate, firmware (>= 13.0)
 Depiction: https://onejailbreak.com/blog/youtube-reborn/
 Filename: ./debs/YouTube.Reborn.v4.0.9.deb	
 Size: 9029026
-Priority optional
+Priority: optional
 MD5sum: 9e363e9db1654ba341c09fb52c3c2fd2
 SHA1: 53e34615f94b44dcbbe7a366b9a1997a37b46084
 SHA256: e4d02afe7294fb800108deb99ffda0e86c10fd3a765fdff4bea38fd875c05f42
 Name: YouTube Reborn
+Author: al3raQe
 Description: YouTube Reborn is a jailbreak tweak that can download Video for free.
 
 Package: me.lau.atria
@@ -44,6 +46,7 @@ MD5sum: 2030441b1778cb9c6bb98381ac4a3584
 SHA1: fba82d791376c3d37b59ef68aa88b48c69ce9b96
 SHA256: 510cb18136f3bd8dcdbee2073e829075cdf1d32e0c6c93fc4c9467c268b3758c
 Name: Atria
+Author: al3raQe
 Description: Atria brings a dynamic homescreen layout configuration system for iOS users.
 
 Package: com.github.al3raQe.just4me
@@ -88,9 +91,10 @@ Depends: mobilesubstrate, firmware (>= 5.0)
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
 Filename: ./debs/com.lema.wolf_2.1.deb	
 Size: 2848920	
-Priority optional
+Priority: optional
 MD5sum: 88c17aee430ab5283ff4afac1b5b5c39
 SHA1: faadef3caf0ac9c77e940ca0ec58197c1a035d62
 SHA256: 2f77186a3fc5c87fc1f1736b5fb20f339a38a4e5fee4b042f58e2f67a971dbf1
 Name: Wolf
+Author: al3raQe
 Description: Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.
