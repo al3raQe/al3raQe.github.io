@@ -1,3 +1,20 @@
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Section: Utilities
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Depiction: https://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Filename: ./debs/com.icleanerpro_7.10.0_iphoneos-arm.deb
+Size: 2454320
+Priority: optional
+MD5sum: 830ebd462d173a9211f5f7c41ce64d1a
+SHA1: 437f5c5097cdab433698b11dab81c3cb8fc82917
+SHA256: 99c90c0f4629d47af1c52772f374eb74828f7cdafc469fcc42af0eea6d417c66
+Name: iCleaner Pro
+Author: al3raQe
+Description: The first real iOS system cleanup and management utility
+
 Package: org.thebigboss.whatsapprevael
 Version: 10.14-1
 Section: Tweaks
