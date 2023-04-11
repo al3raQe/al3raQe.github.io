@@ -24,8 +24,10 @@ Size: 4729970
 MD5sum: 2f9599bd3efdc6b8103ac2b4ea6bb06d	
 SHA1: 3d7b2ef1b7f2b3d7295b8d9282603d15e330d01c	
 SHA256: 0dcc72f3db0fabcf57ac1ef6b8db615dc3b2b5cf04b0e7fa588c781c8fb50cf5
-Depiction: https://raw.githubusercontent.com/al3raQe/al3raQe.github.io/Master/photo/Just4Me.jpg
 Name: Just 4 Me
+Description: ADs Blocker for Apps.. Note: may not load page or app crash.
+Author: al3raQe
+Depiction: https://raw.githubusercontent.com/al3raQe/al3raQe.github.io/Master/photo/Just4Me.jpg
 
 Package: com.github.al3raQe.IQ-xXx-IQ
 Version: 1.87.0
