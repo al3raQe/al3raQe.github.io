@@ -1,0 +1,26 @@
+Package: com.github.al3raQe.just4me
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY	
+Depends:  com.spark.snowboard 	
+Filename: Debs/com.github.al3raQe.just4me_2.0.0_iphoneos-arm.deb	
+Size: 4729970	
+MD5sum: 2f9599bd3efdc6b8103ac2b4ea6bb06d	
+SHA1: 3d7b2ef1b7f2b3d7295b8d9282603d15e330d01c	
+SHA256: 0dcc72f3db0fabcf57ac1ef6b8db615dc3b2b5cf04b0e7fa588c781c8fb50cf5
+Depiction: https://al3raqe.github.io
+Name: Just 4 Me
+
+Package: com.github.al3raQe.IQ-xXx-IQ
+Version: 1.87.0
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY	
+Depends:  com.spark.snowboard 	
+Conflicts: com.anemonetheming.anemone
+Filename: Debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm.deb	
+Size: 5618426	
+MD5sum: cc9a3676b31735fa919ba7b513686ee0
+SHA1: 2d96485d157cc816357293571f1066ee4898353c
+SHA256: af26f845ca4e979bb9befce28964a1937f5fd57c732b6cf0ccffa4fb856c60e5
+Depiction: https://al3raqe.github.io
+Name: IQ-xXx-IQ
