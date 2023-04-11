@@ -1,3 +1,21 @@
+Package: com.ichitaso.icontweak
+Version: 1.0.9
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader 
+Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
+Depiction: https://havoc.app/depiction/icontweak
+Filename: ./debs/com.ichitaso.icontweak_1.0.9_iphoneos-arm.deb
+Size: 121596
+Priority: optional
+MD5sum: 1a0efa008cddf890cfe24a87833d7c7e
+SHA1: 5f0700df1816ac3c314b318973dbaf056bb1640f
+SHA256: c473c04d477cb84555ff6e0ce6520c03b59f13adc9befe7c7d28c5390f219076
+Name: IconTweak
+Author: al3raQe
+Description: Swipe icons to show control menu and more!
+
 Package: org.thebigboss.whatsapprevael
 Version: 10.14-1
 Section: Tweaks
