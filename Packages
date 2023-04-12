@@ -1,3 +1,20 @@
+Package: com.spark.snowboard.effects
+Version: 1.2.0~Beta1
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
+Filename: ./debs/ccom.spark.snowboard.effects.deb
+Size: 540000
+Priority: optional
+MD5: 90c71b407bcc620f61d451ef2512f498
+SHA1: 91e3ec716897af5dc2b79052590f096ded56e127
+SHA256: 2c8607707ce1fab898bedf45263ed740fe8d2c734a69f7e2d421924f7e9a74ad
+Name: SnowBoard Icon Effects Extension
+Author: al3raQe
+Description: Icon Effects for SnowBoard.
+
 Package: com.spark.snowboard
 Version: 1.5.11-Beta3
 Section: Tweaks
