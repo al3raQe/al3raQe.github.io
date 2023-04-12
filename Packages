@@ -1,3 +1,21 @@
+Package: com.spark.snowboard
+Version: 1.5.11-Beta3
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+Filename: ./debs/com.spark.snowboard.1.5.9-Beta3-rootless.deb
+Size: 1129868
+Priority: optional
+MD5: 1cfa9a99ed81fdc489ce08800c86918f
+SHA1: 8ea8f4e6d22b5b55820aac28b159c1404d71c6fe
+SHA256: b03e8ce64c3092e6607ab719034276a1867f2259b9604913a4ed960a211c940a
+Name: SnowBoard
+Author: al3raQe
+Description: Snowboard theming engine.
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Section: Utilities
