@@ -13,7 +13,7 @@ SHA1: 1d4e2ef208a4faa067d3bb361aa45a0f23b970c6
 SHA256: 1fe76fc1ae026658d28d0e7d70c1314bdc5b1cd88729af3a6ef6eff7791737a7
 Name: SnowBoard Icon Masks Extension
 Author: al3raQe
-Description: Icon masks for SnowBoar.
+Description: Icon masks for SnowBoard.
 
 Package: com.spark.snowboard.effects
 Version: 1.2.0~Beta1
