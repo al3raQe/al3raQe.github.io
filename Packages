@@ -1,3 +1,20 @@
+Package: com.spark.snowboard.masks
+Version: 1.2.0~Beta1
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
+Filename: ./debs/com.spark.snowboard.masks.deb
+Size: 361900
+Priority: optional
+MD5: 8457d65d57e200f17a1502b061d95706
+SHA1: 1d4e2ef208a4faa067d3bb361aa45a0f23b970c6
+SHA256: 1fe76fc1ae026658d28d0e7d70c1314bdc5b1cd88729af3a6ef6eff7791737a7
+Name: SnowBoard Icon Masks Extension
+Author: al3raQe
+Description: Icon masks for SnowBoar.
+
 Package: com.spark.snowboard.effects
 Version: 1.2.0~Beta1
 Section: SnowBoard Extensions
@@ -5,8 +22,8 @@ Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
-Filename: ./debs/ccom.spark.snowboard.effects.deb
-Size: 540000
+Filename: ./debs/com.spark.snowboard.effects.deb
+Size: 661400
 Priority: optional
 MD5: 90c71b407bcc620f61d451ef2512f498
 SHA1: 91e3ec716897af5dc2b79052590f096ded56e127
