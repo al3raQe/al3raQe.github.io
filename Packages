@@ -1,3 +1,20 @@
+Package: com.ichitaso.icontweak
+Version: 1.0.9
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Depiction: https://havoc.app/depiction/icontweak
+Filename: ./debs/com.ichitaso.icontweak_1.0.9_iphoneos-arm.deb
+Size: 105964
+Priority: optional
+MD5: 81a0efa008cddf890cfe24a87833d7c7e
+SHA1: 350d0d9f393be966685cdaa29e0ba8476a7f2e0f
+SHA256: c473c04d477cb84555ff6e0ce6520c03b59f13adc9befe7c7d28c5390f219076
+Name: IconTweak
+Author: al3raQe
+Description: ISwipe icons to show control menu and more!.
+
 Package: com.spark.snowboard.masks
 Version: 1.2.0~Beta1
 Section: SnowBoard Extensions
