@@ -1,3 +1,20 @@
+Package: me.ahmedbafkir.dleasy
+Version: 2.13.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Depiction: https://havoc.app/depiction/dleasy
+Filename: ./debs/me.dleasy_2.13.4_iphoneos-arm.deb
+Size: 3284572
+Priority: optional
+MD5: bda219fd0a2eee7c37310fe57b8d597c
+SHA1: e5ab01ad9803463f80bbaf36934dc71a2bb59a53
+SHA256: 399029810e49b85e0201e648d5bada2d7db06ab95a1d5842db127a76b9c3089c
+Name: DLEasy
+Author: al3raQe
+Description: Download/Share images & videos from social apps easily!.
+
 Package: com.ichitaso.icontweak
 Version: 1.0.9
 Section: Tweaks
