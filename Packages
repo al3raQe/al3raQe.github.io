@@ -157,23 +157,23 @@ Version: 2.0.0
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depends: com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.github.al3raQe.just4me_2.0.0_iphoneos-arm.deb
-Size: 4729970	
+Size: 4729970
 MD5sum: 2f9599bd3efdc6b8103ac2b4ea6bb06d	
-SHA1: 3d7b2ef1b7f2b3d7295b8d9282603d15e330d01c	
+SHA1: e3b819dd829ec33bec3b96d9d07eaced3160c0db
 SHA256: 0dcc72f3db0fabcf57ac1ef6b8db615dc3b2b5cf04b0e7fa588c781c8fb50cf5
-Name: Just 4 Me
+Depiction: https://raw.githubusercontent.com/al3raQe/al3raQe.github.io/Master/photo/Just4Me.jpg
 Description: ثيم دائري جميل مع انعكاس الزجاج
 Author: al3raQe
-Depiction: https://raw.githubusercontent.com/al3raQe/al3raQe.github.io/Master/photo/Just4Me.jpg
+Name: Just 4 Me
 
 Package: com.github.al3raQe.IQ-xXx-IQ
 Version: 1.87.0
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)	
+Depends: com.spark.snowboard (>= 1.2.100)	
 Filename: ./debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm.deb	
 Size: 5618426	
 MD5sum: cc9a3676b31735fa919ba7b513686ee0
