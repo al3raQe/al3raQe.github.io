@@ -16,20 +16,19 @@ Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: In-app Purchase is a generic in-app purchase . اداة وهمية للشراء من داخل التطبيقات
 
-Package: com.github.al3raQe.al3raQee
+Package: com.al3raQe.just4me
 Version: 1.0.1
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
 Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
-Filename: ./debs/com.github.al3raQe.al3raQee_1.0.1_iphoneos-arm.deb
-Size: 4655572
-Priority: optional
-MD5: 4c81f83d290c7870b4495bad930f90f9
-SHA1: bfe7971af588896263af114b873fb1bcf1741c8c
-SHA256: bcca99324fad405527fd71fa5c87c6b84dad86c1fbf353fde7165b3b58a1540c
-Name: al3raQee
+Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
+Size: 4598860
+MD5: a1c7e74e42527deecd06eb8f03d08a1d
+SHA1: 191e7087496faaa9e490750823118599e31ea3dc
+SHA256: e7f8dfbde7cdbfaa58cd0baa9a67288be5f125da70652593638076365bf9a1ac
+Name: Just 4 Me
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم دائري جميل مع انعكاس الزجاج
@@ -200,29 +199,12 @@ Name: Atria
 Author: al3raQe
 Description: Atria brings a dynamic homescreen layout configuration system for iOS users.
 
-Package: com.github.al3raQe.just4me
-Version: 2.0.0
-Section: Theme
-Architecture: iphoneos-arm
-Maintainer: ALSHIMMARY	
-Depends: com.spark.snowboard (>= 1.2.100)
-Filename: ./debs/com.github.al3raQe.just4me_2.0.0_iphoneos-arm.deb
-Size: 4729970
-MD5sum: 2f9599bd3efdc6b8103ac2b4ea6bb06d	
-SHA1: e3b819dd829ec33bec3b96d9d07eaced3160c0db
-SHA256: 0dcc72f3db0fabcf57ac1ef6b8db615dc3b2b5cf04b0e7fa588c781c8fb50cf5
-Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: ثيم دائري جميل مع انعكاس الزجاج
-Author: al3raQe
-Name: Just 4 Me
-
 Package: com.github.al3raQe.IQ-xXx-IQ
 Version: 1.87.0
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
-Depends: com.spark.snowboard (>= 1.2.100)	
+Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects	
 Filename: ./debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm.deb	
 Size: 5618426	
 MD5sum: cc9a3676b31735fa919ba7b513686ee0
