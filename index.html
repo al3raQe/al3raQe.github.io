@@ -86,7 +86,62 @@
 		
 		<p align="center" style="margin:0;"><a onclick="toogleTheme();" role="button"><img width="32" height="32" src="./files/DarkMode-Light.png" id="toggleDark"/></a></p>
 	</main>
-	
+	<style> 
+/*-------- Touch Me Sharing Widget ------*/ 
+.touchme a { 
+display:block; 
+height:54px; 
+width:54px; 
+padding:0 6px; 
+float:right;
+background:transparent url(http://3.bp.blogspot.com/-9voVNV9neM4/UJKT2erTsZI/AAAAAAAACks/nfkZ9YnS99k/s1600/Touch+Me.png) no-repeat; 
+-webkit-transition: ease-in 0.2s all;    
+-moz-transition: ease-in 0.2s all;    
+-o-transition: ease-in 0.2s all;    
+-ms-transition: ease-in 0.2s all;    
+transition: ease-in 0.2s all; 
+cursor:pointer;
+}
+
+.touchme a.YouTube { 
+background-position: 0px -58px;
+} 
+.touchme a.YouTube:hover { 
+background-position: 0px 0px; 
+}
+
+.touchme a.twitter { 
+background-position: 0px -290px;
+} 
+.touchme a.twitter:hover { 
+background-position: 0px -232px;
+} 
+.touchme a.facebook { 
+background-position: 0px -406px;
+} 
+.touchme a.facebook:hover { 
+background-position: 0px -348px;
+}
+
+.touchme a.rss { 
+background-position: 0px -174px;
+} 
+.touchme a.rss:hover { 
+background-position: 0px -116px;
+}
+
+</style>
+</p>
+<div class='touchme'>
+<!--RSS--> 
+<a class='rss' href="http://feeds.feedburner.com/blogspot/" rel='external nofollow' target='_blank'></a>
+<!--Facebook--> 
+<a class='facebook' href="https://www.facebook.com/elshimmary" rel='nofollow' target='_blank'></a>
+<!-- Twitter --> 
+<a class='twitter' href="https://twitter.com/elshimmary" rel='nofollow' target='_blank' ></a>
+<!--YouTube--> 
+<a class='YouTube' href="https://www.youtube.com/user/elshimmaryCh" rel='nofollow' target='_blank'></a>
+</div>
 	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">al3raQe © 2023</p>
 </body>
 </html>
