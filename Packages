@@ -44,6 +44,7 @@ Depiction: https://havoc.app/depiction/dleasy
 Filename: ./debs/me.dleasy_2.13.4_iphoneos-arm.deb
 Size: 3284572
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5: bda219fd0a2eee7c37310fe57b8d597c
 SHA1: e5ab01ad9803463f80bbaf36934dc71a2bb59a53
 SHA256: 399029810e49b85e0201e648d5bada2d7db06ab95a1d5842db127a76b9c3089c
@@ -61,6 +62,7 @@ Depiction: https://havoc.app/depiction/icontweak
 Filename: ./debs/com.ichitaso.icontweak_1.0.9_iphoneos-arm.deb
 Size: 105964
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5: 81a0efa008cddf890cfe24a87833d7c7e
 SHA1: 350d0d9f393be966685cdaa29e0ba8476a7f2e0f
 SHA256: c473c04d477cb84555ff6e0ce6520c03b59f13adc9befe7c7d28c5390f219076
@@ -78,6 +80,7 @@ Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
 Filename: ./debs/com.spark.snowboard.masks.deb
 Size: 361900
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5: 8457d65d57e200f17a1502b061d95706
 SHA1: 1d4e2ef208a4faa067d3bb361aa45a0f23b970c6
 SHA256: 1fe76fc1ae026658d28d0e7d70c1314bdc5b1cd88729af3a6ef6eff7791737a7
@@ -95,6 +98,7 @@ Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
 Filename: ./debs/com.spark.snowboard.effects.deb
 Size: 661400
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5: 90c71b407bcc620f61d451ef2512f498
 SHA1: 91e3ec716897af5dc2b79052590f096ded56e127
 SHA256: 2c8607707ce1fab898bedf45263ed740fe8d2c734a69f7e2d421924f7e9a74ad
@@ -113,6 +117,7 @@ Depiction: https://www.sparkdev.me/package/com.spark.snowboard
 Filename: ./debs/com.spark.snowboard.1.5.9-Beta3-rootless.deb
 Size: 1129868
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5: 1cfa9a99ed81fdc489ce08800c86918f
 SHA1: 8ea8f4e6d22b5b55820aac28b159c1404d71c6fe
 SHA256: b03e8ce64c3092e6607ab719034276a1867f2259b9604913a4ed960a211c940a
@@ -130,6 +135,7 @@ Depiction: https://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Filename: ./debs/com.icleanerpro_7.10.0_iphoneos-arm.deb
 Size: 2450460
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5sum: 830ebd462d173a9211f5f7c41ce64d1a
 SHA1: 437f5c5097cdab433698b11dab81c3cb8fc82917
 SHA256: 99c90c0f4629d47af1c52772f374eb74828f7cdafc469fcc42af0eea6d417c66
@@ -147,6 +153,7 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsappr
 Filename: ./debs/whatsapprevael_10.14-1.deb	
 Size: 1574320
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5sum: 3992a82a0dad455c087caebf2b8af158
 SHA1: 8bf448297c17bb0090ac77e14253ef186731e871
 SHA256: 8b9156569229f3e72675f72c1ccf33e368366b454c2250a5e5df7aeb863205b1
@@ -164,6 +171,7 @@ Depiction: https://onejailbreak.com/blog/youtube-reborn/
 Filename: ./debs/YouTube.Reborn.v4.0.9.deb	
 Size: 9029026
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5sum: 9e363e9db1654ba341c09fb52c3c2fd2
 SHA1: 53e34615f94b44dcbbe7a366b9a1997a37b46084
 SHA256: e4d02afe7294fb800108deb99ffda0e86c10fd3a765fdff4bea38fd875c05f42
@@ -180,6 +188,7 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis
 Depiction: https://chariz.com/get/atria
 Filename: ./debs/me.lau.atria_1.3.3_iphoneos-arm.deb	
 Size: 149054	
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
 MD5sum: 2030441b1778cb9c6bb98381ac4a3584
 SHA1: fba82d791376c3d37b59ef68aa88b48c69ce9b96
@@ -199,7 +208,8 @@ Size: 4729970
 MD5sum: 2f9599bd3efdc6b8103ac2b4ea6bb06d	
 SHA1: e3b819dd829ec33bec3b96d9d07eaced3160c0db
 SHA256: 0dcc72f3db0fabcf57ac1ef6b8db615dc3b2b5cf04b0e7fa588c781c8fb50cf5
-Depiction: https://raw.githubusercontent.com/al3raQe/al3raQe.github.io/Master/photo/Just4Me.jpg
+Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم دائري جميل مع انعكاس الزجاج
 Author: al3raQe
 Name: Just 4 Me
@@ -215,7 +225,8 @@ Size: 5618426
 MD5sum: cc9a3676b31735fa919ba7b513686ee0
 SHA1: 2d96485d157cc816357293571f1066ee4898353c
 SHA256: af26f845ca4e979bb9befce28964a1937f5fd57c732b6cf0ccffa4fb856c60e5
-Depiction: https://raw.githubusercontent.com/al3raQe/al3raQe.github.io/Master/photo/IQ-xXx-IQ.jpg
+Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم شباك طولي جميل مع انعكاس الزجاج
 Author: al3raQe
 Name: IQ-xXx-IQ
@@ -230,6 +241,7 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wolfDp
 Filename: ./debs/com.lema.wolf_2.1.deb	
 Size: 2848920	
 Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5sum: 88c17aee430ab5283ff4afac1b5b5c39
 SHA1: faadef3caf0ac9c77e940ca0ec58197c1a035d62
 SHA256: 2f77186a3fc5c87fc1f1736b5fb20f339a38a4e5fee4b042f58e2f67a971dbf1
