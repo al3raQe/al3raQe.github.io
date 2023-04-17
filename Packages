@@ -4,7 +4,7 @@ Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
-Depiction: https://raw.githubusercontent.com/al3raQe/al3raQe.github.io/Master/photo/Just4Me.jpg
+Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
 Filename: ./debs/com.github.al3raQe.al3raQee_1.0.1_iphoneos-arm.deb
 Size: 4655572
 Priority: optional
@@ -13,6 +13,7 @@ SHA1: 8b0a0a8ff3625346a0393201b11eacac49b19f13
 SHA256: 249fe604fea6458c84fa56e7bc2135c54220897c685ec638de8f65fad5499c3c
 Name: al3raQee
 Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم دائري جميل مع انعكاس الزجاج
 
 Package: me.ahmedbafkir.dleasy
