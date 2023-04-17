@@ -1,20 +1,20 @@
-Package: com.al3raQe.satella
+Package: com.al3raQe.In-app.Purchase
 Version: 1.87.1
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, com.opa334.altlist
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
-Filename: ./debs/com.al3raQe.satella_1.87.1_iphoneos-arm.deb
-Size: 141744
+Filename: ./debs/com.al3raQe.In-app.Purchase_1.87.1_iphoneos-arm.deb
+Size: 141772
 Priority: optional
-MD5: dbaca849fbb267457977ed4badf362a2
-SHA1: cfa99846b7fbd335ca17e472385b760c06707978
-SHA256: a8498c57aa2a25e59e7db2f2ce294449b418d7bdf4b911b8c9ac989f1d88c04b
-Name: Satella
+MD5: 789dcbca2a1d2fb8aa568bbccf1bdfc5
+SHA1: 7f6c806467bca4aa858b387873f7ad9d228385c7
+SHA256: 3ccdf74bb9237e03da50051e6db4c5abfd860901531ece6fe0f2eed5f6d47816
+Name: In-app Purchase
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Satella is a generic in-app purchase . اداة وهمية للشراء من داخل التطبيقات
+Description: In-app Purchase is a generic in-app purchase . اداة وهمية للشراء من داخل التطبيقات
 
 Package: com.github.al3raQe.al3raQee
 Version: 1.0.1
