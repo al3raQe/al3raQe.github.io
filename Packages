@@ -161,14 +161,17 @@ Name: Whatsapp Revael
 Author: al3raQe
 Description: Many features of the WhatsApp application.
 
-Package: com.github.al3raQe.youtube.reborn
+Package: h.ryan.youtubereborn
 Version: 4.0.9
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, firmware (>= 13.0) 
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0) 
 Depiction: https://onejailbreak.com/blog/youtube-reborn/
-Filename: ./debs/YouTube.Reborn.v4.0.9.deb	
+Filename: ./debs/com.al3raQe.youtubereborn_4.0.9_iphoneos-arm.deb	
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Size: 9029026
 Priority: optional
 Icon: https://al3raqe.github.io/photo/al3raQee.png
