@@ -1,4 +1,4 @@
-Package: com.sop.settingsrevamp
+Package: com.al3raQe.settingsCustomize
 Version: 2.0.2
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -7,16 +7,16 @@ Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmwa
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets
 Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
 Filename: ./debs/com.sop.settingsrevamp_2.0.2_iphoneos-arm.deb
-Size: 93872
-MD5: 1e67b30d3d7b23a3271db4c43aaaf874
-SHA1: 4e1782707420f0038ab670d769113854e8c7e171
-SHA256: EAE0982108682FF9C016F7EAA7B684090FD6E34F96B7BF74218F1FF4396FABE4
+Size: 96740
+MD5: 36c60d75da144ffd01acf4f36c167259
+SHA1: 141f56b3cb094f4f8044cb2a512c12d898519ba4
+SHA256: 984ee9df92cde92f0f7299ce03150db126a95246f925de22d4e6ac2a56e8cf19
 Name: SettingsCustomize
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Customize the ios settings page. 
 
-Package: com.sop.settingsrevamp
+Package: settingsCustomize
 Version: 2.0.1
 Section: Tweaks
 Architecture: iphoneos-arm
