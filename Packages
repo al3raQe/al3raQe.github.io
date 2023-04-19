@@ -4,13 +4,11 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets
-Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
-Filename: ./debs/com.sop.settingsrevamp_2.0.2_iphoneos-arm.deb
-Size: 96740
-MD5: 36c60d75da144ffd01acf4f36c167259
-SHA1: 141f56b3cb094f4f8044cb2a512c12d898519ba4
-SHA256: 984ee9df92cde92f0f7299ce03150db126a95246f925de22d4e6ac2a56e8cf19
+Filename: ./debs/com.al3raQe.settingsCustomize_2.0.2_iphoneos-arm.deb
+Size: 108182
+MD5: bef0edda0ea9d6305f2b5ca2931c9640
+SHA1: 51761311bf35eb2177f13b57266865d7180b4cd6
+SHA256: 921dba9aea7f9569e6714d72bf5e588af37df5cd6b961f5b7dbcda30ea4d2187c
 Name: SettingsCustomize
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
