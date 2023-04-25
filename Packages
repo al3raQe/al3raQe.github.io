@@ -4,7 +4,7 @@ Section: Cracks - Tweaks
 Architecture: iphoneos-arm
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: .debs/com.al3raQe.NoYTaDs_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.al3raQe.NoYTaDs_1.0.1_iphoneos-arm.deb
 Size: 4188
 MD5: c9ceb2a0aa636963eb82fd0419ab8e02
 SHA1: 54F0164C8D1A937448433652F5E0B338E71261E3
@@ -20,7 +20,7 @@ Section: Cracks - Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: firmware (= 12.2)
-Filename: .debs/com.al3raQe.FilzaCrack_1.0.4_iphoneos-arm.deb
+Filename: ./debs/com.al3raQe.FilzaCrack_1.0.4_iphoneos-arm.deb
 Size: 32088
 MD5: bfea8b5957e235a65c059c720e139012
 SHA1: bcfdef7f747820410b74d25e9543bfbef6a6149e
