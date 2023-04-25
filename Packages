@@ -239,10 +239,10 @@ Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects	
 Filename: ./debs/com.github.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
-Size: 5329570	
-MD5sum: 73f05c7cb4b7fe1a6625ce6bfbc2b76f
-SHA1: 544b536c31bfc4a006f1891ae93606864de1445c
-SHA256: 65f652704b22116be07deb0e8c1de53c41e5cfcb051bd7ca571e44d005712d10
+Size: 5330410	
+MD5sum: a1bd3bea428629dc4faacf9b43ca8dc1
+SHA1: A044F9C6360064A7B52531DF389DA7047F6C7521
+SHA256: 1def9d858d964e5be0cc8abca1c31ebc101bc7ab92db8bb9d133e08e041f7429
 Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم شباك طولي جميل مع انعكاس الزجاج
