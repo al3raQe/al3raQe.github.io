@@ -233,16 +233,16 @@ Author: al3raQe
 Description: Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.
 
 Package: com.github.al3raQe.IQ-xXx-IQ
-Version: 1.87.0
+Version: 1.87.1
 Section: Theme - SnowBoard
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects	
-Filename: ./debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm.deb	
-Size: 5618426	
-MD5sum: cc9a3676b31735fa919ba7b513686ee0
-SHA1: 2d96485d157cc816357293571f1066ee4898353c
-SHA256: af26f845ca4e979bb9befce28964a1937f5fd57c732b6cf0ccffa4fb856c60e5
+Filename: ./debs/com.github.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
+Size: 5329570	
+MD5sum: 73f05c7cb4b7fe1a6625ce6bfbc2b76f
+SHA1: 544b536c31bfc4a006f1891ae93606864de1445c
+SHA256: 65f652704b22116be07deb0e8c1de53c41e5cfcb051bd7ca571e44d005712d10
 Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم شباك طولي جميل مع انعكاس الزجاج
@@ -257,10 +257,10 @@ Maintainer: ALSHIMMARY
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
 Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
 Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
-Size: 4598860
-MD5: a1c7e74e42527deecd06eb8f03d08a1d
-SHA1: 191e7087496faaa9e490750823118599e31ea3dc
-SHA256: e7f8dfbde7cdbfaa58cd0baa9a67288be5f125da70652593638076365bf9a1ac
+Size: 4598874
+MD5: 637c7efcb29b3eb33afabe9f733115f6
+SHA1: 16eaeeccddff2a901ec03c3b7483f2a006f0b3f1
+SHA256: cc1ca1e572e9498f679093faf0003a525dcab4e517cbc079a928d1ef2d243785
 Name: Just 4 Me
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
