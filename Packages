@@ -213,7 +213,7 @@ SHA256: 114d78ee7e70440c7eaf4213e559147a4f8310b98cb6fec27c17f93c18b7524f
 Name: SnowBoard Icon Effects Extension
 Author: al3raQe
 Description: Icon Effects for SnowBoard.
----------------------------------------------------
+
 Package: com.al3raQe.snowboard.masks
 Version: 1.2.0~Beta1
 Section: Tweaks - SnowBoard
