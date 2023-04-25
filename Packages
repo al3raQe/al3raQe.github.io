@@ -249,7 +249,7 @@ Name: IQ-xXx-IQ
 
 Package: com.al3raQe.just4me
 Version: 1.0.1
-Section: Theme
+Section: Theme - SnowBoard
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects, com.spark.snowboard (>= 1.2.100)
