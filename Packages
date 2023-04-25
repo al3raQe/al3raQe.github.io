@@ -48,23 +48,6 @@ Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: In-app Purchase is a generic in-app purchase . اداة وهمية للشراء من داخل التطبيقات
 
-Package: com.al3raQe.just4me
-Version: 1.0.1
-Section: Theme
-Architecture: iphoneos-arm
-Maintainer: ALSHIMMARY
-Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
-Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
-Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
-Size: 4598860
-MD5: a1c7e74e42527deecd06eb8f03d08a1d
-SHA1: 191e7087496faaa9e490750823118599e31ea3dc
-SHA256: e7f8dfbde7cdbfaa58cd0baa9a67288be5f125da70652593638076365bf9a1ac
-Name: Just 4 Me
-Author: al3raQe
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: ثيم دائري جميل مع انعكاس الزجاج
-
 Package: me.ahmedbafkir.dleasy
 Version: 2.13.4
 Section: Tweaks
@@ -100,61 +83,6 @@ SHA256: c473c04d477cb84555ff6e0ce6520c03b59f13adc9befe7c7d28c5390f219076
 Name: IconTweak
 Author: al3raQe
 Description: ISwipe icons to show control menu and more!.
-
-Package: com.al3raQe.snowboard.masks
-Version: 1.2.0
-Section: SnowBoard Extensions
-Architecture: iphoneos-arm
-Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
-Filename: ./debs/com.al3raQe.snowboard.masks_1.2.0_iphoneos-arm.deb
-Size: 40074
-Priority: optional
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-MD5: 007360de83e157453d5114983b60028c
-SHA1: 46ebedc309da9a6277dae988fd6fadf078012ad3
-SHA256: fe9de61f139531238ce65594214315b2cd325fd5e85e96a356b7a8bf84b17136
-Name: SnowBoard Icon Masks Extension
-Author: al3raQe
-Description: Icon masks for SnowBoard.
-
-Package: com.al3raQe.snowboard.effects
-Version: 1.2.0
-Section: SnowBoard Extensions
-Architecture: iphoneos-arm
-Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
-Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
-Filename: ./debs/com.al3raQe.snowboard.effects_1.2.0_iphoneos-arm.deb
-Size: 75466
-Priority: optional
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-MD5: 58d49ab7893384b837225837ac3ee813
-SHA1: 7edeeedf3dc104e4f1ad73b9d5afe4dd33eec63d
-SHA256: 2f827853892d44060312a8c44e8eed11d86ad75fb35322141267dd39592fae61
-Name: SnowBoard Icon Effects Extension
-Author: al3raQe
-Description: Icon Effects for SnowBoard.
-
-Package: com.spark.snowboard
-Version: 1.5.11-Beta3
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Depiction: https://www.sparkdev.me/package/com.spark.snowboard
-Filename: ./debs/com.spark.snowboard.1.5.9-Beta3-rootless.deb
-Size: 1129868
-Priority: optional
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-MD5: 1cfa9a99ed81fdc489ce08800c86918f
-SHA1: 8ea8f4e6d22b5b55820aac28b159c1404d71c6fe
-SHA256: b03e8ce64c3092e6607ab719034276a1867f2259b9604913a4ed960a211c940a
-Name: SnowBoard
-Author: al3raQe
-Description: Snowboard theming engine.
 
 Package: com.exile90.icleanerpro
 Version: 7.10.0
@@ -231,23 +159,6 @@ Name: Atria
 Author: al3raQe
 Description: Atria brings a dynamic homescreen layout configuration system for iOS users.
 
-Package: com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
-Version: 1.87.1
-Section: Theme
-Architecture: iphoneos-arm
-Maintainer: ALSHIMMARY	
-Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects	
-Filename: ./debs/com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
-Size: 5282458	
-MD5sum: 46ef65843b870fc8c3b7db51eba1b83f
-SHA1: f6e93c2dff8d9c99224abfba950638811fff8e6d
-SHA256: 2be14e6dfdc46ad19e8d3cee4c9f8daf99ac58fc40cf89774f031b6d7ee68e7e
-Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: ثيم شباك طولي جميل مع انعكاس الزجاج
-Author: al3raQe
-Name: IQ-xXx-IQ
-
 Package: com.lema.wolf
 Version: 2.1
 Section: Tweaks
@@ -265,3 +176,89 @@ SHA256: 2f77186a3fc5c87fc1f1736b5fb20f339a38a4e5fee4b042f58e2f67a971dbf1
 Name: Wolf
 Author: al3raQe
 Description: Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.
+
+Package: com.spark.snowboard
+Version: 1.5.11-Beta3
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, preferenceloader
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+Filename: ./debs/com.spark.snowboard.1.5.9-Beta3-rootless.deb
+Size: 1129868
+Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5: 1cfa9a99ed81fdc489ce08800c86918f
+SHA1: 8ea8f4e6d22b5b55820aac28b159c1404d71c6fe
+SHA256: b03e8ce64c3092e6607ab719034276a1867f2259b9604913a4ed960a211c940a
+Name: SnowBoard
+Author: al3raQe
+Description: Snowboard theming engine.
+
+Package: com.al3raQe.snowboard.effects
+Version: 1.2.0
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
+Filename: ./debs/com.al3raQe.snowboard.effects_1.2.0_iphoneos-arm.deb
+Size: 75466
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5: 58d49ab7893384b837225837ac3ee813
+SHA1: 7edeeedf3dc104e4f1ad73b9d5afe4dd33eec63d
+SHA256: 2f827853892d44060312a8c44e8eed11d86ad75fb35322141267dd39592fae61
+Name: SnowBoard Icon Effects Extension
+Author: al3raQe
+Description: Icon Effects for SnowBoard.
+
+Package: com.al3raQe.snowboard.masks
+Version: 1.2.0
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
+Filename: ./debs/com.al3raQe.snowboard.masks_1.2.0_iphoneos-arm.deb
+Size: 40074
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5: 007360de83e157453d5114983b60028c
+SHA1: 46ebedc309da9a6277dae988fd6fadf078012ad3
+SHA256: fe9de61f139531238ce65594214315b2cd325fd5e85e96a356b7a8bf84b17136
+Name: SnowBoard Icon Masks Extension
+Author: al3raQe
+Description: Icon masks for SnowBoard.
+
+Package: com.al3raQe.IQ-xXx-IQ
+Version: 1.87.1
+Section: Theme
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY	
+Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
+Filename: ./debs/com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
+Size: 5282458	
+MD5sum: 46ef65843b870fc8c3b7db51eba1b83f
+SHA1: f6e93c2dff8d9c99224abfba950638811fff8e6d
+SHA256: 2be14e6dfdc46ad19e8d3cee4c9f8daf99ac58fc40cf89774f031b6d7ee68e7e
+Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: ثيم شباك طولي جميل مع انعكاس الزجاج
+Author: al3raQe
+Name: IQ-xXx-IQ
+
+Package: com.al3raQe.just4me
+Version: 1.0.1
+Section: Theme
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
+Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
+Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
+Size: 4598860
+MD5: a1c7e74e42527deecd06eb8f03d08a1d
+SHA1: 191e7087496faaa9e490750823118599e31ea3dc
+SHA256: e7f8dfbde7cdbfaa58cd0baa9a67288be5f125da70652593638076365bf9a1ac
+Name: Just 4 Me
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: ثيم دائري جميل مع انعكاس الزجاج
