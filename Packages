@@ -237,7 +237,7 @@ Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects	
-Filename: ./debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm.deb	
+Filename: ./debs/com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
 Size: 5282458	
 MD5sum: 46ef65843b870fc8c3b7db51eba1b83f
 SHA1: f6e93c2dff8d9c99224abfba950638811fff8e6d
