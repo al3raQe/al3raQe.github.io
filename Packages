@@ -177,7 +177,7 @@ Name: Wolf
 Author: al3raQe
 Description: Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.
 
-Package: com.al3raQe.snowboard
+Package: com.spark.snowboard
 Version: 1.5.10
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm
