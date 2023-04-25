@@ -1,0 +1,55 @@
+
+-------------------------------------
+Package: com.spark.snowboard
+Version: 1.5.11-Beta3
+Section: Tweaks - SnowBoard
+Architecture: iphoneos-arm
+Maintainer: al3raQe - Spark
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+Filename: ./debs/com.spark.snowboard.1.5.9-Beta3-rootless.deb
+Size: 1129868
+Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5: 1cfa9a99ed81fdc489ce08800c86918f
+SHA1: 8ea8f4e6d22b5b55820aac28b159c1404d71c6fe
+SHA256: b03e8ce64c3092e6607ab719034276a1867f2259b9604913a4ed960a211c940a
+Name: SnowBoard
+Author: al3raQe Spark & Dennis D. Bednarz
+Description: Snowboard theming engine.
+
+Package: com.al3raQe.snowboard.effects
+Version: 1.2.0~Beta1
+Section: Tweaks - SnowBoard
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
+Filename: ./debs/com.al3raQe.snowboard.effects_1.2.0~Beta1_iphoneos-arm.deb
+Size: 75454
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5: 7b370b556cae83db9e21a7201e670104
+SHA1: 37d4b1311f689fd401bbe346919990dbc303e466
+SHA256: 114d78ee7e70440c7eaf4213e559147a4f8310b98cb6fec27c17f93c18b7524f
+Name: SnowBoard Icon Effects Extension
+Author: al3raQe
+Description: Icon Effects for SnowBoard.
+
+Package: com.al3raQe.snowboard.masks
+Version: 1.2.0~Beta1
+Section: Tweaks - SnowBoard
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
+Filename: ./debs/com.al3raQe.snowboard.masks_1.2.0~Beta1_iphoneos-arm.deb
+Size: 40062
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5: b51fbbb0fe48f090bb014411ef7de6d9
+SHA1: df4296aa48d07d567bdbc1a991cf2560cedf36ad
+SHA256: 81aca8c22f92b84e10382993a74dc1f240fa64c4771fac3c5a19abfe9ccb5155
+Name: SnowBoard Icon Masks Extension
+Author: al3raQe
+Description: Icon masks for SnowBoard.
+-----------------------------
