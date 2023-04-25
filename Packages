@@ -1,3 +1,19 @@
+Package: com.al3raQe.FilzaCrack
+Version: 2.0.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: firmware (>= 12.2)
+Filename: ./debs/com.al3raQe.FilzaCrack_1.0.4_iphoneos-arm.deb
+Size: 32088
+MD5: 3bfea8b5957e235a65c059c720e139012
+SHA1: 4bcfdef7f747820410b74d25e9543bfbef6a6149e
+SHA256: 9f249e7444141f04d5df29e9f0ace3e1df87caee4cc9b14ae984c6a598351658
+Name: Filza Crack 
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Filza and AppsManager activation for free
+
 Package: com.al3raQe.SettingsCustomize
 Version: 2.0.2
 Section: Tweaks
