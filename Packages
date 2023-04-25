@@ -1,18 +1,18 @@
-Package: com.al3raQe.settingsCustomize
+Package: com.al3raQe.SettingsCustomize
 Version: 2.0.2
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Filename: ./debs/com.al3raQe.settingsCustomize_2.0.2_iphoneos-arm.deb
-Size: 108182
-MD5: bef0edda0ea9d6305f2b5ca2931c9640
-SHA1: 51761311bf35eb2177f13b57266865d7180b4cd6
-SHA256: 921dba9aea7f9569e6714d72bf5e588af37df5cd6b961f5b7dbcda30ea4d2187c
+Filename: ./debs/com.al3raQe.SettingsCustomize_2.0.2_iphoneos-arm.deb
+Size: 108188
+MD5: 92c263d6caa8d52564e03ac2863d05d1
+SHA1: fa79281fe5067787561d919923996953a41812e6
+SHA256: 4bc3388f6ad8aaef6f92917dd9cf484bc37c7354887168d1a6f7c4027007f3c0
 Name: SettingsCustomize
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Customize the ios settings page. 
+Description: Customize settings page. 
 
 Package: com.al3raQe.In-app.Purchase
 Version: 1.87.1
