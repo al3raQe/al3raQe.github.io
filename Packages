@@ -199,7 +199,7 @@ Version: 1.2.0
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.5.10)
+Depends: mobilesubstrate, com.spark.snowboard 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
 Filename: ./debs/com.al3raQe.snowboard.effects_1.2.0_iphoneos-arm.deb
 Size: 75466
@@ -216,7 +216,7 @@ Version: 1.2.0
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, com.al3raQe.snowboard (>= 1.5.10)
+Depends: mobilesubstrate, com.al3raQe.snowboard 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
 Filename: ./debs/com.al3raQe.snowboard.masks_1.2.0_iphoneos-arm.deb
 Size: 40074
@@ -235,10 +235,10 @@ Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends: com.al3raQe.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
 Filename: ./debs/com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
-Size: 5282458	
-MD5sum: 46ef65843b870fc8c3b7db51eba1b83f
-SHA1: f6e93c2dff8d9c99224abfba950638811fff8e6d
-SHA256: 2be14e6dfdc46ad19e8d3cee4c9f8daf99ac58fc40cf89774f031b6d7ee68e7e
+Size: 5282416	
+MD5sum: f2ae6bb1232bf0a69ceb40285d4841ea
+SHA1: b93052c8375a23ec74806dc83fd0020967118dd0
+SHA256: 2e200e69d027c7f170bdb3091337c4c3e308fe5f3a8f4df291d6b52ec290e8f1
 Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم شباك طولي جميل مع انعكاس الزجاج
@@ -253,10 +253,10 @@ Maintainer: ALSHIMMARY
 Depends: com.al3raQe.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
 Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
 Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
-Size: 4598860
-MD5: a1c7e74e42527deecd06eb8f03d08a1d
-SHA1: 191e7087496faaa9e490750823118599e31ea3dc
-SHA256: e7f8dfbde7cdbfaa58cd0baa9a67288be5f125da70652593638076365bf9a1ac
+Size: 4598858
+MD5: 0cd73f04ffa3ad517315e74754c665d5
+SHA1: 20f6b841b9d49e469b51b177aa74832b14e8ea7c
+SHA256: 20ad34805e675e024b57297a2970854482c3f2be7aa002e8fce195e138ff2449
 Name: Just 4 Me
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
