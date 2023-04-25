@@ -233,7 +233,7 @@ Version: 1.87.1
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
-Depends: com.al3raQe.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
+Depends: com.al3raQe.snowboard
 Filename: ./debs/com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
 Size: 5282416	
 MD5sum: f2ae6bb1232bf0a69ceb40285d4841ea
@@ -250,7 +250,7 @@ Version: 1.0.1
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: com.al3raQe.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
+Depends: com.al3raQe.snowboard
 Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
 Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
 Size: 4598858
