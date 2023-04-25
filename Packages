@@ -16,10 +16,10 @@ Description: NoYTaDs & play in Background
 
 Package: com.al3raQe.FilzaCrack
 Version: 1.0.4
-Section: Cracks - Tweaks
+Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: firmware (= 12.2)
+Depends: firmware (>= 11.0)
 Filename: ./debs/com.al3raQe.FilzaCrack_1.0.4_iphoneos-arm.deb
 Size: 32088
 MD5: bfea8b5957e235a65c059c720e139012
@@ -48,7 +48,7 @@ Description: Customize settings page.
 
 Package: com.al3raQe.In-app.Purchase
 Version: 1.87.1
-Section Cracks - Tweaks
+Section Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, com.opa334.altlist
