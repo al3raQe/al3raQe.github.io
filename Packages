@@ -252,7 +252,7 @@ Version: 1.0.1
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
+Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
 Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
 Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
 Size: 4598860
