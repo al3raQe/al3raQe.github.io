@@ -179,7 +179,7 @@ Description: Wolf is an updated Facebook tweak with powerful features! You can a
 
 ackage: com.al3raQe.snowboard
 Version: 1.5.11-Beta3
-Section: Tweaks - SnowBoard
+Section: Tweaks 
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
