@@ -179,7 +179,7 @@ Description: Wolf is an updated Facebook tweak with powerful features! You can a
 
 Package: com.spark.snowboard
 Version: 1.5.11-Beta3
-Section: Tweaks
+Section: SnowBoard Extensions
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: mobilesubstrate, preferenceloader
