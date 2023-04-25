@@ -176,7 +176,7 @@ SHA256: 2f77186a3fc5c87fc1f1736b5fb20f339a38a4e5fee4b042f58e2f67a971dbf1
 Name: Wolf
 Author: al3raQe
 Description: Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.
-------------------------------
+
 ackage: com.spark.snowboard
 Version: 1.5.11-Beta3
 Section: Tweaks 
@@ -187,7 +187,7 @@ Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard
 Filename: ./debs/com.spark.snowboard_1.5.11-Beta3_iphoneos-arm.deb
-Size: 1539050
+Size: 1432650
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 MD5 8696d421904576aa8649532681fbf433
 SHA1 42e9cd510f127bd12aa96169f881ae18952cc11d
@@ -196,7 +196,7 @@ Name: SnowBoard
 Maintainer: al3raQe - Spark
 Author: al3raQe Spark & Dennis D. Bednarz
 Description: Snowboard theming engine.
---------------------------------------------------------
+
 Package: com.al3raQe.snowboard.effects
 Version: 1.2.0~Beta1
 Section: Tweaks - SnowBoard
