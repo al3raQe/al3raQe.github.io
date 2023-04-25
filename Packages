@@ -231,17 +231,17 @@ Name: Atria
 Author: al3raQe
 Description: Atria brings a dynamic homescreen layout configuration system for iOS users.
 
-Package: com.github.al3raQe.IQ-xXx-IQ
-Version: 1.87.0
+Package: com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
+Version: 1.87.1
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects	
 Filename: ./debs/com.github.al3raQe.IQ-xXx-IQ_1.87.0_iphoneos-arm.deb	
-Size: 5618426	
-MD5sum: cc9a3676b31735fa919ba7b513686ee0
-SHA1: 2d96485d157cc816357293571f1066ee4898353c
-SHA256: af26f845ca4e979bb9befce28964a1937f5fd57c732b6cf0ccffa4fb856c60e5
+Size: 5282458	
+MD5sum: 46ef65843b870fc8c3b7db51eba1b83f
+SHA1: f6e93c2dff8d9c99224abfba950638811fff8e6d
+SHA256: 2be14e6dfdc46ad19e8d3cee4c9f8daf99ac58fc40cf89774f031b6d7ee68e7e
 Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم شباك طولي جميل مع انعكاس الزجاج
