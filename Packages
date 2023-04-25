@@ -85,20 +85,20 @@ Name: IconTweak
 Author: al3raQe
 Description: ISwipe icons to show control menu and more!.
 
-Package: com.spark.snowboard.masks
-Version: 1.2.0~Beta1
+Package: com.al3raQe.snowboard.masks
+Version: 1.2.0
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
-Filename: ./debs/com.spark.snowboard.masks.deb
-Size: 361900
+Filename: ./debs/com.al3raQe.snowboard.masks_1.2.0_iphoneos-arm.deb
+Size: 40074
 Priority: optional
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-MD5: 8457d65d57e200f17a1502b061d95706
-SHA1: 1d4e2ef208a4faa067d3bb361aa45a0f23b970c6
-SHA256: 1fe76fc1ae026658d28d0e7d70c1314bdc5b1cd88729af3a6ef6eff7791737a7
+MD5: 007360de83e157453d5114983b60028c
+SHA1: 46ebedc309da9a6277dae988fd6fadf078012ad3
+SHA256: fe9de61f139531238ce65594214315b2cd325fd5e85e96a356b7a8bf84b17136
 Name: SnowBoard Icon Masks Extension
 Author: al3raQe
 Description: Icon masks for SnowBoard.
