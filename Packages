@@ -177,20 +177,19 @@ Name: Wolf
 Author: al3raQe
 Description: Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.
 
-Package: com.spark.snowboard
-Version: 1.5.11-Beta3
+Package: com.al3raQe.snowboard
+Version: 1.5.10
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: mobilesubstrate, preferenceloader
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard
-Filename: ./debs/com.spark.snowboard.1.5.9-Beta3-rootless.deb
-Size: 1129868
-Priority: optional
+Filename: ./debs/com.al3raQe.snowboard_1.5.10_iphoneos-arm.deb
+Size: 1186322
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-MD5: 1cfa9a99ed81fdc489ce08800c86918f
-SHA1: 8ea8f4e6d22b5b55820aac28b159c1404d71c6fe
-SHA256: b03e8ce64c3092e6607ab719034276a1867f2259b9604913a4ed960a211c940a
+MD5: 0191bffed67ad976d0de3ae87aef94ad
+SHA1: 5d02e594fb1b0a6f27f940a89b50f9a88023365d
+SHA256: 1be79c48468404b40adc71225c9edc67d9aa5bc1c622d0b05acf1ff75e6d9568
 Name: SnowBoard
 Author: al3raQe
 Description: Snowboard theming engine.
@@ -200,7 +199,7 @@ Version: 1.2.0
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.5.10)
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
 Filename: ./debs/com.al3raQe.snowboard.effects_1.2.0_iphoneos-arm.deb
 Size: 75466
@@ -217,7 +216,7 @@ Version: 1.2.0
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Depends: mobilesubstrate, com.al3raQe.snowboard (>= 1.5.10)
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
 Filename: ./debs/com.al3raQe.snowboard.masks_1.2.0_iphoneos-arm.deb
 Size: 40074
@@ -234,7 +233,7 @@ Version: 1.87.1
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
-Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
+Depends: com.al3raQe.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
 Filename: ./debs/com.al3raQe.IQ-xXx-IQ_1.87.1_iphoneos-arm.deb
 Size: 5282458	
 MD5sum: 46ef65843b870fc8c3b7db51eba1b83f
@@ -251,7 +250,7 @@ Version: 1.0.1
 Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
-Depends: com.spark.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
+Depends: com.al3raQe.snowboard, com.al3raQe.snowboard.masks, com.al3raQe.snowboard.effects
 Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
 Filename: ./debs/com.al3raQe.just4me_1.0.1_iphoneos-arm.deb
 Size: 4598860
