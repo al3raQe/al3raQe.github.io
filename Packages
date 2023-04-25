@@ -14,7 +14,7 @@ Author al3raQe
 Icon httpsal3raqe.github.iophotoal3raQee.png
 Description Filza and AppsManager activation for free
 
-Package: com.al3raQe.settingsCustomize
+Package: com.al3raQe.SettingsCustomize
 Version: 2.0.2
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -28,7 +28,7 @@ SHA256: 921dba9aea7f9569e6714d72bf5e588af37df5cd6b961f5b7dbcda30ea4d2187c
 Name: SettingsCustomize
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Customize the ios settings page. 
+Description: Customize settings page. 
 
 Package: com.al3raQe.In-app.Purchase
 Version: 1.87.1
