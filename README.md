@@ -31,7 +31,9 @@
 </p>
 
 ## <p align="center">al3raQe.github.io	
+<p align="center">
+<img src="./photo/PrivaterRpo.png" alt="cupcake" width="17%" />
+</p>	
+	
 
-### <p align="center">This repo is private
-### <p align="center">But u can use it
 
