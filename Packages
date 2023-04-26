@@ -1,3 +1,20 @@
+Package: com.al3raQe.IQ-Glass-QI
+Version: 1.0.1
+Section: Theme
+Architecture: iphoneos-arm
+Maintainer: al3raQe Repo
+Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
+Depiction: https://al3raqe.github.io/photo/IQ-Glass-QI.jpeg
+Filename: ./debs/com.al3raQe.IQ-Glass-QI_1.0.1_iphoneos-arm.deb
+Size: 64420
+MD5: bb865f3617c819b86e4cc0402c9a3b6c
+SHA1: 3d16449789b780b732aec07968c0d7d8a18e2f7a
+SHA256: 19b527cc1e456e2f6bdabdfa7a3bfc96a09127b21876ec7e29831a133bb89ffd
+Name: IQ-Glass-QI
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Great masks for your icons! ثيم انعكاس الزجاج
+
 Package:  com.al3raQe.YTnoAds
 Version: 1.0.1
 Section: Tweaks
@@ -250,7 +267,7 @@ Description: Wolf is an updated Facebook tweak with powerful features! You can a
 
 Package: com.github.al3raQe.IQ-xXx-IQ
 Version: 1.87.1
-Section: Theme - SnowBoard
+Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY	
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects	
@@ -267,7 +284,7 @@ Name: IQ-xXx-IQ
 
 Package: com.al3raQe.just4me
 Version: 1.0.1
-Section: Theme - SnowBoard
+Section: Theme
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
