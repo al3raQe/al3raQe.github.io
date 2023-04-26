@@ -1,3 +1,21 @@
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Section: Utilities
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Depiction: https://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1200460
+Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5sum: 6d52edf547d85ea5713e913d6293f3ba
+SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
+SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
+Name: iCleaner Pro - Rootless
+Author: al3raQe
+Description: The first real iOS system cleanup and management utility
+
 Package: org.thebigboss.whatsapprevael
 Version: 10.16-2
 Section: Tweaks
