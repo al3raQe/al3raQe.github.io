@@ -1,3 +1,19 @@
+Package:  com.al3raQe.YTnoAds
+Version: 1.0.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.al3raQe.YTnoAds_1.0.1_iphoneos-arm.deb
+Size: 4220
+MD5: 0e5ec59edae50e2b1b055fee09bf0851
+SHA1: b441604c8112d5573933a9b8531fe6fd6da8b16c
+SHA256: 6cbf149eff7304be8d95c4b2d53f25862bd06384ed0fa7867136cd364a067054
+Name: YTnoAds
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: YT Ads Free & play in Background
+
 Package: com.al3raQe.FilzaActivation
 Version: 1.0.1
 Section: Tweaks
