@@ -1,19 +1,3 @@
-Package: com.al3raQe.NoYTaDs
-Version: 1.0.1
-Section: Cracks - Tweaks
-Architecture: iphoneos-arm
-Maintainer: al3raQe Repo
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.al3raQe.NoYTaDs_1.0.1_iphoneos-arm.deb
-Size: 4188
-MD5: c9ceb2a0aa636963eb82fd0419ab8e02
-SHA1: 54F0164C8D1A937448433652F5E0B338E71261E3
-SHA256: e7ece065647d74b2d0d6f1d80af0aaa696bdaff7ebe3aa3c7698379a5e85e0f3
-Name: NoYTaDs 
-Author: al3raQe
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: NoYTaDs & play in Background
-
 Package: com.al3raQe.FilzaActivation
 Version: 1.0.1
 Section: Tweaks
