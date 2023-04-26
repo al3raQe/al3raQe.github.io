@@ -1,3 +1,21 @@
+Package: org.thebigboss.whatsapprevael
+Version: 10.16-2
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ALSHIMMARY
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader 
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
+Filename: ./debs/whatsapprevael_10.16-2.deb	
+Size: 1696722 
+Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5sum: ef37c077364ea24e8abb0be3c65cbe07
+SHA1: 5de555aabaf47372efac94de6e2e9a07f33046e1
+SHA256: ab52979d4c70118f5f612212c42edfbf8cc3701e7b58ac9650b7ef0cf6fe85ed
+Name: Whatsapp Revael
+Author: al3raQe
+Description: Many features of the WhatsApp application.
+
 Package: com.al3raQe.IQ-Glass-QI
 Version: 1.0.1
 Section: Theme
