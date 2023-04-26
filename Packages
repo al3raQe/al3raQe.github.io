@@ -191,19 +191,19 @@ Author: al3raQe
 Description: The first real iOS system cleanup and management utility
 
 Package: org.thebigboss.whatsapprevael
-Version: 10.14-1
+Version: 10.16-1
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: ALSHIMMARY
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader 
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsapprevaelDp
-Filename: ./debs/whatsapprevael_10.14-1.deb	
-Size: 1574320
+Filename: ./debs/whatsapprevael_10.16-1.deb	
+Size: 1583964 
 Priority: optional
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-MD5sum: 3992a82a0dad455c087caebf2b8af158
-SHA1: 8bf448297c17bb0090ac77e14253ef186731e871
-SHA256: 8b9156569229f3e72675f72c1ccf33e368366b454c2250a5e5df7aeb863205b1
+MD5sum: 61884764b89828c0dffcc5417daf8f52
+SHA1: 5e6e04cd77cfd24bde085a969a2f324ea829c271
+SHA256: 8c08e7e2ffc775375f092f5350e66bdb8684ac0bbe85808ccc4d0df9fc511e0ca
 Name: Whatsapp Revael
 Author: al3raQe
 Description: Many features of the WhatsApp application.
