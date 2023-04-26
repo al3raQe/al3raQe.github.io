@@ -32,7 +32,7 @@
 
 ## <p align="center">al3raQe.github.io	
 <p align="center">
-<img src="./photo/PrivaterRpo.png" alt="cupcake" width="17%" />
+<img src="./photo/PrivaterRpo.png" alt="cupcake" width="21%" />
 </p>	
 	
 
