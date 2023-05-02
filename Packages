@@ -107,7 +107,7 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Filename: ./debs/com.al3raQe.settingsCustomize_2.0.2_iphoneos-arm.deb
+Filename: ./debs/com.al3raQe.SettingsCustomize_2.0.2_iphoneos-arm.deb
 Size: 108182
 MD5: bef0edda0ea9d6305f2b5ca2931c9640
 SHA1: 51761311bf35eb2177f13b57266865d7180b4cd6
