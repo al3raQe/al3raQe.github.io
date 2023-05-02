@@ -1,3 +1,21 @@
+Package: com.al3raQe.icleanerprocrack
+Version: 1.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: iCleaner Pro Crack
+Filename: ./debs/com.al3raQe.iCleanerProCrack.deb
+Size: 5068 
+Priority: optional
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+MD5sum: 07bcfb4e6c5dc1617b57191f57799567
+SHA1: 5fa393a3e288d106152eaa7839ca33d06196f152
+SHA256: 6ab6ced28062135667290c7cac41f52c80c0ad5ab9e528a46b0c1ca11db2445f
+Name: iCleanerProCrack
+Author: al3raQe
+Description: iCleaner Pro Crack, Ads Free
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Section: Utilities
