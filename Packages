@@ -101,22 +101,6 @@ Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Filza and AppsManager activation for free
 
-Package: com.al3raQe.SettingsCustomize
-Version: 2.0.2
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: al3raQe Repo
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Filename: ./debs/com.al3raQe.SettingsCustomize_2.0.2_iphoneos-arm.deb
-Size: 108172
-MD5: 34b825a13bfb2f423558bc661b1e47a8
-SHA1: 49cd29a12a20993cc7560199d6aaa70eb44f603b
-SHA256: aeeedb813ed27c5bd657780dcbd61a483ef7ae3ffa0b4633a3357460647baf08
-Name: SettingsCustomize
-Author: al3raQe
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Customize settings page. 
-
 Package: com.al3raQe.In-app.Purchase
 Version: 1.87.1
 Section Tweaks
