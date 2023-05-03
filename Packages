@@ -12,7 +12,7 @@ SHA256: 2a256bf836ae57303ce7ef93e6e3c59424f91570318edd0b6f7c522106e6b13a
 Name: ColorCodedLogs
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Depiction: Color-coded recent MobilePhone app logs!
+Description: Color-coded recent MobilePhone app logs!
 
 Package: com.p2kdev.facebooknoads
 Version: 1.0
@@ -28,7 +28,7 @@ SHA256: 18e74db98c13968c37431b24a42b3543b0807264281661c646e34b77a2ba9569
 Name: FacebookNoAds
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Depiction: No Ads in the Twitter App!
+Description: No Ads in the Twitter App!
 
 Package: com.al3raQe.SettingsCustomize
 Version: 2.0.2
