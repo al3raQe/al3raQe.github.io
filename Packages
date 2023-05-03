@@ -1,7 +1,23 @@
+Package: com.p2kdev.colorcodedlogs
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, firmware (>= 13)
+Filename: ./debs/ColorCodedLogs_1.0_iphoneos-arm64.deb
+Size: 4730
+MD5: b999417eaaf295d3be199348fe33594a
+SHA1: 2440075f2a0f25891b46dfcc6022dd3d11655d29
+SHA256: 2a256bf836ae57303ce7ef93e6e3c59424f91570318edd0b6f7c522106e6b13a
+Name: ColorCodedLogs
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Depiction: Color-coded recent MobilePhone app logs!
+
 Package: com.p2kdev.facebooknoads
 Version: 1.0
 Section: Tweaks
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate
 Filename: ./debs/FacebookNoAds_1.0_iphoneos-arm.deb
@@ -17,7 +33,7 @@ Depiction: No Ads in the Twitter App!
 Package: com.al3raQe.SettingsCustomize
 Version: 2.0.2
 Section: Tweaks
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Filename: ./debs/com.al3raQe.SettingsCustomize_2.0.2_iphoneos-arm.deb
