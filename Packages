@@ -1,3 +1,20 @@
+Package: com.al3raQe.IQ-Glass-QI
+Version: 1.0.1
+Section: Theme
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: com.spark.snowboard
+Depiction: https://al3raqe.github.io/photo/IQ-Glass-QI.jpeg
+Filename: ./debs/com.al3raQe.IQ-Glass-QI_1.0.1_iphoneos-arm64.deb
+Size: 84112	
+MD5sum: b721c89b36f3e4d4a5866aaaac709d03
+SHA1: 9bcba68f25535af1db90d90940c80805b36e4d6a
+SHA256: 89b17b2b818618f6309f2b87e3a37501a540b520e1a542d8d10cecfc31dc6591
+Name: IQ-Glass-QI
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Great masks for your icons! ثيم انعكاس الزجاج
+
 Package: com.github.al3raQe.IQ-xXx-IQ
 Version: 1.87.1
 Section: Theme
@@ -31,23 +48,6 @@ Name: Just 4 Me
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم دائري جميل مع انعكاس الزجاج
-
-Package: com.github.al3raQe.IQ-xXx-IQ
-Version: 1.87.1
-Section: Theme
-Architecture: iphoneos-arm64
-Maintainer: al3raQe Repo	
-Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects	
-Filename: ./debs/com.al3raQe.IQ-Glass-QI_1.0.1_iphoneos-arm64.deb
-Size: 84112	
-MD5sum: b721c89b36f3e4d4a5866aaaac709d03
-SHA1: 9bcba68f25535af1db90d90940c80805b36e4d6a
-SHA256: 89b17b2b818618f6309f2b87e3a37501a540b520e1a542d8d10cecfc31dc6591
-Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: ثيم شباك طولي جميل مع انعكاس الزجاج
-Author: al3raQe
-Name: IQ-xXx-IQ
 
 Package: com.p2kdev.colorcodedlogs
 Version: 1.0
