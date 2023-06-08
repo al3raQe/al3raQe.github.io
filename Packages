@@ -1,28 +1,11 @@
-----------------------------------------------------------
-Package: 
-Version: 1.0
-Section: Tweaks
-Architecture: iphoneos-arm64
-Maintainer: al3raQe Repo
-Depends: 
-Filename: ./Debians/
-Size: 
-MD5: 
-SHA1: 
-SHA256: 
-Name: 
-Author: al3raQe
-Icon: https://al3raqe.github.io/Photo/al3raQee.png
-Description: 
----------------------------------------------------------
-
 Package: com.al3raQe.IQ-Glass-QI
 Version: 1.0.1
 Section: Theme
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: com.spark.snowboard
-Depiction: https://al3raqe.github.io/Depictions/IQ-Glass-QI.html
+Depiction: https://al3raqe.github.io/Depictions/IQ-Glass-QI.json
+Sileodepiction: https://al3raqe.github.io/Depictions/IQ-Glass-QI.json
 Filename: ./Debians/com.al3raQe.IQ-Glass-QI_1.0.1_iphoneos-arm64.deb
 Size: 84112	
 MD5sum: b721c89b36f3e4d4a5866aaaac709d03
@@ -32,8 +15,6 @@ Name: IQ-Glass-QI
 Author: al3raQe
 Icon: https://al3raqe.github.io/Photo/al3raQee.png
 Description: Great masks for your icons! ثيم انعكاس الزجاج
-Sileodepiction: https://al3raqe.github.io/Depictions/IQ-Glass-QI.json
-
 
 Package: com.github.al3raQe.IQ-xXx-IQ
 Version: 1.87.1
@@ -51,7 +32,6 @@ Icon: https://al3raqe.github.io/Photo/al3raQee.png
 Description: ثيم شباك طولي جميل مع انعكاس الزجاج
 Author: al3raQe
 Name: IQ-xXx-IQ
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/advancedmapenabler.json
 
 Package: com.al3raQe.just4me
 Version: 1.0.1
