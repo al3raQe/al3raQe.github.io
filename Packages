@@ -22,7 +22,7 @@ Section: Theme
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: com.spark.snowboard
-Depiction: https://al3raqe.github.io/Photo/IQ-Glass-QI.jpeg
+Depiction: https://al3raqe.github.io/Depictions/IQ-Glass-QI.html
 Filename: ./Debians/com.al3raQe.IQ-Glass-QI_1.0.1_iphoneos-arm64.deb
 Size: 84112	
 MD5sum: b721c89b36f3e4d4a5866aaaac709d03
