@@ -12,7 +12,7 @@ SHA1: 9bcba68f25535af1db90d90940c80805b36e4d6a
 SHA256: 89b17b2b818618f6309f2b87e3a37501a540b520e1a542d8d10cecfc31dc6591
 Name: IQ-Glass-QI
 Author: al3raQe
-Icon: https://al3raqe.github.io/Photo/al3raQee.png
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Great masks for your icons! ثيم انعكاس الزجاج
 
 Package: com.github.al3raQe.IQ-xXx-IQ
@@ -27,7 +27,7 @@ MD5sum: fe558efae4ffe20d65bb7c6cd7d5ad45
 SHA1: 45276522F643679670CB6EBDFE39A7E4C3D38A88
 SHA256: f0c33c3c2a2488a8d3cc064a40230bda2a4a081acf2711a29d2cf5e3e23c9f26
 Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
-Icon: https://al3raqe.github.io/Photo/al3raQee.png
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم شباك طولي جميل مع انعكاس الزجاج
 Author: al3raQe
 Name: IQ-xXx-IQ
@@ -38,7 +38,7 @@ Section: Theme
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: com.spark.snowboard
-Depiction: https://al3raqe.github.io/Photo/Just4Me.jpg
+Depiction: https://al3raqe.github.io/photo/Just4Me.jpg
 Filename: ./Debians/com.al3raQe.just4me_1.0.1_iphoneos-arm64.deb
 Size: 4598852
 MD5: 23778e8b56dd1f34dbbd5404e3b9fae0
@@ -46,7 +46,7 @@ SHA1: fc1b166e7a7ba2688a94ce73f56d2e4eec2686a3
 SHA256: 8297fe4cee73b251f56c748f04e53a7a3aee26b0e4b706ee717041b68cfe03f5
 Name: Just 4 Me
 Author: al3raQe
-Icon: https://al3raqe.github.io/Photo/al3raQee.png
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: ثيم دائري جميل مع انعكاس الزجاج
 
 Package: com.p2kdev.colorcodedlogs
