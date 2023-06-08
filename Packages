@@ -1,3 +1,37 @@
+Package: com.al3raQe.libhdev
+Version: 4.8.1
+Section: tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Depiction: This is a developer library for better preferences and useful utilities.
+Filename: ./Debians/com.al3raQe.libhdev_4.8.1_iphoneos-arm64.deb
+Size: 47952	
+MD5sum: 6f5b8cb57d74e40a4dc0f0f9cd190cbf
+SHA1: 358cad2982d9748e88b606841ffa520215beb046
+SHA256: 47b6e450dee0f45d26b5d5702e9976a641e79e54a165a9154160f6415b3e5670
+Name: libhdev
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Facebook Video Download & Remove Ads.
+
+Package: com.al3raQe.FacebookVideoDownload
+Version: 1.87.1
+Section: tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, preferenceloader, com.al3raQe.libhdev (>= 4.8.1), firmware (>= 12)
+Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
+Filename: ./Debians/com.al3raQe.FacebookVideoDownload_1.87.1_iphoneos-arm64.deb
+Size: 16144	
+MD5sum: 02357864d28cb880ebb7a17d53884454
+SHA1: 8242e91a4e5add04b6d5ba14f271f208b58c5a3f
+SHA256: 0a67ff1a0877dc9c961a4c511b45ca1f456d6e4e6b634218a19b467bf0d1ab02
+Name: Facebook Video Download
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Facebook Video Download & Remove Ads.
+
 Package: com.al3raQe.IQ-Glass-QI
 Version: 1.0.1
 Section: Theme
