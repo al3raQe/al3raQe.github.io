@@ -38,7 +38,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
-Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
+Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings. https://al3raqe.github.io/photo/FB-Download.jpg
 Filename: ./debs/FacebookVideoDownload.deb
 Size: 16128
 MD5: fd19ffaecf55e0984144e89f2a205ca7
