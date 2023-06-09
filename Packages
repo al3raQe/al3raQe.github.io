@@ -37,7 +37,7 @@ Version: 1.87.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: mobilesubstrate, emt.paisseon.xinamine, preferenceloader, firmware (>= 12)
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
 Filename: ./debs/FacebookVideoDownload.deb
 Size: 16128
