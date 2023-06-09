@@ -16,7 +16,7 @@ Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Great masks for your icons! ثيم انعكاس الزجاج
 
 Package: com.haoict.libhdev
-Version: 4.8..1
+Version: 4.8.1
 Section: System
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
@@ -65,3 +65,20 @@ Name: TikTok Dark
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Download video without watermark, Remove Ads, Auto play next video, Hide all text on screen.. & more
+
+Package: com.al3raqe.ytnoads
+Version: 1.0.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: YouTube No Ads & play in Background
+Filename: ./debs/YTnoAds.deb
+Size: 4216
+MD5: 124e46461e75250b69207a62f075ee63
+SHA1: f4c6366d08f18b00f938469966d47b8dd1794c40
+SHA256: 4266aeb68cb37578d8e975412c928c1389114c19145b85f1f4f2adfc62a325d6
+Name: YouTube No Ads
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: YouTube No Ads & play in Background
