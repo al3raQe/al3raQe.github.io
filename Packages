@@ -31,3 +31,20 @@ Name: libhdev
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: This is a developer library for better preferences and useful utilities.
+
+Package: com.al3raQe.FacebookVideoDownload
+Version: 1.87.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, emt.paisseon.xinamine, preferenceloader, firmware (>= 12)
+Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
+Filename: ./debs/FacebookVideoDownload.deb
+Size: 16128
+MD5: fd19ffaecf55e0984144e89f2a205ca7
+SHA1: fdaa316cb1b2d03e40cf2b8671b03d7f2dfe20e2
+SHA256: 6d5910721015f40a7f88c8a5cdf7dbb1013a54a7a36fdefa7e879b9395aef292
+Name: Facebook Video Download
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
