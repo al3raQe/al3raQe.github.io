@@ -1,6 +1,6 @@
 rm ./Packages
 dpkg-scanpackages -m . /dev/null >Packages
-#./dpkg-scanpackages debs / > Packages
+#./dpkg-scanpackages Debian / > Packages
 rm ./Packages.bz2
 bzip2 -fks Packages
 
