@@ -14,3 +14,20 @@ Name: IQ-Glass-QI
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Great masks for your icons! ثيم انعكاس الزجاج
+
+Package: com.haoict.libhdev
+Version: 4.8..1
+Section: System
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Depiction: This is a developer library for better preferences and useful utilities.
+Filename: ./debs/libhdev.deb
+Size: 46048
+MD5: 17ed90621b7734baf838544aec518e13
+SHA1: 2094b66ececd03ce980905b9c85d6ed6e2b539ba
+SHA256: 7bfe3e8dd80d531f50ec63cf703a91c7be61de3a1b898d599d10ef3c7d7a075a
+Name: libhdev
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: This is a developer library for better preferences and useful utilities.
