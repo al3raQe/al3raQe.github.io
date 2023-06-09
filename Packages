@@ -48,3 +48,20 @@ Name: Facebook Video Download
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
+
+Package: com.al3raQe.TiktokDark
+Version: 1.87.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Depiction: Download video without watermark, Remove Ads, Auto play next video, Hide all text on screen.. & more
+Filename: ./debs/TikTokDark.deb
+Size: 83220
+MD5: 2b171b4f25a2aa058d0a6f51aed59522
+SHA1: cb6ac5cb1ce26b7e9feb6ebd32bf93e60cd54430
+SHA256: bf1b5cd704fdb63e6f7dbf0d3dffb27e3ed9b6541dddcff6e6ecdafc8b1c52ef
+Name: TikTok Dark
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Download video without watermark, Remove Ads, Auto play next video, Hide all text on screen.. & more
