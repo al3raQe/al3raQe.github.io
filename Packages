@@ -82,3 +82,20 @@ Name: YouTube No Ads
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: YouTube No Ads & play in Background
+
+Package: emt.paisseon.xinamine
+Version: 0.0.5
+Section: System
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Depiction: Add Xina tweak compatibility to Dopamine.
+Filename: ./debs/emt.Paisseon.Xinamine.deb
+Size: 70006
+MD5: c2db8dbf400224e37038a8145c5c621f
+SHA1: 6cd3a6878aa97ffd7efa7e0201be3bbe5d508c54
+SHA256: 1fd5d2ade700dba547de7cb3248cc7bf1f980e32ddb2017d3defa19572c4d6ab
+Name: Xinamine
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Add Xina tweak compatibility to Dopamine.
