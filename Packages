@@ -55,8 +55,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
-Depiction: https://al3raqe.github.io/photo/FB-Download.jpg     Facebook Video Download <long press> & Remove Ads. No Customization Settings.
-Filename: ./debs/FacebookVideoDownload.deb
+Depiction: https://al3raqe.github.io/photo/FB-Download.jpg 
 Size: 16128
 MD5: fd19ffaecf55e0984144e89f2a205ca7
 SHA1: fdaa316cb1b2d03e40cf2b8671b03d7f2dfe20e2
@@ -145,7 +144,25 @@ MD5sum: a8538bcd637b464b34cad61ccad76d7e
 SHA1: a11a81340c886ee24b6d6653b8155610e4cd3837
 SHA256: 310cb450e7e585f03749a100e8261f885692df27aaf5ebf93fbecb373eaf81b7
 Section: Tweaks
-Description: An awesome Jinx tweak!
+Description: Filza Crack An awesome Jinx tweak!
+Depiction: Filza Crack An awesome Jinx tweak!
 Author: al3raQe
-Icon: https://al3raqe.github.io/photo/al3raQee.png
-Name: FilzaCrack
+Icon: https://al3raQe.github.io/photo/al3raQee.png
+Name: Filza Crack
+
+Package: com.al3raQe.iCleanerProCrack
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iCleanerProCrack.deb
+Size: 4800
+MD5sum: bade05152e9cde6aec8c62ec6f026105
+SHA1: 3197c0453650105f0820a3c2b25c727a9f9612dd
+SHA256: 73034edb655d50536274f554760cdba149f82efc96029a652dd768cb27444955
+Section: Tweaks
+Description: iCleaner Pro Crack, An awesome  tweak!
+Depiction: iCleaner Pro Crack, An awesome  tweak!
+Author: al3raQe
+Icon: https://al3raQe.github.io/photo/al3raQee.png
+Name: iCleaner Pro Crack
