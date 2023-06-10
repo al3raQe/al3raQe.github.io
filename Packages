@@ -49,18 +49,19 @@ Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: This is a developer library for better preferences and useful utilities.
 
-Package: com.al3raQe.FacebookVideoDownload
+Package: com.al3raqe.fbvd
 Version: 1.87.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
-Depiction: https://al3raqe.github.io/photo/FB-Download.jpg 
-Size: 16128
-MD5: fd19ffaecf55e0984144e89f2a205ca7
-SHA1: fdaa316cb1b2d03e40cf2b8671b03d7f2dfe20e2
-SHA256: 6d5910721015f40a7f88c8a5cdf7dbb1013a54a7a36fdefa7e879b9395aef292
-Name: Facebook Video Download
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.8.1), firmware (>= 15)
+Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
+Filename: debs/com.al3raqe.fbvd.deb
+Size: 253868
+MD5: 0a6f9ad3d1f71ffaf6cd97936b02543f
+SHA1: 5333d50c85bba98ac73bafb7db838f2bb78d8c11
+SHA256: 2b9f09f965b3d5f0efee0138ba6688518be5e6b4dfd7cb3bba7e4871362c4a67
+Name: Facebook Video Download 
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
