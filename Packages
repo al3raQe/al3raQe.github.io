@@ -55,7 +55,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
-Depiction: Download video without watermark, Remove Ads, Auto play next video, Hide all text on screen.. & more
+Depiction: https://al3raqe.github.io/Depictions/TikTokDark.html
 Filename: ./debs/TikTokDark.deb
 Size: 83220
 MD5: 2b171b4f25a2aa058d0a6f51aed59522
