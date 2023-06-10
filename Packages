@@ -15,6 +15,23 @@ Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Great masks for your icons! ثيم انعكاس الزجاج
 
+Package: com.github.al3raQe.IQ-xXx-IQ
+Version: 1.87.1
+Section: Theme
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
+Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
+Filename: ./debs/com.al3raQe.IQ-xXx-IQ.deb
+Size: 5330446
+MD5: fe558efae4ffe20d65bb7c6cd7d5ad45
+SHA1: 45276522f643679670cb6ebdfe39a7e4c3d38a88
+SHA256: f0c33c3c2a2488a8d3cc064a40230bda2a4a081acf2711a29d2cf5e3e23c9f26
+Name: IQ-xXx-IQ
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Great masks for your icons! ثيم شباك طولي مع انعكاس الزجاج
+
 Package: com.haoict.libhdev
 Version: 4.8.1
 Section: System
