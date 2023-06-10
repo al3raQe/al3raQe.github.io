@@ -172,11 +172,10 @@ Version: 1.3.3-7
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.2-2)
-Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.2-2)
 Depiction: A proper homescreen layout editor for iOS 13-15 Unofficial rootless
 Filename: debs/me.lau.atria.deb
-Size: 16548
+Size: 165476
 MD5: 9e2aebba9530fd7a246fb06956e46657
 SHA1: 07f5188db0754a6b400cf372e68914ff330d32dc
 SHA256: c792c5fb6e6b20fe1e8c1ee40cf081a2d81c326f12e259bbf1bb488927648f89
