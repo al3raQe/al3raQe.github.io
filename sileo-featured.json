@@ -7,14 +7,14 @@
         "url": "https://al3raqe.github.io/photo/TikTokDark1.jpg",
         "title": "TikTokDark",
         "package": "com.al3raQe.TiktokDark",
-        "hideShadow": false
+        "hideShadow": true
     },
 	{
-		"url": "https://al3raqe.github.io/photo/FB-Download.jpg",
-		"title": "FB-V-D",
-		"package": "com.al3raQe.FacebookVideoDownload",
-		"hideShadow": false
-	},
+	"url": "https://al3raqe.github.io/photo/FB-Download.jpg",
+	"title": "FB-V-D",
+	"package": "com.al3raQe.FacebookVideoDownload",
+	"hideShadow": false
+    },
     {
         "url": "https://al3raqe.github.io/photo/IQ-Glass-QI.jpg",
         "title": "IQ-Glass-QI",
