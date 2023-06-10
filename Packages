@@ -112,8 +112,23 @@ SHA1: b1a2a6e9c10ac9cfb62c31a6bfccff90e96111f7
 SHA256: cadbe4d4bf8e4e9317d450792e0cf1548c288b9016dee3241e72ee4bdeedd20d
 Section: Tweaks 
 Description: Modern in-app Purchase 
-Name: Xinamine
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Depiction: Modern in-app Purchase 
 Name: Satella
+
+Package: lilliana.filzacrack
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/FilzaCrack.deb
+Size: 22286
+MD5sum: a8538bcd637b464b34cad61ccad76d7e
+SHA1: a11a81340c886ee24b6d6653b8155610e4cd3837
+SHA256: 310cb450e7e585f03749a100e8261f885692df27aaf5ebf93fbecb373eaf81b7
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Name: FilzaCrack
