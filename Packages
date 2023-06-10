@@ -4,7 +4,7 @@ Section: Theme
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
-Depiction: https://al3raqe.github.io/photo/IQ-Glass-QI.jpeg
+Depiction: https://al3raqe.github.io/photo/IQ-Glass-QI.jpg
 Filename: ./debs/com.al3raQe.IQ-Glass-QI.deb
 Size: 84112
 MD5: b721c89b36f3e4d4a5866aaaac709d03
