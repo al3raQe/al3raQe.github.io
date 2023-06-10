@@ -170,17 +170,17 @@ Description: A proper homescreen layout editor for iOS 13-15 Unofficial rootless
 
 Package: emt.paisseon.xinamine
 Version: 0.0.5
-Section: System
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: ellekit, firmware (>= 15.0)
-Depiction: Add Xina tweak compatibility to Dopamine.
-Filename: ./debs/debs/xinamine.deb
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
 Size: 70006
-MD5: c2db8dbf400224e37038a8145c5c621f
-SHA1: 6cd3a6878aa97ffd7efa7e0201be3bbe5d508c54
-SHA256: 1fd5d2ade700dba547de7cb3248cc7bf1f980e32ddb2017d3defa19572c4d6ab
-Name: Xinamine
+MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
+SHA1: cca516b753396474b40a2d686795801a528a107a
+SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
 Author: al3raQe
+Depiction: Add Xina tweak compatibility to Dopamine.
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Add Xina tweak compatibility to Dopamine.
+Name: Xinamine
