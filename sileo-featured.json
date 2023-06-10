@@ -5,26 +5,26 @@
   "banners": [
     {
         "url": "https://al3raqe.github.io/photo/TikTokDark1.jpg",
-        "title": "Satella",
-        "package": "emt.paisseon.satella",
+        "title": "TikTokDark",
+        "package": "com.al3raQe.TiktokDark",
         "hideShadow": false
     },
 	{
 		"url": "https://al3raqe.github.io/photo/FB-Download.jpg",
-		"title": "Reverie",
-		"package": "lilliana.reverie",
+		"title": "FB-V-D",
+		"package": "com.al3raQe.FacebookVideoDownload",
 		"hideShadow": false
 	},
     {
         "url": "https://al3raqe.github.io/photo/IQ-Glass-QI.jpg",
-        "title": "Erika",
-        "package": "emt.paisseon.erika",
+        "title": "IQ-Glass-QI",
+        "package": "com.al3raQe.IQ-Glass-QI",
         "hideShadow": false
     },
     {
         "url": "https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg",
-        "title": "Ishtar",
-        "package": "lilliana.ishtar",
+        "title": "IQ-xXx-IQ",
+        "package": "com.github.al3raQe.IQ-xXx-IQ",
         "hideShadow": false
     }
   ]
