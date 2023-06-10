@@ -5,13 +5,13 @@
   "banners": [
     {
         "url": "https://al3raqe.github.io/photo/TikTokDark1.jpg",
-        "title": "FB-V-Down",
+        "title": "TikTokDark",
         "package": "com.al3raQe.TiktokDark",
         "hideShadow": false
     },
 	{
 		"url": "https://al3raqe.github.io/photo/FB-Download.jpg",
-		"title": "Reverie",
+		"title": "FB-V-D",
 		"package": "com.al3raQe.FacebookVideoDownload",
 		"hideShadow": false
 	},
