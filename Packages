@@ -54,7 +54,7 @@ Version: 1.87.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15)
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 15)
 Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
 Filename: debs/com.al3raqe.fbvd.deb
 Size: 253868
@@ -182,7 +182,7 @@ SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
 Section: System
 Description: Add Xina tweak compatibility to Dopamine
 Author: Sudo + Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
+Depiction: Add Xina tweak compatibility to Dopamine
+Icon: https://al3raqe.github.io/photo/al3raQee.png
 Name: Xinamine
-Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
