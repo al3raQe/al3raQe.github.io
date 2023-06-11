@@ -6,7 +6,7 @@
     {
 		"url": "https://al3raqe.github.io/photo/TikTokDark1.jpg",
 		"title": "TikTokDark",
-		"package": "com.al3raQe.TiktokDark",
+		"package": "./com.al3raQe.TiktokDark",
 		"hideShadow": false
     },
 	{
@@ -18,13 +18,13 @@
     {
 		"url": "https://al3raqe.github.io/photo/IQ-Glass-QI.jpg",
 		"title": "IQ-Glass-QI",
-		"package": "com.al3raQe.IQ-Glass-QI",
+		"package": "./com.al3raQe.IQ-Glass-QI",
 		"hideShadow": false
     },
     {
 		"url": "https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg",
 		"title": "IQ-xXx-IQ",
-		"package": "com.github.al3raQe.IQ-xXx-IQ",
+		"package": "./com.github.al3raQe.IQ-xXx-IQ",
 		"hideShadow": false
     }
   ]
