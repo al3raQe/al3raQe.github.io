@@ -57,10 +57,10 @@ Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 15)
 Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings... I recommend installing Xinamine tweaks also.
 Filename: debs/com.al3raqe.fbvd.deb
-Size: 253868
-MD5: 0a6f9ad3d1f71ffaf6cd97936b02543f
-SHA1: 5333d50c85bba98ac73bafb7db838f2bb78d8c11
-SHA256: 2b9f09f965b3d5f0efee0138ba6688518be5e6b4dfd7cb3bba7e4871362c4a67
+Size: 16376
+MD5: 00f4041196613d685109fdfd5297e5bd
+SHA1: af14f8644f175442c352097563ecfd2e44083884
+SHA256: 744068917b00d0cd72a83be0516f011cd14de44f0d4fe7d9c368b1add2754918
 Name: Facebook Video Download 
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
