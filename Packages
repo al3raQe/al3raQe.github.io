@@ -38,7 +38,7 @@ Section: System
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Depiction: This is a developer library for better preferences and useful utilities.
+Depiction: This is a developer library for better preferences and useful utilities... I recommend installing Xinamine tweaks also.
 Filename: ./debs/libhdev.deb
 Size: 46048
 MD5: 17ed90621b7734baf838544aec518e13
@@ -47,7 +47,7 @@ SHA256: 7bfe3e8dd80d531f50ec63cf703a91c7be61de3a1b898d599d10ef3c7d7a075a
 Name: libhdev
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: This is a developer library for better preferences and useful utilities.
+Description: This is a developer library for better preferences and useful utilities... I recommend installing Xinamine tweaks also.
 
 Package: com.al3raqe.fbvd
 Version: 1.87.1
@@ -55,7 +55,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 15)
-Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
+Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings... I recommend installing Xinamine tweaks also.
 Filename: debs/com.al3raqe.fbvd.deb
 Size: 253868
 MD5: 0a6f9ad3d1f71ffaf6cd97936b02543f
@@ -64,14 +64,14 @@ SHA256: 2b9f09f965b3d5f0efee0138ba6688518be5e6b4dfd7cb3bba7e4871362c4a67
 Name: Facebook Video Download 
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
+Description: Facebook Video Download <long press> & Remove Ads. No Customization Settings... I recommend installing Xinamine tweaks also.
 
 Package: com.al3raQe.TiktokDark
 Version: 1.87.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Depiction: https://al3raqe.github.io/Depictions/TikTokDark.html
 Filename: debs/TikTokDark.deb
 Size: 83220
@@ -81,7 +81,7 @@ SHA256: bf1b5cd704fdb63e6f7dbf0d3dffb27e3ed9b6541dddcff6e6ecdafc8b1c52ef
 Name: TikTok Dark
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Download video without watermark, Remove Ads, Auto play next video, Hide text on screen & more
+Description: Download video without watermark, Remove Ads, Auto play next video, Hide text on screen & more... I recommend installing Xinamine tweaks also .
 
 Package: com.al3raqe.ytnoads
 Version: 1.0.1
