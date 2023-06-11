@@ -54,7 +54,7 @@ Version: 1.87.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 15)
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 15)
 Depiction: Facebook Video Download <long press> & Remove Ads. No Customization Settings.
 Filename: debs/com.al3raqe.fbvd.deb
 Size: 253868
@@ -71,7 +71,7 @@ Version: 1.87.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Depiction: https://al3raqe.github.io/Depictions/TikTokDark.html
 Filename: ./debs/TikTokDark.deb
 Size: 83220
