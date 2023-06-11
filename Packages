@@ -5,7 +5,7 @@ Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
 Depiction: https://al3raqe.github.io/photo/IQ-Glass-QI.jpg
-Filename: ./debs/com.al3raQe.IQ-Glass-QI.deb
+Filename: debs/com.al3raQe.IQ-Glass-QI.deb
 Size: 84112
 MD5: b721c89b36f3e4d4a5866aaaac709d03
 SHA1: 9bcba68f25535af1db90d90940c80805b36e4d6a
@@ -22,7 +22,7 @@ Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: com.spark.snowboard, com.spark.snowboard.masks, com.spark.snowboard.effects
 Depiction: https://al3raqe.github.io/photo/IQ-xXx-IQ.jpg
-Filename: ./debs/com.al3raQe.IQ-xXx-IQ.deb
+Filename: debs/com.al3raQe.IQ-xXx-IQ.deb
 Size: 5330446
 MD5: fe558efae4ffe20d65bb7c6cd7d5ad45
 SHA1: 45276522f643679670cb6ebdfe39a7e4c3d38a88
@@ -73,7 +73,7 @@ Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
 Depiction: https://al3raqe.github.io/Depictions/TikTokDark.html
-Filename: ./debs/TikTokDark.deb
+Filename: debs/TikTokDark.deb
 Size: 83220
 MD5: 2b171b4f25a2aa058d0a6f51aed59522
 SHA1: cb6ac5cb1ce26b7e9feb6ebd32bf93e60cd54430
