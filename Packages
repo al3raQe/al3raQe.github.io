@@ -152,18 +152,18 @@ Icon: https://al3raQe.github.io/photo/al3raQee.png
 Name: iCleaner Pro Crack
 
 Package: me.lau.atria
-Version: 1.3.3-7
+Version: 1.4.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.2-2)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Depiction: A proper homescreen layout editor for iOS 13-15 Unofficial rootless
 Filename: debs/me.lau.atria.deb
-Size: 165476
-MD5: 9e2aebba9530fd7a246fb06956e46657
-SHA1: 07f5188db0754a6b400cf372e68914ff330d32dc
-SHA256: c792c5fb6e6b20fe1e8c1ee40cf081a2d81c326f12e259bbf1bb488927648f89
-Name: Atria (unofficial)
+Size: 236990
+MD5: 0ddd2bd09fe99cdbfbc14ef11c03f463
+SHA1: 6ac4631697e08a7bd4a24475dc80027f5cd5966c
+SHA256: 43b8515cda84b44d6cabea98704c1dda155d38a3235c9048795fb19b5381571f
+Name: Atria 
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: A proper homescreen layout editor for iOS 13-15 Unofficial rootless
