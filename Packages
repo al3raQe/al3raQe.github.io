@@ -185,3 +185,32 @@ Author: Sudo + Paisseon
 Depiction: Add Xina tweak compatibility to Dopamine
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Name: Xinamine
+
+Package: com.al3raqe.appdata
+Version: 1.87.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Depiction: https://al3raqe.github.io/Depictions/AppData.html
+Filename: debs/com.al3raqe.appdata.deb
+Size: 771952
+MD5: c913a08e3725659bca44acd5e9924537
+SHA1: 4ae20884e3ae236ac02a8067e4bce4e5d9dca00f
+SHA256: e8a731c75806820c8043caafd0ab5b36411b1a96a8baa9ae195c1d5ecca29736
+Name: AppData
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Depiction: View and access the data of your apps by either swiping up on the icon or from the force touch menu.
+View the app bundle version and size
+View and copy the app bundle identifier
+Edit the app icon name
+Clear or update the app badge count
+Check the app data/caches size and clear them
+Offload apps by uninstalling them and keeping data
+Reset apps permissions
+Access the app bundle & data containers
+Access the app container groups
+Open the AppStore page of the app
+
+Configure options from settings.
