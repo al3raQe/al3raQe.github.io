@@ -185,3 +185,20 @@ Name: AppData
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: View and access the data of your apps by either swiping up on the icon or from the force touch menu.
+
+Package: me.lau.atria
+Version: 1.4.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Depiction: https://chariz.com/get/atria
+Filename: debs/com.al3raqe.atria.deb
+Size: 236990
+MD5: 0ddd2bd09fe99cdbfbc14ef11c03f463
+SHA1: 6ac4631697e08a7bd4a24475dc80027f5cd5966c
+SHA256: 43b8515cda84b44d6cabea98704c1dda155d38a3235c9048795fb19b5381571f
+Name: Atria
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: A proper homescreen layout editor for iOS 13-16
