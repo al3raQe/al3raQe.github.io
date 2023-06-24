@@ -175,7 +175,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Description: View and access the data of your apps by either swiping up on the icon or from the force touch menu.
+Depiction: https://al3raqe.github.io/Depictions/AppData.html
 Filename: debs/com.al3raqe.appdata.deb
 Size: 771952
 MD5: c913a08e3725659bca44acd5e9924537
@@ -184,4 +184,4 @@ SHA256: e8a731c75806820c8043caafd0ab5b36411b1a96a8baa9ae195c1d5ecca29736
 Name: AppData
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Depiction: View and access the data of your apps by either swiping up on the icon or from the force touch menu.
+Description: View and access the data of your apps by either swiping up on the icon or from the force touch menu.
