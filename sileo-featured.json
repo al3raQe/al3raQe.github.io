@@ -26,6 +26,12 @@
 		"title": "IQ-xXx-IQ",
 		"package": "com.github.al3raqe.iq-xxx-iq",
 		"hideShadow": false
+   },
+    {
+		"url": "https://al3raqe.github.io/photo/TikTokDark1.jpg",
+		"title": "TikTokDark",
+		"package": "com.al3raqe.tiktokdark",
+		"hideShadow": false
     }
   ]
 }
