@@ -202,3 +202,20 @@ Name: Atria
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: A proper homescreen layout editor for iOS 13-16
+
+Package: me.lightmann.iamlazy
+Version: 2.3.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: apt, uikittools, firmware (>= 13.0)
+Depiction: https://chariz.com/get/iamlazy
+Filename: debs/me.lightmann.iamlazy.deb
+Size: 176326
+MD5: 8aed9886ce054b6860ba72fff40a5fbc
+SHA1: 8b5526be11d3939a2cad9ebbdf0f28163ed38ba7
+SHA256: a7841f550791de8287176808dafc3c80fcd0a09e647ac70ace4c0f7766d706e0
+Name: IAmLazy
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Easily backup and restore your tweaks
