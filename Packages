@@ -219,3 +219,20 @@ Name: IAmLazy
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Easily backup and restore your tweaks
+
+Package: com.p2kdev.twitternoads
+Version: 1.1.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Filename: debs/com.p2kdev.twitternoads.deb
+Size: 6560
+MD5: 1820c4066ba45b05c5150509ec772c5c
+SHA1: 82b576cdddc36eb07b389d1eddabee634a610b8f
+SHA256: 58f08874aec7d8df49c42b51c8c1c4e72107171f86f19f4d98bbab811353b1df
+Name: TwitterNoAds
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: No Ads in the Twitter App!
