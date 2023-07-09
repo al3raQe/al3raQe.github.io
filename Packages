@@ -236,3 +236,20 @@ Name: TwitterNoAds
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: No Ads in the Twitter App!
+
+Package: com.chr1s.newtab
+Version: 1.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.chr1s.newtab
+Filename: debs/com.chr1s.newtab.deb
+Size: 5270
+MD5: 0f9a4fae1fd6a364888f729032081ff2
+SHA1: d48d8e71b8ac6048da8be398089a145c18cdcece
+SHA256: fa09c8078854783be5143957d0cdf816174c504cfa38ffcf1a5598ad6e149be9
+Name: Safari NewTab
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Add newtab shortcut to safari toolbar
