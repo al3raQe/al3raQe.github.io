@@ -270,3 +270,20 @@ Name: ColorCodedLogs
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Color-coded recent MobilePhone app logs!
+
+Package: com.p2kdev.colorcodedlogs
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.facebooknoads
+Filename: debs/com.p2kdev.colorcodedlogs.deb
+Size: 416
+MD5: f81f24649bf823aa2a899af00877620c
+SHA1: ab5dc6ddc54afca179682104cb602cc6ef01cd66
+SHA256: cd3d67f4349ca5f1446d6471694f9c8e28b61e2cac7a1c4f5b0d51bb89db8014
+Name: FacebookNoAds
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: No Ads in the Facebook App!
