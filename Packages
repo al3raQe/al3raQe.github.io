@@ -253,3 +253,20 @@ Name: Safari NewTab
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Add newtab shortcut to safari toolbar
+
+Package: com.p2kdev.colorcodedlogs
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, firmware (>= 13)
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorcodedlogs
+Filename: debs/com.p2kdev.colorcodedlogs.deb
+Size: 5640
+MD5: f1b5fdf6655d7f600fb49d423572430d
+SHA1: 45c06a3cc166b3a51099328398f3d1a029ec9e0b
+SHA256: 43216002e82a055ca02eee3677897b29b298e992a17ce20a4cb6238961c290f0
+Name: ColorCodedLogs
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: Color-coded recent MobilePhone app logs!
