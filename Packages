@@ -287,3 +287,20 @@ Name: FacebookNoAds
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: No Ads in the Facebook App!
+
+Package: com.bandarhl.bhtiktok
+Version: 0.0.1
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: al3raQe Repo
+Depends: mobilesubstrate, ws.hbang.common
+Depiction: An awesome tweak for TikTok!
+Filename: debs/com.bhtiktok.deb
+Size: 85894
+MD5: 3824d7a5c88d12b36a171043db1000ff
+SHA1: e9ec354c3694bdd443c0f9b7db6bd64e21d39332
+SHA256: 3c345da9d2b87348f723a725b9fb94707879ef5952e8ea95cc7a8190586cd767
+Name: BHTikTok
+Author: al3raQe
+Icon: https://al3raqe.github.io/photo/al3raQee.png
+Description: BHTikTok An awesome tweak for TikTok!
