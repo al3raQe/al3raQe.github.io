@@ -313,11 +313,11 @@ Maintainer: al3raQe Repo
 Depends: apt, uikittools, firmware (>= 13.0)
 Depiction: https://chariz.com/get/iamlazy
 Filename: debs/me.lightmann.iamlazy.deb
-Size: 73024
-MD5: 87edb5601bfc02ca5d2b89f62e2c3e6c
-SHA1: 38816d4a8e83783dc8ae9586c4755d3848d647c7
-SHA256: 282d1c77d57ce67da9c4d0a998c97c39c274605956cf2dffb1774a62017eedf9
-Name: IAmLazy
+Size: 176832
+MD5: 41b4f2a9fc1b9ea60194fc4b22595ab2
+SHA1: 6476c59bdb8e2a1b9d2447146b199d3b0cdec24d
+SHA256: b0ce4fbeadc8e12d00c9191770ac151cf216df529be594da3b186d13ccc53ba4
+Name: DebBackup - IAmLazy
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Easily backup and restore your tweaks
