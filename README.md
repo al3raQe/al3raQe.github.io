@@ -32,8 +32,5 @@
 
 ## <p align="center">al3raQe.github.io	
 <p align="center">
-<img src="./photo/PrivaterRpo.png" alt="cupcake" width="20%" />
-</p>	
-	
-
-
+<img src="./photo/PrivaterRpo.png" alt="al3raQe" width="20%" />
+</p>
