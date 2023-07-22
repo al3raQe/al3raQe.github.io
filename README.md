@@ -4,7 +4,7 @@
 
 	
 <p align="center">
-<img src="./al3raQeIcon.png" alt="cupcake" width="15%" />
+<img src="./al3raQeIcon.png" alt="al3raQe" width="15%" />
 </p>
 
 
