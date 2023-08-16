@@ -347,10 +347,10 @@ Maintainer: al3raQe Repo
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Depiction: In-App Purchases hack
 Filename: debs/LocalIAPStoreiOS15.deb
-Size: 43860
-MD5: c7254ac2bac9ea158a2b96f9d4a36df1
-SHA1: 370af96500b74d853a18e534b79216cc177aa357
-SHA256: 3735112717cfcaf635b5c6380e8ad8c6a57f750a9e2dd0c0ab613f7272f59368
+Size: 44484
+MD5: 0e8e83407bcabab5373391d57a54edf8
+SHA1: f96a5d2a9ef74e3104f95daaf31345794612585f
+SHA256: 95e8620c8523db8aae0c4ce5879ef47b826ec610a54ac950b1d56861973129d9
 Name: LocalIAPStore iOS 15
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
