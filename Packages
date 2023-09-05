@@ -345,13 +345,13 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Depiction: In-App Purchases hack
+Depiction: In-App Purchases hack for ios 15 rootless version
 Filename: debs/LocalIAPStoreiOS15.deb
-Size: 44484
-MD5: 0e8e83407bcabab5373391d57a54edf8
-SHA1: f96a5d2a9ef74e3104f95daaf31345794612585f
-SHA256: 95e8620c8523db8aae0c4ce5879ef47b826ec610a54ac950b1d56861973129d9
-Name: LocalIAPStore iOS 15
+Size: 44508
+MD5: 2e75e97fdf5e892010ff4c27c2dae54c
+SHA1: 1524f64a0d0c2a54982753de17cca3a68d43cb03
+SHA256: 9cfe9c6f1036365c3c20bfb4109d46f718588a9ec5d69bd643b54778c797bdfc
+Name: LocalIAPStore
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: In-App Purchases hack
+Description: In-App Purchases hack for ios 15 rootless version
