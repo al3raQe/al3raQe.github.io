@@ -29,8 +29,8 @@
    },
     {
 		"url": "https://al3raqe.github.io/photo/YouTubeNoAds.jpg",
-		"title": "YouTubeNoAds",
-		"package": "com.al3raqe.ytnoads",
+		"title": "YouTube.Premium",
+		"package": "com.al3raqe.youtube.premium",
 		"hideShadow": false
     }
   ]
