@@ -289,21 +289,21 @@ Icon: https://al3raqe.github.io/photo/al3raQee.png
 Description: Easily backup and restore your tweaks
 
 Package: com.bandarhl.rootless.bhtwitter
-Version: 3.9.1
+Version: 4.0
 Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: al3raQe Repo
 Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
 Depiction: Awesome tweak for Twitter
 Filename: debs/com.BHTwitter.deb
-Size: 804810
-MD5: b7fe4ebb80e5d3202524dec6f2348296
-SHA1: af31a71b313889307e006c74fad1345c3c68d5e6
-SHA256: 54092115c6a85e574d187a9a57dfa33e7b8d9fca6e67e7b6841ee04a536a60b7
+Size: 804814
+MD5: 2ab301aceabff399996b29f016ab9b14
+SHA1: d6cd7bf0dc529481e492f9eae63c99683767707f
+SHA256: 3420328073aec11e9ac848982b87bbc2a37239c2e62266d7d1e472cae753a074
 Name: BHTwitter
 Author: al3raQe
 Icon: https://al3raqe.github.io/photo/al3raQee.png
-Description: Awesome tweak for Twitter
+Description: Awesome tweak for Twitter, Download Videos,
 
 Package: com.al3raqe.localiapstore
 Version: 1.87.1
