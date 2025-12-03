@@ -9,5 +9,4 @@
 <p align="center"><img src=".\photo/privaterepo.png" alt="al3raQee Roothide" width="40%" />
 </p>
 
-## 📈 GitHub Stats
-![al3raQe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=al3raQe&show_icons=true&theme=radical)
+## 
