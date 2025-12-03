@@ -1,0 +1,107 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.4",
+  "headerImage": "https://al3raqe.github.io/photo/header.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://al3raqe.github.io/depictions/bhtiktok/1.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://al3raqe.github.io/depictions/bhtiktok/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://al3raqe.github.io/depictions/bhtiktok/3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Feature-rich Tiktok Enhancer**\n\n- No Ads\n- Download Videos\n- Download Musics\n- Show/Hide UI button\n- Copy video decription\n- Copy video link\n- Copy Music link\n- Auto Play Next Video\n- Show progress bar\n- Confirm like\n- Confirm comment like\n- Confirm comment \n- dislike\n- Confirm follow\n- Save profile image\n- Copy profile information\n- Extend bio\n- Extend comment\n- Always open in Safari\n- Changing region\n- Fake verify blue mark\n- Fake Follower count\n- Fake Following count\n- Padlock",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Developer"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 15
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "al3raQe",
+              "fontSize": 14,
+              "fontWeight": "semibold",
+              "margins": "{2, 32, 2, 15}"
+            },
+            {
+              "class": "DepictionImageView",
+              "URL": "https://al3raqe.github.io/photo/al3raQe.png",
+              "width": 24,
+              "height": 24,
+              "cornerRadius": 4
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 15
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.3.1",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "15 Mars 2025",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Added option to disable live broadcasts\n- Added option to group menu items\n- Added option to switch to compact downloading progress bar\n- Added option to disable pull to refresh gesture in feed\n- Added option to disable warning message under the video description\n- Added \"Fix Interactions\" button in \"Other\" section to fix like, follow,\n  comments and etc.\n- Added downloading 'unavailable/removed' media support from your Favorites list\n- Added japanese localization. Thank you to @SKEIDs\n- Improved pure mode: keeps its state for all videos in feed\n- Improved skip friends recommendation option\n- Added iPad support for region changing (beta)\n- Other slight improvements and bugfixes."
+        }
+      ]
+    }
+  ]
+}

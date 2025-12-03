@@ -1,0 +1,67 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://al3raqe.github.io/photo/header.png",
+  "class": "DepictionTabView",
+  "tintColor": "#E36678",
+  "tabs": [
+    {
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "useBottomMargin": false,
+          "title": "IQ-Glass-QI",
+          "useBoldText": true
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "markdown": "IQ-J-4-M-QI: is a great theme masks for your icons"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot0",
+              "url": "https://al3raqe.github.io/photo/Just4Me.png"
+            },
+            {
+              "accessibilityText": "Screenshot1",
+              "url": "https://al3raqe.github.io/photo/Just4Me.png"
+            }
+          ],
+          "itemSize": "{170, 292}",
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6
+        },
+        {
+          "markdown": "### Features:\n- is a great theme's masks to change your iPhone icons view.\n- Its size is small and does not contain many icons\n\n*Edit by: https://al3raQe.github.io*",
+          "class": "DepictionMarkdownView",
+          "useBottomMargin": false,
+          "title": "markdown-description",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "text": "al3raQe",
+          "class": "DepictionTableTextView",
+          "title": "Developer"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "Details"
+    }
+  ]
+}

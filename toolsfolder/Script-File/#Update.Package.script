@@ -1,0 +1,108 @@
+#!/bin/bash
+
+# 1-This script renames all .deb files in the "debs" directory 
+# 2-This script detects newly added .deb files to the Packages list.
+# 3-This script adds a default icon to package entries if no icon is provided.
+# Edit by: al3raQee Repohide.
+
+
+dir="./debs"
+
+if [ ! -d "$dir" ]; then
+    echo "Directory $dir not found!"
+    exit 1
+fi
+
+for file in "$dir"/*.deb; do
+    [ -e "$file" ] || continue
+
+    package_name=$(dpkg-deb --info "$file" | grep "^ Package:" | awk '{$1=""; print $0}' | sed 's/^[ \t]*//g' | tr -d ' \r')
+    version=$(dpkg-deb --info "$file" | grep "^ Version:" | awk '{$1=""; print $0}' | sed 's/^[ \t]*//g' | tr -d ' \r')
+    arch=$(dpkg-deb --info "$file" | grep "^ Architecture:" | awk '{$1=""; print $0}' | sed 's/^[ \t]*//g' | tr -d ' \r')
+
+    if [ -z "$package_name" ] || [ -z "$version" ] || [ -z "$arch" ]; then
+        echo "Failed to extract package info from: $file"
+        continue
+    fi
+
+    new_name="${package_name}_${version}_${arch}.deb"
+    new_path="$dir/$new_name"
+
+    echo "Renaming: $(basename "$file") -> $new_name"
+    mv "$file" "$new_path"
+done
+
+echo "Renaming completed for all files in $dir."
+
+#!/bin/sh
+
+# This script detects newly added .deb files to the Packages list.
+# It compares the current list of .deb files in the Packages file with the previous list.
+# If any new .deb files have been added (files not present in the previous list), it outputs their names.
+# The script ensures that only new additions are shown, without duplicating or including updated files.
+# It also manages temporary files to ensure clean execution.
+
+
+DEBS_DIR="./debs/"
+PACKAGES_FILE="Packages"
+PACKAGES_OLD="Packages.old"
+TEMP_NEW="temp_new"
+
+if [ -f "$PACKAGES_FILE" ]; then
+    cp "$PACKAGES_FILE" "$PACKAGES_OLD"
+else
+    touch "$PACKAGES_OLD"
+fi
+
+apt-ftparchive packages "$DEBS_DIR" > "$TEMP_NEW"
+mv "$TEMP_NEW" "$PACKAGES_FILE"
+
+awk '/Filename:/ {print $2}' "$PACKAGES_OLD" > old_debs_list
+awk '/Filename:/ {print $2}' "$PACKAGES_FILE" > new_debs_list
+
+echo "info extracted: MD5sum,Size,SHA1,SHA256,SHA512✅
+"
+while read -r new_deb; do
+    if ! grep -Fxq "$new_deb" old_debs_list; then
+        echo "Filename: $new_deb added ✅"
+    fi
+done < new_debs_list
+
+rm "$PACKAGES_OLD" old_debs_list new_debs_list
+
+echo "✅"
+
+PACKAGES_FILE="./Packages"
+TEMP_FILE="./Packages_temp"
+DEFAULT_ICON="Icon: https://al3raqi.github.io/photo/al3raQee.png"
+
+if [ ! -f "$PACKAGES_FILE" ]; then
+    echo "Error: Packages file not found."
+    exit 1
+fi
+
+awk -v default_icon="$DEFAULT_ICON" '
+BEGIN { RS=""; FS="\n" }
+{
+    has_icon = 0
+    new_package = ""
+
+    for (i=1; i<=NF; i++) {
+        if ($i ~ /^Icon:/) {
+            has_icon = 1
+        }
+        new_package = new_package $i "\n"
+    }
+
+    if (!has_icon) {
+        new_package = new_package default_icon "\n"
+    }
+
+    print new_package
+}
+' "$PACKAGES_FILE" > "$TEMP_FILE"
+
+mv "$TEMP_FILE" "$PACKAGES_FILE"
+
+echo "Icons added where missing ✅"
+exit 0

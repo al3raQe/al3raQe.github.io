@@ -1,0 +1,107 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.4",
+  "headerImage": "https://al3raqe.github.io/photo/header.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://al3raqe.github.io/depictions/glass/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://al3raqe.github.io/depictions/glass/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://al3raqe.github.io/depictions/glass/1.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Feature Enhancer**\n\niQ.glass.Qi: is a great theme masks for your Icons.\n\n- is a great theme's masks to change your iPhone icons view.\n- Its size is small and does not contain many icons. \n\n*Edit by: https://al3raQe.github.io*",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Developer"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 15
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "al3raQe",
+              "fontSize": 14,
+              "fontWeight": "semibold",
+              "margins": "{2, 32, 2, 15}"
+            },
+            {
+              "class": "DepictionImageView",
+              "URL": "https://al3raqe.github.io/photo/al3raQe.png",
+              "width": 24,
+              "height": 24,
+              "cornerRadius": 4
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 15
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.87.1",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "15 Mars 2025",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fix crashe in newer versions\n- Removed unnecessary options\n"
+        }
+      ]
+    }
+  ]
+}

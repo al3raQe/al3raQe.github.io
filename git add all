@@ -1,0 +1,15 @@
+
+@-Upload-@
+
+cd al3raQe.github.io
+
+git add --all
+
+git commit -m "update"
+
+git push
+
+git config pull.rebase false
+
+
+- - - - - - - - - - - - - - - - - - - - 

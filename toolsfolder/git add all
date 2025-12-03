@@ -1,0 +1,12 @@
+
+@-Upload-Update-@
+
+cd al3raQee.github.io
+
+git add --all
+
+git commit -m "update"
+
+git push
+
+- - - - - - - - - - - - - - - - - - - - 

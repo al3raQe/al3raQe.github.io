@@ -1,0 +1,754 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.4",
+  "headerImage": "https://al3raqe.github.io/photo/header.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Download/Share images & videos from social apps easily!",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a16cc1cde4bfe9aba47"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a17cc1cde4bfe9aba49"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a17cc1cde4bfe9aba4b"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a18cc1cde4bfe9aba4d"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a19cc1cde4bfe9aba4f"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a1acc1cde4bfe9aba51"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a1bcc1cde4bfe9aba53"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a1ccc1cde4bfe9aba55"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a1ccc1cde4bfe9aba57"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a1dcc1cde4bfe9aba59"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a1ecc1cde4bfe9aba5b"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://media.havoc.app/62040a1fcc1cde4bfe9aba5d"
+            }
+          ]
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Allow you to** **Download/share images & videos from social apps easily!**  \n\n#### Supported Versions iOS 12 to iOS 18.\n\n### Supported Apps:\n \n- Facebook\n- Flickr\n- Instagram\n- Jodel\n- Likee\n- LinkedIn\n- Messenger\n- MeWe\n- Pinterest\n- Reddit\n- Threads\n- TikTok\n- Tumblr\n- Twitch\n- Twitter (X)\n- VK\n- WhatsApp\n- YouTube\n\n---\n\n**Long press to save/share video and image.**  \n\n1.  Download/share videos and images from all available apps in DLEasy.\n2.  You can know the compatible versions inside tweak settings.\n3.  Import video and audio from YouTube & WhatsApp into Music.app.\n4.  Save media in a custom album as DLEasy.\n5.  You can minimize the download interface and the download will be in the background.\n6.  And much more...\n\n---\n\nSupport Import Audio to Music App for All devices.  \n\n**Configure DLEasy from Settings.**  \n\n##### The tweak is available in Arabic, English, German, Spanish, French, Chinese, Vietnamese, Turkish.\n\n\n##### **If you want DLEasy to support your language, you can do this from** [**here**](https://github.com/AhmedBafkir/Localizable)**.**  \n\n**After you edit the Localizable.strings file manually, please send them to this Email:** [DLEasy@outlook.sa](mailto:DLEasy@outlook.sa).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2.14.7"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Size",
+          "text": "5.77 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "iOS Versions",
+          "text": "12.0 - 18.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Updated",
+          "text": "May 7, 2025"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Seller"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 15
+        },
+        {
+          "class": "DepictionStackView",
+          "tabname": "",
+          "xPadding": 15,
+          "views": [
+            {
+              "class": "DepictionLayerView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "AhmedBafkir",
+                  "fontSize": 14,
+                  "fontWeight": "semibold",
+                  "margins": "{2, 32, 2, 15}"
+                },
+                {
+                  "class": "DepictionImageView",
+                  "URL": "https://cdn.discordapp.com/avatars/375299340211585024/e8485b72d1a0c0b8feaa6078d4a93c0b.png",
+                  "width": 24,
+                  "height": 24,
+                  "cornerRadius": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 15
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.7",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "May 7, 2025",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Support for the latest apps.\n- Updated supported versions list."
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.6",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "December 14, 2024",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fix the download issue in the app (Facebook, MeWe, Reddit, TikTok, WhatsApp, YouTube).\n- Fix other issues.\n- Update compatible app versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.5",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "July 13, 2024",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fix the download issue in the app (Facebook, Flickr, Instagram, Threads, TikTok, Twitch, YouTube).\n- Fix other issues.\n- Update compatible app versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.4",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "March 4, 2024",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixing the download issue in Instagram.\n- Fixing the download issue in Threads.\n- Fixing some other issues.\n- Updating versions of compatible applications."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.3",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "December 30, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fix the download issue in full screen on Twitter (X).\n- Fix the issue of the download button disappearing on TikTok.\n- Fix some other issues.\n- Update versions of compatible applications."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.2",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "December 12, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed the crash issue in general.\n- Added Russian language.\n- Update compatible apps versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.1",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "December 10, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Support downloading videos and profile picture in Threads app.\n- Fixed Downloading videos & photos in Reddit app.\n- Fixed Downloading videos in LinkedIn app.\n- Update compatible app versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.14.0",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "December 7, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Support downloading long Twitter videos.\n- Fixed the issue of no sound in videos downloaded from Twitter(X).\n- Fixed the issue of downloading videos in multiple posts on Instagram.\n- Update compatible application versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.9",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "November 9, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fix download issue for old versions.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.8",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "November 4, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixing crash in instagram.\n- Fixing more other issues.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.7",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "October 19, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed an issue with downloading on Facebook.\n- Resolved the problem of the download button disappearing on TikTok.\n- Fixed various other issues.\n- Updated compatible app versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.6",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "August 31, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixing the media download issue in TikTok.\n- Fixing the download issue in Likee.\n- Fixing the status saving issue in WhatsApp.\n- Fixing the profile picture saving issue in Instagram.\n- Fixing some other issues.\n- Updating compatible application versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.5",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "May 4, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Support rootless jailbreak (Dopamine & Palera1n)\n- Fix download Reels in Facebook.\n- Fix download in Twitter.\n- Fix some other issues.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.4",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "March 20, 2023",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed many other issues.\n- Update compatible apps versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.2",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "December 19, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- DLEasy now supports iOS15.\n- Fix settings issue.\n- Fix crash in some apps.\n- Fix more other issues.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.1",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "November 28, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed crash in apps.\n- Fixed some other issues.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.13.0",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "October 16, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed the download problem for all apps for iOS 12/13/14 versions.\n- Fixed the problem of importing audio in WhatsApp.\n- Fixed a lot of other problems.\n- Update compatible apps versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.12.9",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "June 22, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed some other issues.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.12.8",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "June 20, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Support downloading stories in TikTok.\n- Fixed a problem with the size of the video quality in YouTube.\n- Fixed the download problem in Linkedin.\n- Fixed some other issues.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.12.7",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "May 11, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed download some videos in YouTube.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.12.6",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "May 10, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed crash when downloading from multiple posts in Instagram.\n- Fixed downloading videos in Pinterest.\n- Fixed downloading videos in TikTok.\n- Fixed downloading Shorts video in YouTube.\n- Fixed some other issues.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.12.5",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "March 12, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Fixed downloading in (TikTok - Tumblr - Reddit).\n- Fixed import audio in WhatsApp.\n- Fixed issue when use connect VPN with DLEasy.\n- Update compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "2.12.4",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "February 9, 2022",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#696969",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fixed problem of downloading videos in Instagram.\n\nFixed crash in Tweetbot.\n\nFixed a conflict issue between Tweetbot 5 and 6.\n\nFixed a crash problem when open DLEasy library in YouTube.\n\nFixed crash + import audio in WhatsApp.\n\nUpdate compatible applications versions."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        }
+      ]
+    }
+  ]
+}

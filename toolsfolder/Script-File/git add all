@@ -1,0 +1,52 @@
+
+@-Upload-@
+
+cd al3raQee.github.io
+
+git add --all
+
+git commit -m "update"
+
+git push
+
+
+- - - - - - - - - - - - - - - - - - - - 
+@-Run-Update-@
+
+cd al3raQee.github.io
+
+git add --all
+
+sh up.sh
+
+git push
+
+- - - - - - - - - - - - - - - - - - - - 
+
+
+@-Downkoad repo & sava information-@
+ 
+git clone https://github.com/al3raQee/al3raQee.github.io.git
+
+cd al3raQee.github.io
+
+git commit -m "Init"
+
+git config --global user.email "al3raQee@hotmail.com"
+
+git push
+
+git config --global user.name "al3raQee"
+
+@-Password-@
+0000000000000000000000000000000
+
+@-Save-@
+git config --global credential.helper store
+
+restart device
+- - - - - - - - - - - - - - - - - - - - 
+
+
+
+sh or bash = run .sh script file
