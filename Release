@@ -1,0 +1,9 @@
+Origin: al3raQe Repo
+Label: al3raQe Repo
+Suite: stable
+Version: 1.0
+Codename: al3raQe
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: al3raQe Repo
+Icon: https://al3raQe.github.io/photo/al3raQe.png

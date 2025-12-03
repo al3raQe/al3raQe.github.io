@@ -1,0 +1,27 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{148, 296}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "title": "TikTokPlus",
+            "package": "com.bandarhl.bhtiktok",
+            "url": "https://al3raqe.github.io/photo/TikTok.png"
+        },
+          {
+            "title": "IQ-Glass-QI",
+            "package": "com.al3raqe.iq.glass.qi",
+            "url": "https://al3raqe.github.io/photo/IQ-Glass-QI.png"
+        },
+        {
+            "title": "IQ-xXx-IQ",
+            "package": "com.al3raqe.iq-xxx-qi",
+            "url": "https://al3raqe.github.io/photo/IQ-xXx-IQ.png"
+        },
+        {
+            "title": "IQ-J-4-M-QI",
+            "package": "com.al3raqe.iq.just4me.qi",
+            "url": "https://al3raqe.github.io/photo/Just4Me.png"
+        }
+    ]
+}
