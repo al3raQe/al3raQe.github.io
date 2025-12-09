@@ -1165,6 +1165,24 @@ Section: Tweaks
 Maintainer: MrDeNsor
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.auto_1.0-29+debug_iphoneos-arm64.deb
+Size: 26156
+MD5sum: 6a4dc7412488b5c7520b97d3387b1e60
+SHA1: 2ec16f082c88a18ff5372fad8a61d660e5337043
+SHA256: f322937312552914e742916e0a214810a945ea51a234e460ab73b7edef5bc33a
+SHA512: 2dc241df9f2d1bdf5c351603d6a63d339bb593ac0d7eca8a271cde65906ad5745ca4bd1cbcb9dd744439736af09a23c42d4880d24b6e98b1d331d61d1d59ac52
+Description: Automatically clears app caches with a countdown timer
+Name: AutoCache
+Author: MrDeNsor
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.den.auto
+Architecture: iphoneos-arm64
+Version: 1.0-29+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/arm64/com.den.auto_1.0_iphoneos-arm64.deb
 Size: 26156
 MD5sum: 6a4dc7412488b5c7520b97d3387b1e60
@@ -1272,6 +1290,26 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 1.92-1+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 1768
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.igformat_1.92-1+debug_iphoneos-arm64.deb
+Size: 284552
+MD5sum: d32ffb16b6f4374e7c779bb67c98da3c
+SHA1: ac90a38163e6291315832fcdec903a2a109e54f2
+SHA256: a0e4c5418af08eb0bb80711a81ba042593658c7d4b0b5f3e804d0963bdf3f271
+SHA512: dabdc5784e8793f66f6af1377bc52804616c1410c943c46b5ac4328277e3d0c698e97f66ba90fd81bc8122bddee2baa832c0cc9dd52e9d56a1cc0789cf110ef5
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
 Package: com.den.ighdmedia
 Architecture: iphoneos-arm64
 Version: 1.1-2+debug
@@ -1346,6 +1384,26 @@ Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
 Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
 
+Package: com.den.twigalaxy
+Architecture: iphoneos-arm64
+Version: 1.13-1+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 1180
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.twigalaxy_1.13-1+debug_iphoneos-arm64.deb
+Size: 186340
+MD5sum: 21a713f9713be92f84dc6dce0c75adbc
+SHA1: 0b6fbe3b03d4adef7ec3dda635b33b56c6571adc
+SHA256: cf0f7cd570256c450db65f946c48992bbaecfff255fc8896de365e1700e47207
+SHA512: 138d06ae6228ce44d72854372e3ab9b2b922d1384f06b9db05f2fc56805b4660c7f7dcfc0e252c8a53ada20d5ca174e8a0ac1577c0be17b602b4bc936c35f44a
+Description: Make Twitter Better!
+Name: TWIGalaxy
+Author: DeNsor
+Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
+Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
+
 Package: com.den.vibetok
 Architecture: iphoneos-arm64
 Version: 1.2-11+debug
@@ -1385,6 +1443,24 @@ Author: MrDeNsor
 Icon: https://github.com/6gr8/IGFormat/raw/main/vs_logo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/vs_header.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vs.json
+
+Package: com.den.vsplusultra
+Architecture: iphoneos-arm64
+Version: 1.1-1+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.vsplusultra_1.1-1+debug_iphoneos-arm64.deb
+Size: 43102
+MD5sum: 4b012a03d2952a448196760c42138a57
+SHA1: cf42e5c690a68987a00dec9d22e0d56da5a1cf5d
+SHA256: 14ef66958b1458cb7450f648d7a073db773dc3655f80ba72a85bb6781ca533ab
+SHA512: da856fedb440eea76641198c8bb89bdb49cf3f6600df7c5efb9302e3ef95f86f44de4c5702b12f85add09ad6cb6c7027abbede1b2fe2308869ee2cec3961e808
+Description: Make Videostar better
+Name: VSPlusUltra
+Author: DeNsor
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.dvntm.fastlock
 Architecture: iphoneos-arm64
