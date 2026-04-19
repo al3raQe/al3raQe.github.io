@@ -318,6 +318,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.dvntm.infuseplus_2.5_iphoneos-arm.deb
+Size: 454810
+MD5sum: 2da1349e2ccbb9fc1f5faedbb9499713
+SHA1: db1e7d55a807fa87fa5861aa94efedce3b9c3c0a
+SHA256: 185552adcbc53ce1d12b14164e19a962f7b1a64a64be9cc9b46f2a3dcf42a65f
+SHA512: dbc2b8e4a8c436812334af42157cbed66630543239fe9f9720557f68cd51b4352827ea6c27224c301b34d2d46bba0da96e770da8e89be3552c5abeb1191e42f9
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.waccexport
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -667,6 +686,24 @@ Author: Ryan Nair <ryannairtweaks@gmail.com>
 Name: Cylinder Reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Depiction: https://chariz.com/get/cylinder-reborn
+
+Package: com.subdiox.storeswitcher2
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 216
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/arm/com.subdiox.storeswitcher2_1.0.1_iphoneos-arm.deb
+Size: 22866
+MD5sum: e7241586827de4795cc7ec36175b9c5e
+SHA1: 4333ef162044a9c138dd5962ad38039df74d8451
+SHA256: cdcf86736f4b851ef78efb5aa7cc2814a56e0db5f1c038a2499cb6b8446e2737
+SHA512: dd4719aa63f0390a490637e8c40453524a5a08adcd5cde5b41d3e64f539c8762bc9aa022bb5d06a9a3d2d96c9cfc95ec3b121b128e23c71c8f44e1625652b686
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: subdiox
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: dev.extbh.fixpay14
 Architecture: iphoneos-arm
@@ -2253,6 +2290,24 @@ Name: Immortalizer
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
+Package: com.subdiox.storeswitcher2
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 216
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/arm64/com.subdiox.storeswitcher2_1.0.1_iphoneos-arm64.deb
+Size: 22860
+MD5sum: c1c74bcdb70a422b7ded0d1c26f25459
+SHA1: 7b02f5c0331389bebd440d2996684ae90d8f80a8
+SHA256: 3a07ed55194913121f5bb0ff27703d9fa86e06972b3f012ea8e813104a6eace6
+SHA512: a0aab1277763caaf660713f4e36ddd761c2b05dcd5797bd56adba575338bae1e6697efe7e1a9a987c4e7fad1010a05277803efafac05402b05a9a19037eb6bcc
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: subdiox
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64
 Version: 4.0.1-4
@@ -3593,6 +3648,44 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/com.dvntm.infuseplus_2.5_iphoneos-arm64.deb
+Size: 455058
+MD5sum: 42702d3fd7c22a5f0eef82445922b81c
+SHA1: cc87be8bfb1ef883134f29cb4bc8fb3d30b84c0c
+SHA256: 5c5f07a441c1a8f1bdb8aba0828d62e95bc4639bf791490057eaa941c0644396
+SHA512: 51db22ba43fefa17ad18af7c4462560feb67e3567bf13bd41e7265163dae1b7ad40114fc0302185d82022cc49c2f212b26a3c96dd0f9db6cf0c865a8cd108cd8
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.5
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/com.dvntm.infuseplus_2.5_iphoneos-arm64e.deb
+Size: 454554
+MD5sum: cf6cdf7eda758f57e94554e698d48fc0
+SHA1: 2d44a428def56600906172ac8151d067d362bdad
+SHA256: 859df14faaca69a2ed480c8a6c164eda3e96212d41245fa580c8b4441b535449
+SHA512: 9ab89b3588df992e5e3e72dc3ace702503635e5458066773bb0b240e94b794bbba4ffe2bb6703229260b12a8e7bffe932581748f7a885d87cc6c9823171d575a
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -4776,6 +4869,25 @@ SHA512: 7a06a006ca65840645bf346e058e13a884cd792862b94bb12ae56f7bc8dab5a465d8361a
 Description: Snowboard theming engine
 Name: SnowBoard
 Author: Spark & Dennis D. Bednarz
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.subdiox.storeswitcher2
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/arm64e/com.subdiox.storeswitcher2_1.0.1_iphoneos-arm64e.deb
+Size: 32028
+MD5sum: c988173b8b56d9c8c57cbbf01c5279d1
+SHA1: ddd6e80dde072cc93b06baa349d5d8f081467123
+SHA256: 10c804442810e40fdcf89c9ea7ffcdd88428ae92461048db56ca906a706bb67b
+SHA512: bc7c1607bfb5f0d0788f8bd65a6e571d17f1353f38b639d6af515dba40e76bef846b9a503b6cbbbf2ab557ff3b964c4c581678a9e54d9930ba9a13dddcf6e09f
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Name: StoreSwitcher 2
+Author: subdiox
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.tigisoftware.filza64bit
