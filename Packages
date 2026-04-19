@@ -242,6 +242,24 @@ Name: FilesBrowsingOnly
 Author: dvntm
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.dvntm.firstlook
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debs/arm/com.dvntm.firstlook_0.0.4_iphoneos-arm.deb
+Size: 7618
+MD5sum: 1b372be4534475657e910487456c9e59
+SHA1: 6c12dfe037a8e6b35d451992e8d52a1f84ccf77a
+SHA256: 4564374bcc751bbf3ed32914040c8c444d247437027f13fba94d1e061af4b799
+SHA512: be3871b8b6d8336f52811852e637a165aac939f3534550eb25edfb9eca93e0d284ff9c42bb1da220eb717a068fef9733083eb0bd0ee5ad75f1f09b1e8a687b1b
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.dvntm.flow
 Architecture: iphoneos-arm
 Version: 1.0
@@ -293,25 +311,6 @@ MD5sum: 248209e2e69f5371fbbcccb129581067
 SHA1: 9a704aa80152d1f90d80758638d89eb845494142
 SHA256: 5ed300119c1ad47fc8244072c31f403ebf62490991582837b74e9bafaba91c6a
 SHA512: 26ffa21c5f8f1dc5a399295d83390d9add7eb186bb620f5d70ad2848115e5c99e42664388661e663022831e5a83a1c6dde0fd4ad81cdd55ac400aa2f2912b3fc
-Description: Enhancer for Infuse app
-Name: Infuse Plus
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
-
-Package: com.dvntm.infuseplus
-Architecture: iphoneos-arm
-Version: 2.4
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 1248
-Depends: mobilesubstrate
-Filename: ./debs/arm/com.dvntm.infuseplus_2.4_iphoneos-arm.deb
-Size: 445474
-MD5sum: f355a0e8f5891633a56047d942169144
-SHA1: 2e1c6103ae1b066a6035cfe2b82a4cdb4a672dfe
-SHA256: fe11aba6e3a65527c9f10e3e38c84013833c0df97344d2d8c89b4a276db983c5
-SHA512: 1ce68cabab005e5ea12797cd42b267f215ae37ca2ce266eeb5776c95a24b85e8bb2959bef805e423693d7ee6170200aa3e7afface79855ac7c7f100d07506445
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
@@ -372,44 +371,6 @@ Description: Provides legacy WhatsApp version support by spoofing as up-to-date
 Name: WALegacy
 Author: dvntm
 Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm
-Version: 5.2b1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16252
-Depends: mobilesubstrate
-Filename: ./debs/arm/com.dvntm.ytlite_5.2b1_iphoneos-arm.deb
-Size: 6041640
-MD5sum: d577f5a5d764b17e6b374521ed1ab2fa
-SHA1: 3df923553bcfc308c7e9c1e46701075bec804fd0
-SHA256: 06cf88b03076572700b65bdfc41baba785fd12667ceffd696706d9dc24ad7b97
-SHA512: 510cbe29f8703a0c792355bcd98f4406b62ebdd453c275e998f476fa18290f2c2dcf958322fe818f3b815ef1578d3533b735b5c4dd0fcf4049b03065dc3741b6
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm
-Version: 5.2b2
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16696
-Depends: mobilesubstrate
-Filename: ./debs/arm/com.dvntm.ytlite_5.2b2_iphoneos-arm.deb
-Size: 6401046
-MD5sum: a2ef90f6a20480cb9eb7b70b1eee6a10
-SHA1: f040c8128ef9390a66c7191f9fedeeb02815cd28
-SHA256: ee3bf057fd68fcc605e34779239aae5f394c0c65deb45cb9e18e57566658f627
-SHA512: 472c3d79553decd67abef47ab425c5b8bffbd37832c42c44a169a5bc3a412e1171a3e6c840a4743eadbce122165587f5394690f9ba50f772d818fa7c812f3a3f
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
@@ -501,6 +462,25 @@ MD5sum: 9179b61b5ca8cbdee8b34b28b9e40803
 SHA1: 41a28373f68d452658d660a0edba018ffb766ee3
 SHA256: 425ea8e49e11f3d687e4ef47a2b7ccadbb83af30c3df4573f23d4c058bd79e9d
 SHA512: 12457b2ba4b7d0258cd6faf8afdb4818583e491e22246c0c087f44dcd28d9c586df7c4d534ab104ae06ebf4dccd0158490566a9c03a22cf1f3b94147d200b4e8
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 2.4.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 17932
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm/com.ginsu.ytmusicultimate_2.4.1_iphoneos-arm.deb
+Size: 6576778
+MD5sum: c1a0a00cfc98361c7b61d312a09193e5
+SHA1: a567aa3d17eb35e562f1599ec27a320b235c3cd0
+SHA256: 692ca452d618d7664d0986ffdd04484a07524a5068eb0e0f21b813a4efa515a3
+SHA512: 6374bbdf8b5218ece0d24dbcf23b70ca5381087b15cb54ce55a9d4dae82dec1711511574df76100e7fb3b01a1f9509b23ceb8e2e148a05f0ff37baff6c68ed8d
 Description: YouTube Music Premium
 Name: YTMusicUltimate
 Author: dayanch96 & ginsu
@@ -1269,46 +1249,6 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
-Version: 1.86-1+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 1564
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.igformat_1.86_iphoneos-arm64.deb
-Size: 248476
-MD5sum: 24d4aa2c8413bef30b14331bd06854e6
-SHA1: 3aebe117f73229e25e7b6e28f61ff84c75bce25f
-SHA256: 28faf803c89d35c055944c4c6bc7ed883b2db3efe0b8bbe687b955cb9a8ffd2a
-SHA512: ab9055c1c5512e0db4722eb6ee9194c21b4e11bb07b13cfbd03c616466aa6d52d48b780e5965155054e2453ef78f703af0e311f9a62455a7b75153be167208c5
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64
-Version: 1.89-1+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 1652
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.igformat_1.89-1+debug_iphoneos-arm64.deb
-Size: 268194
-MD5sum: 4d3a0a99d14dceca6cd574cf83d7e057
-SHA1: 63ae6ce00ae9dbb19d292d175ff65c08dde6247e
-SHA256: f11aeff5b3c3a784860f0ec1f3fcb66b5acca45837d6d1db8b3a1b8bd80a304b
-SHA512: 7fd50a9a3791702546e736f45bf12f8da99cc4e30dc03e3d159a2855f8df46f5645effd8ea7da2fab9400769ecdefa03d6ef6a310725e46611c8812b54aafbf3
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64
 Version: 1.91-2+debug
 Section: Tweaks
 Maintainer: MrDeNsor
@@ -1555,6 +1495,24 @@ Name: FilesBrowsingOnly
 Author: dvntm
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.dvntm.firstlook
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debs/arm64/com.dvntm.firstlook_0.0.4_iphoneos-arm64.deb
+Size: 7710
+MD5sum: 1da5ceaf84b60dcc9cb55319a584af35
+SHA1: a19577db3f23982da45eb0bea588c81adcadbf90
+SHA256: 4b2e8f17d3d2cbb209410971d0bd46a4dafdfecfeae9832da1f0de868b335e76
+SHA512: d2b138c9a2d3316c939b964e9723834122cff6edf82448e9555fcd755525b53758f707e551cc61e6ded13f7ad9b7fe893963c8b1a10ba5795b0e84d7b05c4454
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.dvntm.flow
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -1606,6 +1564,25 @@ MD5sum: c9cd39c5310e29e9eea0696e991ec642
 SHA1: 83f274b3835adf96243f94d46ec203fc4994df34
 SHA256: b505aa47412366a7dfd4aee1fdb6ffb7d32dd2f583447e4e03a3bdf1b3f26572
 SHA512: 931c2492877ad00c5601b1a2ae93738eceaceff1d0e3fd8ce49935f397c5557de495b5ba2bcdd63d08808c76a3dfda6a63a2a6250bed1551681e52b56abdc0d3
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.dvntm.infuseplus_2.5_iphoneos-arm64.deb
+Size: 455058
+MD5sum: 42702d3fd7c22a5f0eef82445922b81c
+SHA1: cc87be8bfb1ef883134f29cb4bc8fb3d30b84c0c
+SHA256: 5c5f07a441c1a8f1bdb8aba0828d62e95bc4639bf791490057eaa941c0644396
+SHA512: 51db22ba43fefa17ad18af7c4462560feb67e3567bf13bd41e7265163dae1b7ad40114fc0302185d82022cc49c2f212b26a3c96dd0f9db6cf0c865a8cd108cd8
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
@@ -1819,6 +1796,44 @@ MD5sum: 050b7db1c4b2d9a33a9a54b9e583034e
 SHA1: 3a3cb2e9bdc3940cff2df461f7f2cd06c938e97d
 SHA256: b95f1299e0efff27f0448c9fe5bdc009acf3bcf61ac02fa8f741c05da0f1b41c
 SHA512: a57ade9b6b97ad6f1a1494e2deb82aee2df1b142dbb99b4921b9cf4a8c00944a1eff2f957423525108c2c8c76b66e202a95313af35f7cc40e34f1cad8583054c
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 2.4.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 17916
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.ginsu.ytmusicultimate_2.4.1_iphoneos-arm64.deb
+Size: 6566710
+MD5sum: 25acbe5dd2e0d161e88975b369c44725
+SHA1: 9911729edb671e0aeb466c8ba4438e3cfb46e2b5
+SHA256: 8bf33b555569c4998e5de7e104995c3d95a801171d42e2cc3be5815275b71be9
+SHA512: 7211f9dc889bb8a1ba40bb565e751243cd918060fe05a05cba9d5a98ec0900a0d70eea9edad0e9b777c41dddd3e424bda47366722254764a5bc3c8c1cfb0cc62
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64e
+Version: 2.4.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 17916
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.ginsu.ytmusicultimate_2.4.1_iphoneos-arm64e.deb
+Size: 6572062
+MD5sum: 1359292410d2fc2a622dd6dfd39b1934
+SHA1: 68d1a86d608218a59484aad9c0c273c5c9bec191
+SHA256: f53220edcf618a500e376a7f8200199ee5e69d6e9cb9cd145bfd9ceafd199c18
+SHA512: b363844a3fe1e92f3ef73403aadd8fadda02e997a867fe80ee9bcbae78c94ff4b9b98bb57b448c25cccdcee65b9eabb12034049f0405f2130b29e31bc64261d3
 Description: YouTube Music Premium
 Name: YTMusicUltimate
 Author: dayanch96 & ginsu
@@ -3572,6 +3587,24 @@ Name: FilesBrowsingOnly
 Author: dvntm
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.dvntm.firstlook
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.lastlook
+Filename: ./debs/arm64e/com.dvntm.firstlook_0.0.4_iphoneos-arm64e.deb
+Size: 7642
+MD5sum: 240e225aa90344449adbd6f7194c3573
+SHA1: bf16cbce7c656767626119e3959c9a3fa136247e
+SHA256: 4d0a1e412f33a177640f871fe0b21151c8c01b5daa852dace5e7c1e1d21ead88
+SHA512: e749a2424e07000707bb1f630d8942a96ecd364aed15e82adbcaa117219a5df54a4f515195ae302e1d1b9cc9c075db97df815ccf4f3deb3d30187ac9716d5e97
+Description: First look for the LastLook tweak
+Name: FirstLook
+Author: dvntm
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.dvntm.flow
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3623,44 +3656,6 @@ MD5sum: 2381efa81b494a94e514c49e2f58aa98
 SHA1: cbe98e5d2a6101af7d376eff8ff9a5cd87921501
 SHA256: 1da6028c4a91cce33eef106ae3be8b18c8321d7f8c1730512b5ad262f671ec73
 SHA512: 34f6053a7e1ecbf91d3323c01c8f4adaf8f70d309639131073f6493aed089ae1244feec20f3a15825bf71308f1d3d718f815935bd6e1c05f379851286bdc8bc4
-Description: Enhancer for Infuse app
-Name: Infuse Plus
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
-
-Package: com.dvntm.infuseplus
-Architecture: iphoneos-arm64e
-Version: 2.4
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 1216
-Depends: mobilesubstrate
-Filename: ./debs/arm64e/com.dvntm.infuseplus_2.4_iphoneos-arm64e.deb
-Size: 445362
-MD5sum: 04b837a7c4c38bec9ef818686f8599f2
-SHA1: 2ba0213508b819bb42d6870587fe6e93f5bb6f66
-SHA256: c6c5a9a282aaa944aa37e06c097bd6f68ede5b996260c046da8a648015cde60d
-SHA512: fcb998ee732eb48559d67b1e09dd7501dc0556f606454142fe7942c23394f2cf3bb2dcdc8b10e28b4859ff02d1103b5b5348fd433293edf3345b2358ee5a6d6c
-Description: Enhancer for Infuse app
-Name: Infuse Plus
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
-
-Package: com.dvntm.infuseplus
-Architecture: iphoneos-arm64
-Version: 2.5
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 1292
-Depends: mobilesubstrate
-Filename: ./debs/arm64e/com.dvntm.infuseplus_2.5_iphoneos-arm64.deb
-Size: 455058
-MD5sum: 42702d3fd7c22a5f0eef82445922b81c
-SHA1: cc87be8bfb1ef883134f29cb4bc8fb3d30b84c0c
-SHA256: 5c5f07a441c1a8f1bdb8aba0828d62e95bc4639bf791490057eaa941c0644396
-SHA512: 51db22ba43fefa17ad18af7c4462560feb67e3567bf13bd41e7265163dae1b7ad40114fc0302185d82022cc49c2f212b26a3c96dd0f9db6cf0c865a8cd108cd8
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
@@ -3913,6 +3908,25 @@ MD5sum: e8b75c25752e3e756630349bc595540a
 SHA1: 37880768f67e673d4c6fd0b569ca9006b4c4ddf1
 SHA256: 4cfeccd10ec61309fa50efa461c927d79f1d701c0c5750a8d5573858ef299ca9
 SHA512: f5d64ff5cf08ec86f4aaadad77c6f09933e6fa18286b86d90e65abbfd7e53aab982bed495ebeaaef0458567d3227dd5643daceb234f30c44e8a0e57e74ad8cf2
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64e
+Version: 2.4.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 17916
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/com.ginsu.ytmusicultimate_2.4.1_iphoneos-arm64e.deb
+Size: 6572062
+MD5sum: 1359292410d2fc2a622dd6dfd39b1934
+SHA1: 68d1a86d608218a59484aad9c0c273c5c9bec191
+SHA256: f53220edcf618a500e376a7f8200199ee5e69d6e9cb9cd145bfd9ceafd199c18
+SHA512: b363844a3fe1e92f3ef73403aadd8fadda02e997a867fe80ee9bcbae78c94ff4b9b98bb57b448c25cccdcee65b9eabb12034049f0405f2130b29e31bc64261d3
 Description: YouTube Music Premium
 Name: YTMusicUltimate
 Author: dayanch96 & ginsu
