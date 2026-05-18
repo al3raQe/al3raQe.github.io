@@ -835,42 +835,6 @@ Name: SwiftProtobuf
 Author: eevee
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
-Package: com.den.auto
-Architecture: iphoneos-arm64
-Version: 1.0-29+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/AutoCacheV1.0.deb
-Size: 26156
-MD5sum: 6a4dc7412488b5c7520b97d3387b1e60
-SHA1: 2ec16f082c88a18ff5372fad8a61d660e5337043
-SHA256: f322937312552914e742916e0a214810a945ea51a234e460ab73b7edef5bc33a
-SHA512: 2dc241df9f2d1bdf5c351603d6a63d339bb593ac0d7eca8a271cde65906ad5745ca4bd1cbcb9dd744439736af09a23c42d4880d24b6e98b1d331d61d1d59ac52
-Description: Automatically clears app caches with a countdown timer
-Name: AutoCache
-Author: MrDeNsor
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.den.vibett
-Architecture: iphoneos-arm64
-Version: 1.73-1+debug
-Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 1032
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/VibeTokV1.73.deb
-Size: 167968
-MD5sum: b8d155b26d31f9aaa534e2ffa4668112
-SHA1: 8e7b82e7c0f5641a88fad1b497cfeb0aba3e3986
-SHA256: c0663081d0c9023f4696e1999acfa7c17497aa936838da38b9d3ec28bdc6c894
-SHA512: 14a8ea0006975946b40029b8969d93c05a3e1c495a6db2cf9370fdd833a3b7a43df23c434e475e88164864878b6926c6373fbccbcbe5640216c967bcdd30e50a
-Description: Make TikTok Better!
-Name: VibeTok
-Author: DeNsor
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
 Version: 116.0
