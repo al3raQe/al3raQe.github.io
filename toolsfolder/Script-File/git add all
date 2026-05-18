@@ -1,7 +1,7 @@
 
 @-Upload-@
 
-cd al3raQee.github.io
+cd al3raQe.github.io
 
 git add --all
 
@@ -13,7 +13,7 @@ git push
 - - - - - - - - - - - - - - - - - - - - 
 @-Run-Update-@
 
-cd al3raQee.github.io
+cd al3raQe.github.io
 
 git add --all
 
@@ -26,17 +26,17 @@ git push
 
 @-Downkoad repo & sava information-@
  
-git clone https://github.com/al3raQee/al3raQee.github.io.git
+git clone https://github.com/al3raQee/al3raQe.github.io.git
 
 cd al3raQee.github.io
 
-git commit -m "Init"
+git commit -m "Update"
 
-git config --global user.email "al3raQee@hotmail.com"
+git config --global user.email "al3raQe@hotmail.com"
 
 git push
 
-git config --global user.name "al3raQee"
+git config --global user.name "al3raQe"
 
 @-Password-@
 0000000000000000000000000000000
