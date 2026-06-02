@@ -1287,6 +1287,26 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 2.1.0-1+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 2564
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.igformat_2.1.0-1+debug_iphoneos-arm64.deb
+Size: 530172
+MD5sum: 918800160cf03fc3487e87d7c151ca5f
+SHA1: db879d7b0370f53d42b6a4c5cb33bc3d882135cd
+SHA256: 20087e2038e2fddd54bf1a5074423fac5d9f6e410eb432f8c66f848ab8f4cc3f
+SHA512: 592611689af692c7a2a260b6431694e92ac61ccdd651e68073be2be16a6d87704a187401bd7cee58f2c0250ab1ef0bfffa05c322b2b76cde694984e9f729f4eb
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
 Package: com.den.ighdmedia
 Architecture: iphoneos-arm64
 Version: 1.1-2+debug
@@ -1321,6 +1341,24 @@ SHA512: bfc5b482538c78bfe8883f0cb59ad3e5a45d7fb6cd337511b268b76b0caf10ac6e2fe20e
 Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
 Name: LockTouchX
 Author: MrDeNsor
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.den.msgplusx
+Architecture: iphoneos-arm64
+Version: 1.0-62+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 316
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.msgplusx_1.0-62+debug_iphoneos-arm64.deb
+Size: 35188
+MD5sum: 6d1cc02881e0d5055a63e0e1456a26ae
+SHA1: ba222d5c30b7a59065f54a50685ee1a59e6d9885
+SHA256: df911471c6c4aa37008bf81044b64c25d23b94b821fa9a11a10a378059c2f269
+SHA512: 4e25abbda6f1d10ae9eba4a1a364a68071a99e14a4c24dfe2f91ec4964b7020b34c2c826b0924effb0c677ab83930be5ca0262d8e1843ab3be32edef1158ac40
+Description: Make messenger better!
+Name: MSGPlusX
+Author: DeNsor
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.den.quickvpn
