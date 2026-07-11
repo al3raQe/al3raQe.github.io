@@ -835,6 +835,62 @@ Name: SwiftProtobuf
 Author: eevee
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 2.4.0-1+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 2660
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/IGFormatV2.4.0.deb
+Size: 555304
+MD5sum: c28d99004b3c8329ec48b7a71c5472b3
+SHA1: 176045ae607cae1d8d7b8039d5c7156b864f3e5b
+SHA256: 85137bd72b5c29b898a27198a4e89718554cfd0720202e88758d2f0e39a3f66c
+SHA512: da449d6a58d043e39b31a3754d20a0f9943a851bb430068af0494ca6f8cdab0464693d1aa8316912c5424d78ccd47d10af198562804096b8a0f855db27277ba7
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
+Package: com.den.msgplusx
+Architecture: iphoneos-arm64
+Version: 1.0-62+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 316
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/MSGPlusX.deb
+Size: 35188
+MD5sum: 6d1cc02881e0d5055a63e0e1456a26ae
+SHA1: ba222d5c30b7a59065f54a50685ee1a59e6d9885
+SHA256: df911471c6c4aa37008bf81044b64c25d23b94b821fa9a11a10a378059c2f269
+SHA512: 4e25abbda6f1d10ae9eba4a1a364a68071a99e14a4c24dfe2f91ec4964b7020b34c2c826b0924effb0c677ab83930be5ca0262d8e1843ab3be32edef1158ac40
+Description: Make messenger better!
+Name: MSGPlusX
+Author: DeNsor
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.den.vibett
+Architecture: iphoneos-arm64
+Version: 1.73-2+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 1408
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/VibeTokV1.74.deb
+Size: 241502
+MD5sum: fc7e609e787fad972246f976b146f706
+SHA1: 5ca6644ff3bd849b80fec5ef9690e86f52355539
+SHA256: 3a99b573fc80ac425eaba9992f5b4adf238469b87d47042f206b38e9460362fc
+SHA512: 4375d6799b8e6cdbbea396cfc1da0c5c6f6f05578f57af16b3fb1a4e31770cf790b5fa89242092e1ab7063b1749b048df0c2e5b356f4e6d9ce9a74c28387595f
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
 Version: 116.0
