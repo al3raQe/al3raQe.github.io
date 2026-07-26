@@ -1495,6 +1495,24 @@ Name: VibeTok
 Author: DeNsor
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.den.vibett
+Architecture: iphoneos-arm64
+Version: 1.75-1+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 1476
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.vibett_1.75-1+debug_iphoneos-arm64.deb
+Size: 250136
+MD5sum: e45f04e74626e164cbaa436cfceca627
+SHA1: 3102ddf606db69e144ca1d55645ad146c2af8fb2
+SHA256: 8be0367f0840975af5eac587493d0c5a2edd023b27fba280c2d9dc3dd405aa39
+SHA512: 8b737fbd796ec353bfbb5da19c6806ee2dffc48d889e0d38f22158108811f88ffca69d8d1301697e527a2e6c86991adcc869d83e493d89fe9800f21c8be01756
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.den.vsplus
 Architecture: iphoneos-arm64
 Version: 1.0-15+debug
