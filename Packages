@@ -550,6 +550,24 @@ Name: WASendFix
 Author: Mhster_Nice
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.na9.tiktok
+Architecture: iphoneos-arm
+Version: 1.0~beta5-2+debug
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 2208
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.na9.tiktok_1.0~beta5_iphoneos-arm.deb
+Size: 513568
+MD5sum: 62abdbfb1a617877b904d5f258fc697b
+SHA1: 9a2ca0da986be167a5288d1b70f8efaa49834aa7
+SHA256: 5779e94ba8a3966bfb156fcc3148e019d0c303723b7396713a7b6e2ccb73ca8c
+SHA512: 1dda5ada471581048a4fa6604efcd8aebead7c4d0901cc5473f8ca31d608d015d9f6e0572c699782fea8828d9f029e135ea5dece5a7f5a3944a1d4d8f40707df
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me to access Tweak settings press bolt icon in your profile
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.opa334.trollstorehelper
 Architecture: iphoneos-arm
 Version: 2.1
@@ -912,6 +930,24 @@ Name: IPA Ranger
 Author: 0xkuj
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.34306.watched
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/arm64/com.34306.watched_2.0_iphoneos-arm64.deb
+Size: 5602
+MD5sum: 460801249d001dcb607e1ec5b5840234
+SHA1: b6cbec4549a23be442d6b1e740ec64d34c32fa34
+SHA256: e5f5137fc1e85270ff4f125d707cd9c1680cc9304017031e351d669d1dbe2593
+SHA512: 510e12bf0f0cb9928f82d12320a81ee4de06d07c4cef7765ac1582f765559a0b93cf112a724c5247c00d69f1c08d36a194e453f65f00ac447d08fbe7383e3144
+Description: Pair your Apple Watch on a newer watchOS than this iOS supports
+Name: watched
+Author: 34306
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.al3raQe.localiapstore
 Architecture: iphoneos-arm64
 Version: 1.87.1
@@ -1246,46 +1282,6 @@ Description: iCatch detects every .deb file you download from Sileo & Zebra
 Name: iCatch
 Author: DeNsor
 Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64
-Version: 1.91-2+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 1728
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.igformat_1.91-2+debug_iphoneos-arm64.deb
-Size: 283422
-MD5sum: 3aeaa6f25491736307ec9562838b6cdb
-SHA1: 10dda4cf060762408ecc98307a380230c3a2753a
-SHA256: 78dd24e5d7174b03375f2c2c1ca98c7ded7a565591c07cebf93da024524f6922
-SHA512: b95f4d66742a4ba360122d2339dd58d09f62c6b466d1f82e64b89b8f68461300bb0d2c57a36c74e661203b14213ccfdb646d23c407f0706add523240bc405740
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64
-Version: 1.92-1+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 1768
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.igformat_1.92-1+debug_iphoneos-arm64.deb
-Size: 284552
-MD5sum: d32ffb16b6f4374e7c779bb67c98da3c
-SHA1: ac90a38163e6291315832fcdec903a2a109e54f2
-SHA256: a0e4c5418af08eb0bb80711a81ba042593658c7d4b0b5f3e804d0963bdf3f271
-SHA512: dabdc5784e8793f66f6af1377bc52804616c1410c943c46b5ac4328277e3d0c698e97f66ba90fd81bc8122bddee2baa832c0cc9dd52e9d56a1cc0789cf110ef5
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
@@ -2127,6 +2123,24 @@ Name: Vitreux
 Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+
+Package: com.na9.tiktok
+Architecture: iphoneos-arm64
+Version: 1.0~beta5-1+debug
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 2208
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.na9.tiktok_1.0~beta5_iphoneos-arm64.deb
+Size: 513710
+MD5sum: f3fb8b220dd3bdbb0f6c49de519006e0
+SHA1: 0be0a42f216fc22ccd12ca20741af2ffb9b71854
+SHA256: a230970e0bc24cd96cc41453dddc59286ec8cc35d55ca5f7ee2759cf8c77fcb4
+SHA512: 8b22e6fdd70b0b7f5b3005a9f80fe9764684e09303af159ea470ce6628e878b4b0a32349f061971171b9d3037a80ec58d6a06c64362c134f52138c8e06e942df
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me to access Tweak settings press bolt icon in your profile
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.nan.disableupdates
 Architecture: iphoneos-arm64
@@ -2976,6 +2990,24 @@ SHA512: 21402b63c0f2671603b5f9631c0fde40200c13eded323353a356cb264effc6420d489f8d
 Description: Remove the annoying paste confirmation added on iOS 16
 Name: NoPasteAlerts16
 Author: 0xkuj
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.34306.watched
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/arm64e/com.34306.watched_2.0_iphoneos-arm64e.deb
+Size: 5544
+MD5sum: 6a7e15e8764103247f7abc05e89aa450
+SHA1: 57c6c7ce5600242dc73032dd53750ec274bd0587
+SHA256: 082c893af70a7e626f1852ef6916fd6c5d0a00a4b4c15f01b2bcb3a17b145637
+SHA512: 7beef3d8e9a9f6db6817a651832d2edbb4cacd7d2470c7653fd4095af31724c422a25c01a28df03157c416cf78212eb69d8be199b0653f305ac345ca938158d0
+Description: Pair your Apple Watch on a newer watchOS than this iOS supports
+Name: watched
+Author: 34306
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.82flex.singlemute
