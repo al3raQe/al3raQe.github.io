@@ -761,6 +761,30 @@ Name: Apple Pay iOS 14
 Author: ExTBH <natheer@extbh.dev>
 Icon: https://raw.githubusercontent.com/ExTBH/iOS14-fix-apple-pay/master/icon.png
 
+Package: me.jjolano.shadow
+Architecture: iphoneos-arm
+Version: 3.7.6
+Section: System
+Maintainer: jjolano
+Installed-Size: 1428
+Provides: me.jjolano.shadow.beta
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Filename: ./debs/arm/me.jjolano.shadow_3.7.6_iphoneos-arm.deb
+Size: 164872
+MD5sum: d358e346e3c7d5530ca2498fddff2e4d
+SHA1: a2aa5f5bd2d8904ab04ec230c2b4c4e2e3ce9b9e
+SHA256: 2ce5c8ac813e4b0953284662f2540546353eef36c8206fbcb1aef155f07cabea
+SHA512: e28bb278846e641ef7d68b50332751583b2e87afa5ba1f9ee70ebba52964e9272683a8c7393b12365dd13cf53ce1983011c6de0bdf84ce054404b1151a737c00
+Description: A modern jailbreak detection bypass.
+Name: Shadow
+Author: jjolano
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: me.tomt000.copylog
 Architecture: iphoneos-arm
 Version: 1.7.1
@@ -1082,6 +1106,43 @@ SHA512: fb16f5f66c7b9ebe97a4f6cff4ceb935eb11ec0fbf2a21d26c00c503a7835540e56ac658
 Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.5
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 16284
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64/com.bandarhl.bhtwitter_4.5_iphoneos-arm64.deb
+Size: 6425314
+MD5sum: 1198d43992661002b8ed524ea2327fd3
+SHA1: 2abfd06ad901e82244a78c343e0e0235ae15cc5d
+SHA256: 9b534583eab452b481ddad76ec4c95c1964d640469edf3ffce87ab8a611708a7
+SHA512: c377ada193558ee7d22ed35930276b975d3da023e024984e2135716b9872ecf6d2108f275a53e418b8e91fa0d621de9b06a120928a595a05bf8aaf88fe079c28
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 5.2-1
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 16796
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debs/arm64/com.bandarhl.bhtwitter_5.2-1_iphoneos-arm64.deb
+Size: 7135864
+MD5sum: f129511c51feb629a044b519c2cc44fd
+SHA1: fd5e5c9708351ff88ba17db3c734c23899756ba4
+SHA256: 6a4a5de1d91f2360c5e6ea0bfae040b2e486ab7ec7ba4c4192104f4b15e29cff
+SHA512: 825cf7522752d436d07d47512bf8ffa62bc7b16eb1dda1f6bfd608d779a0da9647bcd741c7f2cb46402bfecca03b24c51385b2b549e7511a39a7da99ecb3347f
+Description: Awesome tweak for Twitter
+Name: NFB-BHTwitter
+Author: NeoFreeBird
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.brend0n.nopastedfrom
@@ -1428,6 +1489,26 @@ MD5sum: 21a713f9713be92f84dc6dce0c75adbc
 SHA1: 0b6fbe3b03d4adef7ec3dda635b33b56c6571adc
 SHA256: cf0f7cd570256c450db65f946c48992bbaecfff255fc8896de365e1700e47207
 SHA512: 138d06ae6228ce44d72854372e3ab9b2b922d1384f06b9db05f2fc56805b4660c7f7dcfc0e252c8a53ada20d5ca174e8a0ac1577c0be17b602b4bc936c35f44a
+Description: Make Twitter Better!
+Name: TWIGalaxy
+Author: DeNsor
+Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
+Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
+
+Package: com.den.twigalaxy
+Architecture: iphoneos-arm64
+Version: 1.14-1+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 1836
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.twigalaxy_1.14-1+debug_iphoneos-arm64.deb
+Size: 309038
+MD5sum: 5662b805781e647b6f4c7058fd241ebf
+SHA1: 16c7fa8bf038cd2a5f15487b0953d0a4d7f661a2
+SHA256: 03bb5b46ef5fdc8152d428666d03f1c10ef497625605e4093950793bc62c11f9
+SHA512: bdf9726e4e1fafd4a5b9a5c0e9881ecbf8a891f349c25a0eaa73e7fe470ac87c74f60e23f7ee15a0228ce2101f87d614ba4c3f800e0bb2d8fb7e22aa6a1d46da
 Description: Make Twitter Better!
 Name: TWIGalaxy
 Author: DeNsor
@@ -2584,6 +2665,30 @@ Name: vnodebypass
 Depiction: https://cydia.ichitaso.com/depiction/vnoderootless.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/vnoderootless.json
 Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+
+Package: me.jjolano.shadow
+Architecture: iphoneos-arm64
+Version: 3.7.6
+Section: System
+Maintainer: jjolano
+Installed-Size: 1076
+Provides: me.jjolano.shadow.beta
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Filename: ./debs/arm64/me.jjolano.shadow_3.7.6_iphoneos-arm64.deb
+Size: 100938
+MD5sum: d5d9e73e6fb80918eb95772361f123be
+SHA1: 22c6e9db9a75db1b4faff4292b7343d699e2de86
+SHA256: 52fdf82c814ab67700a51a13de0ca2138b5942b8b2e949493e04614aeef523d4
+SHA512: ee656a8a45e65898bf5c89b9fcfb0e7fd291769c6c495d7f313da37a87f2d6af92f6f75eb0ce888e15dbee4ed956e1c2bdb038d5b9f7ee1992768da954f88521
+Description: A modern jailbreak detection bypass.
+Name: Shadow
+Author: jjolano
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: me.tomt000.copylog
 Architecture: iphoneos-arm64
