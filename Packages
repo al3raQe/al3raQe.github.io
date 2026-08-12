@@ -626,6 +626,26 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.ps.ytlegacy
 Architecture: iphoneos-arm
+Version: 1.11.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 5184
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.youspeed | firmware (>= 15.0), com.ps.ytclassicvideoquality | firmware (>= 15.0), weeb.lillie.youtubedislikesreturn (>= 1.13.9) | firmware (>= 15.0)
+Filename: ./debs/arm/com.ps.ytlegacy_1.11.0_iphoneos-arm.deb
+Size: 446184
+MD5sum: 9571051dfb905593b0144e2a9ceeba1e
+SHA1: b5bac720c172e4419984208e555dbd7b50ec8abf
+SHA256: 2f78b304141c2425a221ffb46bca00fa761df36afc8717ab43a4c599a2992ed5
+SHA512: 022fbb5039d4ad17e89d84c93621b001cf4d7025c08845bd4b9d19eaf5bfc979497b5e1e0b389d89a33fa8b7bafce8c98090680959594e4f686984adfc7d355a
+Description: Makes old YouTube versions work again.
+Name: YouTube Legacy
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytlegacy.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytlegacy.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ps.ytlegacy
+Architecture: iphoneos-arm
 Version: 1.8.9
 Section: Tweaks
 Maintainer: PoomSmart
@@ -2428,6 +2448,26 @@ Name: NoYTPremium
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/noytpremium.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/noytpremium.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ps.ytlegacy
+Architecture: iphoneos-arm64
+Version: 1.11.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 5200
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.youspeed | firmware (>= 15.0), com.ps.ytclassicvideoquality | firmware (>= 15.0), weeb.lillie.youtubedislikesreturn (>= 1.13.9) | firmware (>= 15.0)
+Filename: ./debs/arm64/com.ps.ytlegacy_1.11.0_iphoneos-arm64.deb
+Size: 445700
+MD5sum: fb9babc5090010cdfbec8936de549992
+SHA1: dd3da65a28438ac2fee13d4c053d5ad52dc75749
+SHA256: fd67b711ec5f3823742f8adc3a45389cceb987e97574157bb9c512825628ced9
+SHA512: 6954e48dbb3aeca912faa1ce26fb734bccb4cc18dc720a1686056b25bad1fb62db4e55e6d96111cfb8f95a38a373ecc5a23e9be2c31d39648f281eb3361f5282
+Description: Makes old YouTube versions work again.
+Name: YouTube Legacy
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytlegacy.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytlegacy.json
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.ps.ytlegacy
