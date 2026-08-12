@@ -336,6 +336,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 2.6
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 972
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.dvntm.infuseplus_2.6_iphoneos-arm.deb
+Size: 495686
+MD5sum: 56c2433a5240577966b0f99dc3a6e59d
+SHA1: 6c7e8ea8b5dd483d0ed95904eeb47789439eac50
+SHA256: b7d37e4577a892ee990224070639e021ef229b39c8a90ee557e8f9e884f768fd
+SHA512: e693bc863ee128fdd93e868913ec9fcf83a9b286988b65567ad665cc9d1f277686964cf16a85e68eae41e06cf783a06f94e12fa8a32e7eea85481eac2a8a7f10
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.waccexport
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -658,6 +677,26 @@ MD5sum: fc135876254990bb341b1cf69f862d77
 SHA1: 787a81e2e65a908f379de4c789a5dcaa18041da7
 SHA256: 9146518d3c4a87520360ebc0f97863a35db50da891d7b2452fa1d40c02978908
 SHA512: 10b8aa4a0ac58495a73c2338480b288888ec23e81e85340a9832b8ec84dd79f8cff50369009ffd2d934a3e16c70e2f98f46d6dd9627c98b2b5cb89e28bb00642
+Description: A YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ps.ytx
+Architecture: iphoneos-arm
+Version: 1.7.22
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/arm/com.ps.ytx_1.7.22_iphoneos-arm.deb
+Size: 5844
+MD5sum: 88f2d0fcd099ad926cefffa36901f152
+SHA1: a675d8026cbd87e745b6bf65536eadbccae0cb1b
+SHA256: 318446c15e07b0a38b8648c3c8531c4caa2713b6779d8293fdc8ae2385db8fe0
+SHA512: c8dd1e26a6e71cefa440c434098794c5d3dc2db496a1618c776731328f42b7685f88aca7771734fee5e8009aaec29e489943e86e636a2a710bbcebfc641786f4
 Description: A YouTube improvement tweak.
 Name: YouTube X
 Author: PoomSmart
@@ -1754,6 +1793,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.6
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 972
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.dvntm.infuseplus_2.6_iphoneos-arm64.deb
+Size: 495628
+MD5sum: 2153e04670b89fda5d2e5f960d50bff0
+SHA1: 5393f59a39b32cc0fc061ee2e8aa547360d7d688
+SHA256: 68193860722033b3ea2a748c466fe5074ea63e00db5045123ad08e7e5104734e
+SHA512: b45667b599177caf4afcd7f9a240b3a048813e1c18686aa915cfe896e8d366f5316dbf389c576d30ae88d4e95526ce8f30a6558c5d9f3fac00f5f89511f83ea1
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -2425,6 +2483,26 @@ MD5sum: d20ee9e09d763f48f8ad70896574a19c
 SHA1: 4de527f98a2173538f9b255e78e902de360dcf69
 SHA256: a74093ed182d756dd4aa4d61ff0825a697f24d44da3c20041fee93f4284c9500
 SHA512: d32ba442273822cea70b6f3d3b709fbdeb818b65e371daabd2a63c895b8a212200acb71bef74340937fe492766625ce44e49eeccd31ad4546a1cfe07cf010b4a
+Description: A YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ps.ytx
+Architecture: iphoneos-arm64
+Version: 1.7.22
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/arm64/com.ps.ytx_1.7.22_iphoneos-arm64.deb
+Size: 5776
+MD5sum: 7f2f5a5470a8b4c2bd656992d8bdedc1
+SHA1: 27bc4e1b0d0188fde3e6afc71abb6ed1da3b6669
+SHA256: bb5682906a1a38e845c40d7dc6d6112fa43405f3288b7d308d82d8af17e11859
+SHA512: 20cde9134faef99d708df33d1c36f8d016a8df9c81ce8c6a7e70c653d9dac71193edf4cdaa8504e6cee6dfea3cd0d9d06354b2bbb0d955160431869b0d7c8bcf
 Description: A YouTube improvement tweak.
 Name: YouTube X
 Author: PoomSmart
@@ -3882,6 +3960,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.6
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 972
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/com.dvntm.infuseplus_2.6_iphoneos-arm64e.deb
+Size: 494924
+MD5sum: 830b34d91727cc6a001703daf5fa1d0c
+SHA1: 0b3ac71ee034d910f49d65271e66b36d3ff42457
+SHA256: 217336ed9ad958a16cea4b65080d45169004f78074a6f33f1ababf6b60874f13
+SHA512: 76444cc8dec46c16d94c11da1313bf4720a03b48caf40aa1cdf3f48cdd3d5369536493c00595cce14cf1a6e2adc3c38be05f32d22be6eab7bcdc89961bc88250
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64e
 Version: 0.0.2
@@ -4885,6 +4982,27 @@ MD5sum: 99214ed904b30c253b377b5b246cec8a
 SHA1: a895580e2b6cc087387c7ec0332d09397af8fa34
 SHA256: 1716a48428595018d96f3b303de9e067be8746174a13f279edc2b78cf501a347
 SHA512: e268165494ef0946c0e380bd7b85b302907dc4a74001a206fc02751d7fe1eab8f43a94dd6678e7c02d3d59217cb0f6b98d7a3c1d9cf8237ed84f183b08117cf2
+Description: A YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ps.ytx
+Architecture: iphoneos-arm64e
+Version: 1.7.22
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/arm64e/com.ps.ytx_1.7.22_iphoneos-arm64e.deb
+Size: 6720
+MD5sum: ac573e3152b571d44540ab5c5cf6f831
+SHA1: fac40812c534c09b3f1e04f4e8cb44c776f21749
+SHA256: 91c75c1802fb41462bb5c41cef731e4a16fdb8a0228d3f26cce82dfde1179be4
+SHA512: 08ba7d3cd27952d6548ae30ab0067eb117af1e86d699d2d9f36eb5685e8f4669c6afa0ae7340b41d689f2dbaac2e9ce7c4fbf05013e8c1d4d357909451dab51c
 Description: A YouTube improvement tweak.
 Name: YouTube X
 Author: PoomSmart
