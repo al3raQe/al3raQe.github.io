@@ -506,6 +506,32 @@ Author: dayanch96 & ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
 
+Package: com.ichitaso.fiveicondock13
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, com.ichitaso.iconorder
+Conflicts: gsc.ipad, com.ichitaso.iconsp13, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Replaces: com.ichitaso.fiveicondock13
+Filename: ./debs/arm/com.ichitaso.fiveicondock13_0.0.6_iphoneos-arm.deb
+Size: 7786
+MD5sum: 5d6f769c446a7477c08d0672338e0ab1
+SHA1: 8a5352c01e815d404d3ea6fbdb70bafd44245c6f
+SHA256: 714e4ec21a467fa134bf3243301d6d8fb0db90eb3977b164c8c4247d79b6b95e
+SHA512: c6afa509673e96f756246cab9cccba531ad1678f88c495481ad52b33bcb52d9944808ddb72f3fdaa05bc6fe8d7b434b45a7d318bc504920abb6df9f1ad7d7465
+Homepage: https://ichitaso.com/
+Description: Five Icons on your Dock for iOS 13 to 26
+Tag: purpose::extension
+Author: ichitaso
+Name: FiveIconDock (13-26)
+Depiction: https://cydia.ichitaso.com/depiction/fivedock13.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/fivedock13.json
+dev: ichitaso
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.ichitaso.iconorder
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -585,6 +611,25 @@ SHA512: 1dda5ada471581048a4fa6604efcd8aebead7c4d0901cc5473f8ca31d608d015d9f6e057
 Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me to access Tweak settings press bolt icon in your profile
 Name: NA9 For TikTok
 Author: Nasser | NoTimeToChill
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm
+Version: 1.5.4-2
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1408
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/arm/com.opa334.choicy_1.5.4-2_iphoneos-arm.deb
+Size: 261652
+MD5sum: 695b0c68ba8116451710613630cb138d
+SHA1: e780c8b71f6bde17f8d6ab7c527607eec57cf6ef
+SHA256: bbeec0b49207605aae72d48952938c2c82656f04e27a35a3037db3eaf4937d63
+SHA512: 95c3ae93e709ab76ae65782925f574675e600046d7ff26fc5aeacb4d06090b5b3091e35422b1c81f5bd2e876c4588da69ec4e69c6dd4114975bb1f71b0d4cfb9
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: opa334 <opa334@protonmail.com>
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.opa334.trollstorehelper
@@ -2083,6 +2128,32 @@ Author: dayanch96 & ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
 
+Package: com.ichitaso.fiveicondock13
+Architecture: iphoneos-arm64
+Version: 0.0.6
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, com.ichitaso.iconorder
+Conflicts: gsc.ipad, com.ichitaso.iconsp13, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Replaces: com.ichitaso.fiveicondock13
+Filename: ./debs/arm64/com.ichitaso.fiveicondock13_0.0.6_iphoneos-arm64.deb
+Size: 7048
+MD5sum: 7abf120c74a0ffaf065a78fe434dd331
+SHA1: a1a180e7e2d344e09867428ab10938413d7e358a
+SHA256: e0c6fdb40c78a1edb6b3776f72d7e94f8fd00c93c5eecf26343ea7e5cc9e4a0b
+SHA512: 18e97884e759269263ecfcfb015fa99410f77c18ee1d7293ac1525c96bae2ad3e114939417e390557c30371c477c1624e9fde6e794333aeb1862c2071ff9e95d
+Homepage: https://ichitaso.com/
+Description: Five Icons on your Dock for iOS 13 to 26
+Tag: purpose::extension
+Author: ichitaso
+Name: FiveIconDock (13-26)
+Depiction: https://cydia.ichitaso.com/depiction/fivedock13.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/fivedock13.json
+dev: ichitaso
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.ichitaso.iconorder
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -2347,6 +2418,25 @@ MD5sum: 198ec8c26c632d83b25d36f4563dfc36
 SHA1: af4d88e9344709fc28d26b3c01e4a89360802e2e
 SHA256: e427d3756261b89f4986fcbe42664168367ab78110cd326c545027a3c7de0df5
 SHA512: 05b9c85721254faa1bad0ac2d6d53047fc611875c455492204e31748ef20a50409c7ccd9e87ebc400fa12a13c5686620d303ebcebf05c0b1b4dbb6bd51726f5a
+Description: Advanced Tweak Configuration!
+Name: Choicy
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Author: opa334 <opa334@protonmail.com>
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.opa334.choicy
+Architecture: iphoneos-arm64
+Version: 1.5.4-2
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1120
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/arm64/com.opa334.choicy_1.5.4-2_iphoneos-arm64.deb
+Size: 161680
+MD5sum: 059def2744278086705f489efe8e1430
+SHA1: 25ef80a1d5f5a44af56ec42ad2160d4db1e343cb
+SHA256: 697db463d12244b70a7f399cc049f3e4faec9b4dd4949464983eedb188db5af2
+SHA512: 2b8fa6c28d674ec9b981169fe62bc90089253b548e3052193dabb8f98d7d3bcfd25a06aa52011e316d0f3cbfd2e9290c9ba8a5ae3cccb809cbe96667a60c23ab
 Description: Advanced Tweak Configuration!
 Name: Choicy
 Depiction: https://opa334.github.io/depic/Choicy/index.html
@@ -4270,6 +4360,32 @@ Name: YTMusicUltimate
 Author: dayanch96 & ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
+
+Package: com.ichitaso.fiveicondock13
+Architecture: iphoneos-arm64e
+Version: 0.0.6
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, com.ichitaso.iconorder
+Conflicts: gsc.ipad, com.ichitaso.iconsp13, me.nepeta.docky, me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.p2kdev.floatingdockplus13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Replaces: com.ichitaso.fiveicondock13
+Filename: ./debs/arm64e/com.ichitaso.fiveicondock13_0.0.6_iphoneos-arm64e.deb
+Size: 5876
+MD5sum: 0f7243d152d9b79d9901f6e93405233d
+SHA1: bf26e765106fb17495f8e05be8caae69ec3971f8
+SHA256: 460c1c2966feebfedecfa1409f18317ef0a27f6dda279acc52a3e0821c13de7b
+SHA512: c8ad57673ca8ee3b5b4400683639ec4a7a54351ba5d7f39cb9522ba674440bf3dd3bd781ede414e352ae86ff709d5cc8be84bfab3ba288a84fd37815fb2e9208
+Homepage: https://ichitaso.com/
+Description: Five Icons on your Dock for iOS 13 to 26
+Tag: purpose::extension
+Author: ichitaso
+Name: FiveIconDock (13-26)
+Depiction: https://cydia.ichitaso.com/depiction/fivedock13.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/fivedock13.json
+dev: ichitaso
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.ichitaso.hideserialnumber
 Architecture: iphoneos-arm64e
