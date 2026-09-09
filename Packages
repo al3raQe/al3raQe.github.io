@@ -39,6 +39,24 @@ Name: IPA Ranger
 Author: 0xkuj
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.0xkuj.iparanger
+Architecture: iphoneos-arm
+Version: 2.5.1
+Section: Applications
+Maintainer: 0xkuj
+Installed-Size: 32932
+Depends: gawk, unzip, plutil
+Filename: ./debs/arm/com.0xkuj.iparanger_2.5.1_iphoneos-arm.deb
+Size: 8015306
+MD5sum: 3b1075b75b67bf1d2212844290392137
+SHA1: 6956fb35242a77c4faf5c8fd5eae3da91dea68be
+SHA256: 273d844a03f6c03427ad4ec774b39385db53a02c0cf7c1e64bdf0791f09a27f1
+SHA512: 79e16d9365dbb2f73296e4f9f343c1a417fe63755712875defc27f8038f872c10e05f9e9e0b81f3fd6e26689d313f42c0dded4b213a42bffda489b9711be6072
+Description: GUI Based Application for ipatool
+Name: IPA Ranger
+Author: 0xkuj
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.BandarHL.Hollow
 Architecture: iphoneos-arm
 Version: 1.8
@@ -130,6 +148,26 @@ Author: al3raQe
 Depiction: https://al3raqe.github.io/photo/Just4Me.png
 Sileodepiction: https://al3raqe.github.io/depictions/iQj4mQi/depiction.json
 Icon: https://al3raQe.github.io/photo/al3raQe.png
+
+Package: com.alexpng.cacheclearerx
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 1216
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/arm/com.alexpng.cacheclearerx_1.1_iphoneos-arm.deb
+Size: 1002192
+MD5sum: cd4d56e579c8ae0a4690ab926ab767c2
+SHA1: e49ff880d9aa9ef5bab4253e67341839ae2d3955
+SHA256: 4170ec7662b6fe4d4a6c3e6cccd20cff85d109f186956706f847ac1cf11dab6e
+SHA512: cb2f633a9e2985ad25bd95f768936e8219f703b1105ddfb16e2fa26eab68764314fefa7508ad6015f53e640187908cf26d8b77152656f74cc614dea10412cc06
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Name: CacheClearerX
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
+Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
@@ -865,6 +903,26 @@ Name: Apple Pay iOS 14
 Author: ExTBH <natheer@extbh.dev>
 Icon: https://raw.githubusercontent.com/ExTBH/iOS14-fix-apple-pay/master/icon.png
 
+Package: jp.dcsyhi.kbappdock
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Tweaks
+Maintainer: Dcsyhi
+Installed-Size: 1884
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/arm/jp.dcsyhi.kbappdock_1.7.1_iphoneos-arm.deb
+Size: 981748
+MD5sum: 39031f0bf24fedf02c8ea75142803039
+SHA1: 942c688928eb32cbc66502c0603915e73157d6bc
+SHA256: ae389153c267df43c5a1f40c6b201ba64612fb5e4ed57b21c5b2aa720dadd7aa
+SHA512: d57cb418839caf1b367648074ade7dca9b3b63541e6acbbd4b9a6f0568608456ecea0d6eb8236b6c50b82ffc726e7a1c0ed81d8ace09f4e2db21f6af554601f8
+Description: You can arrange apps on the dock of keyboard ⌨️.
+Name: KBApp
+Author: Dcsyhi
+Icon: https://dcsyhi1998.github.io/icons/kbappdock/icon-large.png
+Depiction: https://dcsyhi1998.github.io/depiction/KBApp.html
+SileoDepiction: https://dcsyhi1998.github.io/Sileodepiction/KBApp.json
+
 Package: me.tomt000.copylog
 Architecture: iphoneos-arm
 Version: 1.7.1
@@ -1029,6 +1087,24 @@ MD5sum: d438acda86cb1d0369666f89139b5b1f
 SHA1: 7aa02e7a9e511bc1cdba5b465248e6af6e765fbb
 SHA256: 68797e2c89ea1a03e680d52399b9b5eb6a276d0f6bae2f204161341679f829fb
 SHA512: 9d97bc541a7fb0f351d2ae701a14c047f311c33176d5033f4a8781cdf7ecdc7ca5eaff9dfeb3884aa3b182a7ab78f7db27b50a5269f38b45b3a5eafc1034b557
+Description: GUI Based Application for ipatool
+Name: IPA Ranger
+Author: 0xkuj
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.0xkuj.iparanger
+Architecture: iphoneos-arm64
+Version: 2.5.1
+Section: Applications
+Maintainer: 0xkuj
+Installed-Size: 32932
+Depends: gawk, unzip, plutil
+Filename: ./debs/arm64/com.0xkuj.iparanger_2.5.1_iphoneos-arm64.deb
+Size: 8015414
+MD5sum: b74b5c4b2d9b3c01a52ed8ea7684a82b
+SHA1: 0a1d77e3c3c4becc50f092cb5d1db29fa487ad4b
+SHA256: e02a78ce48b89cb7d91d9cbad45a39c97b19edba6d83dd2d3b66787f1b320e73
+SHA512: a3ec94f1a474ec9a8fce491da3223eb6715869347bbf79c4e38b4c168d09af84fe3ced75a9b3a17376daefd4d03e636258b3654694b96d32907f041cdd3ccf99
 Description: GUI Based Application for ipatool
 Name: IPA Ranger
 Author: 0xkuj
@@ -2733,6 +2809,26 @@ Name: Filza File Manager 64-bit
 Author: TIGI Software
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: cz.kolbi.sbtweaker
+Architecture: iphoneos-arm64
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Kolbicz
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary
+Replaces: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary
+Filename: ./debs/arm64/cz.kolbi.sbtweaker_1.3.2_iphoneos-arm64.deb
+Size: 56528
+MD5sum: bdfb2012d24cc3bb20e02d703b8e76d8
+SHA1: bf9e149608a2ebbf355d95d6882cd343d6ff90ef
+SHA256: eb0a6b565cc21875019778c2104428693c1147d520e29cbeb1d62b69a2b38859
+SHA512: 50c2dc6fed2b97c599bfc987cd76c3d7698c23b70cdd1c34d42db9eb835d2551a3eae48fd0ad10f08d03453b60cd1c809ac8e5770a712304eccc65d5e7bee655
+Description: Opt-in SpringBoard customizations for rootless and roothide jailbreaks on iOS 15 and newer: dock and Home Screen layouts, icon backup, App Library, double-tap to lock, animations, and fast copy.
+Name: SBTweaker
+Author: Kolbicz
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: dev.extbh.fixpay14
 Architecture: iphoneos-arm64
 Version: 0.0.4
@@ -2828,6 +2924,26 @@ Author: Lilliana
 SileoDepiction: https://paisseon.github.io/depictions/Satella.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
 Icon: https://paisseon.github.io/icons/Satella.png
+
+Package: jp.dcsyhi.kbappdock
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: Dcsyhi
+Installed-Size: 1884
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/jp.dcsyhi.kbappdock_1.7.1_iphoneos-arm64.deb
+Size: 981372
+MD5sum: b2c8004807dc84fc9bcc2e87eabdbe28
+SHA1: 5ed0c93cabcaf7bffe553fb738580ae1de9f4145
+SHA256: 21de7b7014977625fdfc56e36208674dab706facbde87339cad42aec297a6145
+SHA512: d33c0f2008f380a60cee694268983f0434882c2edfcf83651c64c2f715bf6cdee8867080d0d5d505d604613a72500849bd85d08ed94f7b32966b5446417ab661
+Description: You can arrange apps on the dock of keyboard ⌨️.
+Name: KBApp
+Author: Dcsyhi
+Icon: https://dcsyhi1998.github.io/icons/kbappdock/icon-large.png
+Depiction: https://dcsyhi1998.github.io/depiction/KBApp.html
+SileoDepiction: https://dcsyhi1998.github.io/Sileodepiction/KBApp.json
 
 Package: kr.xsf1re.vnodebypass
 Architecture: iphoneos-arm64
@@ -5435,6 +5551,26 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Name: StoreSwitcher 2
 Author: 0xkuj
 Icon: https://al3raqi.github.io/photo/al3raQee.png
+
+Package: cz.kolbi.sbtweaker
+Architecture: iphoneos-arm64e
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Kolbicz
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary
+Replaces: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary
+Filename: ./debs/arm64e/cz.kolbi.sbtweaker_1.3.2_iphoneos-arm64e.deb
+Size: 56606
+MD5sum: 07c200be1ab09fa7b47804ab9ed06084
+SHA1: 833cfe4ef1c89d6e28c7375e87f09dc6efda7563
+SHA256: 714ad959f79c7d669919bf2cf0e2a0d1483671d3cd0dd73817175cb17857b408
+SHA512: 34e6e7c201c98cc849377d54569c82bfdfd61d0cea0fb305008e809cd272e187221f764acf07614a116422eac122b08305e495904e0106e6477014440635414a
+Description: Opt-in SpringBoard customizations for rootless and roothide jailbreaks on iOS 15 and newer: dock and Home Screen layouts, icon backup, App Library, double-tap to lock, animations, and fast copy.
+Name: SBTweaker
+Author: Kolbicz
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64e
