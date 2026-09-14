@@ -204,6 +204,27 @@ Name: BlockupdateiosWhatsApp
 Author: Sniper @DNS_Sys
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.cercube.ios
+Architecture: iphoneos-arm
+Version: 6.1.3
+Priority: optional
+Section: Tweaks
+Maintainer: Cercube Tweak <support@cercube.com>
+Installed-Size: 3384
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/arm/com.cercube.ios_6.1.3_iphoneos-arm.deb
+Size: 2019484
+MD5sum: 92c77da135931b750940c7e061abaa69
+SHA1: 583b36a2ccc3761a69e60d05646138d10d766a33
+SHA256: 975ff9edea6ffb1f1da69a244e0e1fd714826fd3aedd035634002e5a430a2b09
+SHA512: c1df60ef778b004207c8730d0cbba81883fe32bc3474c9d29a4ec620b161053f276534ff528ebebca8fa956b43017028a1b4a94562462db4f57ba3543d5f3151
+Description: Supercharge your YouTube app.
+Name: Cercube for YouTube
+Author: Cercube
+Depiction: https://apt.cercube.com/depiction/FDXO5R
+SileoDepiction: https://apt.cercube.com/depiction/sileo/FDXO5R
+Icon: https://cdn.cercube.com/assets/icon.png
+
 Package: com.daveapps.quitall
 Architecture: iphoneos-arm
 Version: 3.1
@@ -1338,6 +1359,27 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransitcardversionlimit
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
 Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.cercube.ios
+Architecture: iphoneos-arm64
+Version: 6.1.3
+Priority: optional
+Section: Tweaks
+Maintainer: Cercube Tweak <support@cercube.com>
+Installed-Size: 3384
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/arm64/com.cercube.ios_6.1.3_iphoneos-arm64.deb
+Size: 2017412
+MD5sum: 30259bd062b7a0470cf86ef29edc8ac4
+SHA1: c7b075015330fca09b35c13a724c084a60a44b31
+SHA256: 87b63c705bf65b25fbff5d4e16e88b2d92b2ae2a76136f348f8f58148751eab7
+SHA512: 3b5f515ef73270b96fe4c883dd0703bbf2fa0ad70d15129a3d5da7329c3e89e5e5f201f18a747ff113c261fa610d38dc8545c24318de874a32761f9e2158eeb6
+Description: Supercharge your YouTube app.
+Name: Cercube for YouTube
+Author: Cercube
+Depiction: https://apt.cercube.com/depiction/FDXO5R
+SileoDepiction: https://apt.cercube.com/depiction/sileo/FDXO5R
+Icon: https://cdn.cercube.com/assets/icon.png
 
 Package: com.cm90.watranslator
 Architecture: iphoneos-arm64
@@ -2772,6 +2814,25 @@ Name: Immortalizer
 Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 
+Package: com.shajon.fbplus
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: S. SHAJON
+Installed-Size: 824
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.shajon.fbplus_1.0.0_iphoneos-arm64.deb
+Size: 453208
+MD5sum: aac4d3d46099a807c639a58c58293852
+SHA1: e8447cb6359061c564335f04604bb6359d075024
+SHA256: 1c20483efa24ffff76b059f733322ad5edf63aed3101990ac37bc992abbe78fa
+SHA512: 04bca20479d288d7542c0b8bf2e150ecdede5890433ab7873f2f14138a3bb155553eee8d69a4f2f96cda5b8dd73bea66aca19be7573cbed22cd05804869e31b4
+Description: Browse stories privately, confirm before liking, and quieten the feed.
+Tag: role::hacker
+Name: Facebook Plus
+Author: S. SHAJON
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.subdiox.storeswitcher2
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -3704,6 +3765,27 @@ Name: Apple File Conduit "2" (RootHide)
 Author: saurik, Cannathea, i_82, Shadow-
 Depiction: https://cydia.akemi.ai/?page/com.cannathea.afc2d-arm64
 Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.cercube.ios
+Architecture: iphoneos-arm64e
+Version: 6.1.3
+Priority: optional
+Section: Tweaks
+Maintainer: Cercube Tweak <support@cercube.com>
+Installed-Size: 3384
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/arm64e/com.cercube.ios_6.1.3_iphoneos-arm64e.deb
+Size: 2012282
+MD5sum: 64b7cd00198d8b54d44205fb5de38d0a
+SHA1: 7b4ee58f28404e004d6fb9b27f6a99973986c659
+SHA256: 51bf090240f9c3e7fa2fdf5750c4a9198ac08b80faeb7bf2f0b0ea2cef134f12
+SHA512: d6a34a3c910ceac2af13cffd6b0ff2dfcc7188378b204d827718faaf7a9556b31f76c91a0a1d2d158195499775f92e19610a4daa1757d3dbca2a4aedf4c99910
+Description: Supercharge your YouTube app.
+Name: Cercube for YouTube
+Author: Cercube
+Depiction: https://apt.cercube.com/depiction/FDXO5R
+SileoDepiction: https://apt.cercube.com/depiction/sileo/FDXO5R
+Icon: https://cdn.cercube.com/assets/icon.png
 
 Package: com.chr1s.newtab
 Architecture: iphoneos-arm64e
