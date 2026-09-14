@@ -23,24 +23,6 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.0xkuj.iparanger
 Architecture: iphoneos-arm
-Version: 2.2
-Section: Applications
-Maintainer: 0xkuj
-Installed-Size: 11496
-Depends: gawk, unzip, plutil
-Filename: ./debs/arm/com.0xkuj.iparanger_2.2_iphoneos-arm.deb
-Size: 3441992
-MD5sum: 26f852223dc52ad2eb2196612cc1b3ed
-SHA1: 0990eb36a399fb423e51b1f5e0b9b203dd204eb9
-SHA256: 5c04617f954766f2cc64cd4b73ac80dd9153267310c293b53bc6287bb8173ef8
-SHA512: 0f6d735a6cab5bd802f25119066a1dab7dd53c810b1681cb456bfe92968f7f4d2891dd8dd4de23809f712ddcbbadad2e7937c6d79fead45973c39ecd0b2abcab
-Description: GUI Based Application for ipatool
-Name: IPA Ranger
-Author: 0xkuj
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.0xkuj.iparanger
-Architecture: iphoneos-arm
 Version: 2.5.1
 Section: Applications
 Maintainer: 0xkuj
@@ -1092,24 +1074,6 @@ SHA256: 780b4c25884a4b3cc4abfdc31ce33c3bfa417af5b3ab460dff206ea26029ffa2
 SHA512: a4ccaf9d7dd33a2c50c05e1939ddc84c8ea121d7af405beb9cf21cda37d6772305aff235692a3dfa8f1db8135098f8c1bc8a61b76c45c15ce6925c24780c795b
 Description: A tweak to rescale all your existing contacts images to full screen
 Name: ContactsFS
-Author: 0xkuj
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.0xkuj.iparanger
-Architecture: iphoneos-arm64
-Version: 2.2
-Section: Applications
-Maintainer: 0xkuj
-Installed-Size: 11496
-Depends: gawk, unzip, plutil
-Filename: ./debs/arm64/com.0xkuj.iparanger_2.2_iphoneos-arm64.deb
-Size: 3442220
-MD5sum: d438acda86cb1d0369666f89139b5b1f
-SHA1: 7aa02e7a9e511bc1cdba5b465248e6af6e765fbb
-SHA256: 68797e2c89ea1a03e680d52399b9b5eb6a276d0f6bae2f204161341679f829fb
-SHA512: 9d97bc541a7fb0f351d2ae701a14c047f311c33176d5033f4a8781cdf7ecdc7ca5eaff9dfeb3884aa3b182a7ab78f7db27b50a5269f38b45b3a5eafc1034b557
-Description: GUI Based Application for ipatool
-Name: IPA Ranger
 Author: 0xkuj
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
@@ -2346,6 +2310,24 @@ Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
 Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+
+Package: com.icraze.thinqbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: iCraze
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.icraze.thinqbypass_1.0_iphoneos-arm64.deb
+Size: 2566
+MD5sum: f0764e22d4a9e4807f73fcf4f1b1eeef
+SHA1: 04824890369b1053ee93c21e323d149cffd0dd5b
+SHA256: c8eee611ea9b61f2600cd47cca735bd12095864f94c0c5769f78a6f48d4e2afe
+SHA512: 71bbdbc5b970f10614c8dfa9630edf4ec5dbf7e7518d3256ce4b65e21e6d9693bf3ae514313660aec548dfca9ff272f1c6773dc78302a9c33cc1e806c81bf26d
+Description: Bypass LG ThinQ jailbreak detection. Tested on v5.2.13420. Fuck LG
+Name: LG ThinQ JB Bypass
+Author: iCraze
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.ivintagelover.solidglassrl
 Architecture: iphoneos-arm64
