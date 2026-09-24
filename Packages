@@ -169,6 +169,25 @@ Name: BHTwitter
 Author: Bandar Alruwaili
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm
+Version: 7.0.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 13708
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debs/arm/com.bandarhl.bhtwitter_7.0.0-1+debug_iphoneos-arm.deb
+Size: 4750478
+MD5sum: e1749e8a7fefa94f82ccf67aa19d6748
+SHA1: f0b1cc53ff436d4fd8e1d7aa99fffef9810bbd21
+SHA256: 5f4de1250cf447515c57b0b944349296bf441819d6fb02fa14c16c5a305bd0f1
+SHA512: 2f204fa3b437adb8a92f4469b2e3e42eb6c416dd8e726a83685d8f628fb631df28558e2e9f78c72133ac2b7eabba2c89ea60b9a2ba194db80fa43896a297c33c
+Description: Awesome tweak for Twitter
+Name: orionblur-NFB-BHTwitter
+Author: NeoFreeBird
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.blockupdateioswhatsapp.sniper
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1282,6 +1301,25 @@ SHA256: 6a4a5de1d91f2360c5e6ea0bfae040b2e486ab7ec7ba4c4192104f4b15e29cff
 SHA512: 825cf7522752d436d07d47512bf8ffa62bc7b16eb1dda1f6bfd608d779a0da9647bcd741c7f2cb46402bfecca03b24c51385b2b549e7511a39a7da99ecb3347f
 Description: Awesome tweak for Twitter
 Name: NFB-BHTwitter
+Author: NeoFreeBird
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 7.0.0-1+debug
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 13708
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debs/arm64/com.bandarhl.bhtwitter_7.0.0-1+debug_iphoneos-arm64.deb
+Size: 4750730
+MD5sum: be95548f52cfbedaa189283fee76d848
+SHA1: 04bfb25297cc6eb5fce0b7db75a568c0ce3a73bc
+SHA256: 94f5ce330a4e0a506aff39abe7faa15f4340c21100ecf916ad3288a4ceccfbe6
+SHA512: 5a5121cf53f8c2f8b9cfc2e5543e33feeb50e806d1a5ea06198c350dd0e0cc33f91f89dc44e46d1ba3601e4629efc24cba6cdb5e7d8737ba4441889c6f5d65a3
+Description: Awesome tweak for Twitter
+Name: orionblur-NFB-BHTwitter
 Author: NeoFreeBird
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
