@@ -488,6 +488,24 @@ Name: EeveeSpotify
 Author: Eevee
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.fahid.fahdyout
+Architecture: iphoneos-arm
+Version: 1.2.6
+Section: Tweaks
+Maintainer: Fahid Alsubaie
+Installed-Size: 6568
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.fahid.fahdyout_1.2.6_iphoneos-arm.deb
+Size: 1342678
+MD5sum: 23653e906da382946dbb1abae10a4733
+SHA1: cbfc92eba1fc61effe81d91f4cca3ad253f0898a
+SHA256: 809044ba1a89044da29ccac2fe1c01ed63b88f7840dde256fc63c19151d3a293
+SHA512: d4760568acec634f4848f358bb07ad05bc1723cfc3cc8ac08c09dcf65d8874f3f9f4630b95e1ef7646dfb09bd28253a46d89b2a4146d7f2b3cbc4c55fd5451fa
+Description: YouTube tweak with advanced features and downloads
+Name: FahdYouT
+Author: Fahid Alsubaie
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm
 Version: 1.0.34
@@ -643,7 +661,7 @@ Section: Tweaks
 Maintainer: Nasser | NoTimeToChill
 Installed-Size: 2208
 Depends: mobilesubstrate
-Filename: ./debs/arm/com.na9.tiktok_1.0~beta5_iphoneos-arm.deb
+Filename: ./debs/arm/com.na9.tiktok_1.0~beta5-2+debug_iphoneos-arm.deb
 Size: 513568
 MD5sum: 62abdbfb1a617877b904d5f258fc697b
 SHA1: 9a2ca0da986be167a5288d1b70f8efaa49834aa7
@@ -1489,24 +1507,6 @@ Name: AutoCache
 Author: MrDeNsor
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
-Package: com.den.auto
-Architecture: iphoneos-arm64
-Version: 1.0-29+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.auto_1.0_iphoneos-arm64.deb
-Size: 26156
-MD5sum: 6a4dc7412488b5c7520b97d3387b1e60
-SHA1: 2ec16f082c88a18ff5372fad8a61d660e5337043
-SHA256: f322937312552914e742916e0a214810a945ea51a234e460ab73b7edef5bc33a
-SHA512: 2dc241df9f2d1bdf5c351603d6a63d339bb593ac0d7eca8a271cde65906ad5745ca4bd1cbcb9dd744439736af09a23c42d4880d24b6e98b1d331d61d1d59ac52
-Description: Automatically clears app caches with a countdown timer
-Name: AutoCache
-Author: MrDeNsor
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
 Package: com.den.blur
 Architecture: iphoneos-arm64
 Version: 1.0-8+debug
@@ -2157,7 +2157,7 @@ Section: Tweaks
 Maintainer: Fahd
 Installed-Size: 1240
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/arm64/com.fahd.fahdutility_1.0.0+debug_iphoneos-arm64.deb
+Filename: ./debs/arm64/com.fahd.fahdutility_1.0.0-113+debug_iphoneos-arm64.deb
 Size: 245376
 MD5sum: 0b710b6a0f56fe54207bb36f12eed275
 SHA1: cf52f1b94470e886f5d38cf1f1bae431bc6dddb7
@@ -2174,7 +2174,7 @@ Version: 1.2.3-8+debug
 Section: Tweaks
 Maintainer: Fahd
 Installed-Size: 1920
-Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.3+debug_iphoneos-arm64.deb
+Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.3-8+debug_iphoneos-arm64.deb
 Size: 318328
 MD5sum: 6e77b4be48e873e7f6bb0b515f332090
 SHA1: 71c6b86f398c7c27714eaf2279277fa40c5d9624
@@ -2191,7 +2191,7 @@ Version: 1.2.4-1+debug
 Section: Tweaks
 Maintainer: Fahd
 Installed-Size: 1936
-Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.4+debug_iphoneos-arm64.deb
+Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.4-1+debug_iphoneos-arm64.deb
 Size: 322330
 MD5sum: f42bb4395e0bc6d2e0cacacfe78de891
 SHA1: fce854c8fb81fc29953da3f97d8346f7339f619d
@@ -2233,24 +2233,6 @@ MD5sum: fe8547d019324ab1ffe63e07a71c14fe
 SHA1: f34adcf14577ff0280efcddbba2825e0b99a4bed
 SHA256: 222e225d2c16aa28a0b9c397794d47e2d71f208816615289d7a39a2edb73b964
 SHA512: 313ae17c8c9899b0f64ec0ad0f6109250c4955a530112fed1dfcae011ce3daa5bf2789ba5183de10e337ba33bede4b17eef18be202eca7abfc0054f3e309f403
-Description: YouTube tweak with advanced features and downloads
-Name: FahdYouT
-Author: Fahid Alsubaie
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.fahid.fahdyout
-Architecture: iphoneos-arm
-Version: 1.2.6
-Section: Tweaks
-Maintainer: Fahid Alsubaie
-Installed-Size: 6568
-Depends: mobilesubstrate
-Filename: ./debs/arm64/com.fahid.fahdyout_1.2.6_iphoneos-arm.deb
-Size: 1342678
-MD5sum: 23653e906da382946dbb1abae10a4733
-SHA1: cbfc92eba1fc61effe81d91f4cca3ad253f0898a
-SHA256: 809044ba1a89044da29ccac2fe1c01ed63b88f7840dde256fc63c19151d3a293
-SHA512: d4760568acec634f4848f358bb07ad05bc1723cfc3cc8ac08c09dcf65d8874f3f9f4630b95e1ef7646dfb09bd28253a46d89b2a4146d7f2b3cbc4c55fd5451fa
 Description: YouTube tweak with advanced features and downloads
 Name: FahdYouT
 Author: Fahid Alsubaie
@@ -2309,25 +2291,6 @@ MD5sum: 25acbe5dd2e0d161e88975b369c44725
 SHA1: 9911729edb671e0aeb466c8ba4438e3cfb46e2b5
 SHA256: 8bf33b555569c4998e5de7e104995c3d95a801171d42e2cc3be5815275b71be9
 SHA512: 7211f9dc889bb8a1ba40bb565e751243cd918060fe05a05cba9d5a98ec0900a0d70eea9edad0e9b777c41dddd3e424bda47366722254764a5bc3c8c1cfb0cc62
-Description: YouTube Music Premium
-Name: YTMusicUltimate
-Author: dayanch96 & ginsu
-Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
-
-Package: com.ginsu.ytmusicultimate
-Architecture: iphoneos-arm64e
-Version: 2.4.1
-Section: Tweaks
-Maintainer: dayanch96 & ginsu
-Installed-Size: 17916
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.ginsu.ytmusicultimate_2.4.1_iphoneos-arm64e.deb
-Size: 6572062
-MD5sum: 1359292410d2fc2a622dd6dfd39b1934
-SHA1: 68d1a86d608218a59484aad9c0c273c5c9bec191
-SHA256: f53220edcf618a500e376a7f8200199ee5e69d6e9cb9cd145bfd9ceafd199c18
-SHA512: b363844a3fe1e92f3ef73403aadd8fadda02e997a867fe80ee9bcbae78c94ff4b9b98bb57b448c25cccdcee65b9eabb12034049f0405f2130b29e31bc64261d3
 Description: YouTube Music Premium
 Name: YTMusicUltimate
 Author: dayanch96 & ginsu
@@ -2561,7 +2524,7 @@ Section: Tweaks
 Maintainer: Nasser | NoTimeToChill
 Installed-Size: 2208
 Depends: mobilesubstrate
-Filename: ./debs/arm64/com.na9.tiktok_1.0~beta5_iphoneos-arm64.deb
+Filename: ./debs/arm64/com.na9.tiktok_1.0~beta5-1+debug_iphoneos-arm64.deb
 Size: 513710
 MD5sum: f3fb8b220dd3bdbb0f6c49de519006e0
 SHA1: 0be0a42f216fc22ccd12ca20741af2ffb9b71854
@@ -4012,7 +3975,7 @@ Maintainer: MrDeNsor
 Installed-Size: 272
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64e/com.den.auto_1.0_iphoneos-arm64e.deb
+Filename: ./debs/arm64e/com.den.auto_1.0-29+debug_iphoneos-arm64e.deb
 Size: 34284
 MD5sum: 2d74af2759df7568106c29b8f82492be
 SHA1: 99510723e2584609d3e480cb40fc96a2d89193df
@@ -4069,7 +4032,7 @@ Maintainer: MrDeNsor
 Installed-Size: 1600
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64e/com.den.igformat_1.85_iphoneos-arm64e.deb
+Filename: ./debs/arm64e/com.den.igformat_1.85-2+debug_iphoneos-arm64e.deb
 Size: 351610
 MD5sum: f8b906984d0178ab5355ad79a9465cbc
 SHA1: 77927fd8a7669384ababe4632b7f70098b79a2fa
@@ -4090,7 +4053,7 @@ Maintainer: MrDeNsor
 Installed-Size: 1564
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64e/com.den.igformat_1.86_iphoneos-arm64e.deb
+Filename: ./debs/arm64e/com.den.igformat_1.86-1+debug_iphoneos-arm64e.deb
 Size: 337946
 MD5sum: 97053d8f4a8e6487744f543c6ccbc9fd
 SHA1: 6e8629e5d87b25f9a6eb025a15e46edfa9f51cf2
