@@ -2150,6 +2150,112 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
 
+Package: com.fahd.fahdutility
+Architecture: iphoneos-arm64
+Version: 1.0.0-113+debug
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 1240
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/com.fahd.fahdutility_1.0.0+debug_iphoneos-arm64.deb
+Size: 245376
+MD5sum: 0b710b6a0f56fe54207bb36f12eed275
+SHA1: cf52f1b94470e886f5d38cf1f1bae431bc6dddb7
+SHA256: 5c1e2739f24f9e5de6dfa89a8ca66dc21fd7342e9094a52dac734b6f420bd7c0
+SHA512: 9b075be3e80ff632d1c0fb07579d55c647ef114b00a6de499177c4cde753e73d4d3b9da5a8dde6e33c2862857928068c3166f3bf0b36be40dba32017ce122ca1
+Description: A premium SpringBoard swipe gesture utility to inspect, clean, and manage apps.
+Name: FahdUtility
+Author: Fahd
+Icon: https://files.catbox.moe/bkzadt.png
+
+Package: com.fahd.tiktokdownloader
+Architecture: iphoneos-arm64
+Version: 1.2.3-8+debug
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 1920
+Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.3+debug_iphoneos-arm64.deb
+Size: 318328
+MD5sum: 6e77b4be48e873e7f6bb0b515f332090
+SHA1: 71c6b86f398c7c27714eaf2279277fa40c5d9624
+SHA256: 567fdd99037c35927d15649c5d55c52b28f910db862a913e3ff6547bdbddba8f
+SHA512: ec2297caab3fb84791f673b7315fc2524eb115260b61c8fda6d8c7b085a0f58eb37988ab29c98a14a81f3d1d518689d6eb24f3dbf1e7033bf49b2644ce00c30b
+Description: A premium TikTok downloader tweak with iOS 26 style UI.
+Name: TikTok Fahd Downloader
+Author: Fahd
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahd.tiktokdownloader
+Architecture: iphoneos-arm64
+Version: 1.2.4-1+debug
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 1936
+Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.4+debug_iphoneos-arm64.deb
+Size: 322330
+MD5sum: f42bb4395e0bc6d2e0cacacfe78de891
+SHA1: fce854c8fb81fc29953da3f97d8346f7339f619d
+SHA256: 45748234b84ef8d3c768f00ad731a8dc17f81d9477037ac4a2e0d29a8d082de9
+SHA512: d7b1b0aebde4c47dc0d9d5a478af42e011f2d7d670b766fc9f398dc1c6c92bf90e496825b5bea956dfe66f90618ed52c9cab12d04842b6c4d9b4e540c315a13a
+Description: A premium TikTok downloader tweak with iOS 26 style UI.
+Name: TikTok Fahd Downloader
+Author: Fahd
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahd.twitterdownloader
+Architecture: iphoneos-arm64
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 6912
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahd.twitterdownloader_1.2.5_iphoneos-arm64.deb
+Size: 1424956
+MD5sum: 402c12edf0fdc22d3e0dcccc4648ac67
+SHA1: a51f2126f936a1c2b12e8d68aae0ce47c24291ff
+SHA256: f1de308e64679199444cf60f6b55a2a8073971e90f06d96e116318ce3569f0a9
+SHA512: 1c554902488847b7a9bd74c3e39367e6aa1d9a3991a547b4e12b70f4416b91a1f49f9b04bb0b46bc89feca60626ac040232f350cba83b4955aa4f8f92e5e6815
+Description: A premium Twitter/X tweak with modern glassmorphic UI.
+Name: FahdTwitter
+Author: Fahd
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahid.fahdyout
+Architecture: iphoneos-arm64
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Fahid Alsubaie
+Installed-Size: 6536
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahid.fahdyout_1.2.5_iphoneos-arm64.deb
+Size: 1334144
+MD5sum: fe8547d019324ab1ffe63e07a71c14fe
+SHA1: f34adcf14577ff0280efcddbba2825e0b99a4bed
+SHA256: 222e225d2c16aa28a0b9c397794d47e2d71f208816615289d7a39a2edb73b964
+SHA512: 313ae17c8c9899b0f64ec0ad0f6109250c4955a530112fed1dfcae011ce3daa5bf2789ba5183de10e337ba33bede4b17eef18be202eca7abfc0054f3e309f403
+Description: YouTube tweak with advanced features and downloads
+Name: FahdYouT
+Author: Fahid Alsubaie
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahid.fahdyout
+Architecture: iphoneos-arm
+Version: 1.2.6
+Section: Tweaks
+Maintainer: Fahid Alsubaie
+Installed-Size: 6568
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahid.fahdyout_1.2.6_iphoneos-arm.deb
+Size: 1342678
+MD5sum: 23653e906da382946dbb1abae10a4733
+SHA1: cbfc92eba1fc61effe81d91f4cca3ad253f0898a
+SHA256: 809044ba1a89044da29ccac2fe1c01ed63b88f7840dde256fc63c19151d3a293
+SHA512: d4760568acec634f4848f358bb07ad05bc1723cfc3cc8ac08c09dcf65d8874f3f9f4630b95e1ef7646dfb09bd28253a46d89b2a4146d7f2b3cbc4c55fd5451fa
+Description: YouTube tweak with advanced features and downloads
+Name: FahdYouT
+Author: Fahid Alsubaie
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm64
 Version: 1.0.34
