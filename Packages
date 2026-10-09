@@ -2204,35 +2204,71 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.fahd.twitterdownloader
 Architecture: iphoneos-arm64
-Version: 1.2.5
+Version: 1.2.7
 Section: Tweaks
 Maintainer: Fahd
-Installed-Size: 6912
+Installed-Size: 7124
 Depends: mobilesubstrate
-Filename: ./debs/arm64/com.fahd.twitterdownloader_1.2.5_iphoneos-arm64.deb
-Size: 1424956
-MD5sum: 402c12edf0fdc22d3e0dcccc4648ac67
-SHA1: a51f2126f936a1c2b12e8d68aae0ce47c24291ff
-SHA256: f1de308e64679199444cf60f6b55a2a8073971e90f06d96e116318ce3569f0a9
-SHA512: 1c554902488847b7a9bd74c3e39367e6aa1d9a3991a547b4e12b70f4416b91a1f49f9b04bb0b46bc89feca60626ac040232f350cba83b4955aa4f8f92e5e6815
+Filename: ./debs/arm64/com.fahd.twitterdownloader_1.2.7_iphoneos-arm64.deb
+Size: 1484314
+MD5sum: 6e1b9f9eb67d994018f98cf8961c6276
+SHA1: 6b21f591c349576bcb3141c13085927a06799cf7
+SHA256: 016b50ab81e8fcc972c8b54c59b784a38f01cb63e4d3851852cce61c64e846b4
+SHA512: b5461d84b1a598b4ca377b07664a0a385d8505d93204d25d24ae8c41cc9c844e9bfbcbdb460d5b642ba75c983c8aefcffd9b528d74b89dc5f21048beb8a8841f
+Description: A premium Twitter/X tweak with modern glassmorphic UI.
+Name: FahdTwitter
+Author: Fahd
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahd.twitterdownloader
+Architecture: iphoneos-arm64
+Version: 1.2.8
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 7660
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahd.twitterdownloader_1.2.8_iphoneos-arm64.deb
+Size: 1689190
+MD5sum: 1da905f0836773a0672a5aa93e0803d5
+SHA1: dd7ad1662315d96873bc2a4aec8932e3d51036d6
+SHA256: 1f0a9e7ac9d3eba8704806eb1b90dc77019a9fe9b023c332cdbc1380d1219e7f
+SHA512: 37a664f2e5bb26b65997620357821f89f0bc8952d1cde5cd95e0a732ebc850c42a680dd45aba3f2d1515863c79f045e3a26c135fbc646d4534296c97eecf1a48
 Description: A premium Twitter/X tweak with modern glassmorphic UI.
 Name: FahdTwitter
 Author: Fahd
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.fahid.fahdyout
-Architecture: iphoneos-arm64
-Version: 1.2.5
+Architecture: iphoneos-arm
+Version: 1.2.7
 Section: Tweaks
 Maintainer: Fahid Alsubaie
-Installed-Size: 6536
+Installed-Size: 6600
 Depends: mobilesubstrate
-Filename: ./debs/arm64/com.fahid.fahdyout_1.2.5_iphoneos-arm64.deb
-Size: 1334144
-MD5sum: fe8547d019324ab1ffe63e07a71c14fe
-SHA1: f34adcf14577ff0280efcddbba2825e0b99a4bed
-SHA256: 222e225d2c16aa28a0b9c397794d47e2d71f208816615289d7a39a2edb73b964
-SHA512: 313ae17c8c9899b0f64ec0ad0f6109250c4955a530112fed1dfcae011ce3daa5bf2789ba5183de10e337ba33bede4b17eef18be202eca7abfc0054f3e309f403
+Filename: ./debs/arm64/com.fahid.fahdyout_1.2.7_iphoneos-arm.deb
+Size: 1339952
+MD5sum: 3c7c186ffee145105349b542fac6260f
+SHA1: d14005b97804ec4c23812dde6e579c198da35771
+SHA256: b729ab9705e1dee003cdf5f92a820239398b4675247570efe173c85534e2ce6b
+SHA512: f9d9bf8a7b0e1a7bd66b03a2f074d40798d67df3aa05cb596cbdfdf3a3e758676288c12a8705e917040cf8e87760b409ed8b051d29ba111de2bbc0aa65cff49b
+Description: YouTube tweak with advanced features and downloads
+Name: FahdYouT
+Author: Fahid Alsubaie
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahid.fahdyout
+Architecture: iphoneos-arm64
+Version: 1.2.8
+Section: Tweaks
+Maintainer: Fahid Alsubaie
+Installed-Size: 6780
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahid.fahdyout_1.2.8_iphoneos-arm64.deb
+Size: 1400050
+MD5sum: fe329e8bd3432f40ef32b459d0f44889
+SHA1: 95a043c1f16cbfa253a0fb620f0d6f8f8786b4dc
+SHA256: d8d161f9e00efab1c1fc0b67a4f71dcef2730843594de3d956199873410afb89
+SHA512: 960c6cd54e485e15cb3d1a16739a6766bcee918f467b87a5f46c6fb643c2638f929b7723dca17df017617be039d8db717aae7f42179fa33a3889ea12f0a20a91
 Description: YouTube tweak with advanced features and downloads
 Name: FahdYouT
 Author: Fahid Alsubaie
