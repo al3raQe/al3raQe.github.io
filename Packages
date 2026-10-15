@@ -1269,42 +1269,6 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
-Version: 4.4-1+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 18344
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64/com.bandarhl.bhtwitter_4.4-1+debug_iphoneos-arm64.deb
-Size: 7336826
-MD5sum: e88fb9afcd5b5670457af330bd4a0891
-SHA1: 7553fbe5665571351da924d9b64b747b18876bdb
-SHA256: 4060410fd9244a5a91a9ab852f828ada7ea55552a59c645a0f30fa41668ada76
-SHA512: fb16f5f66c7b9ebe97a4f6cff4ceb935eb11ec0fbf2a21d26c00c503a7835540e56ac6585378d643c834aab4bbaef61fd3f6252f16d7d439e1b92b6748eddff5
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
-Version: 4.5
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 16284
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64/com.bandarhl.bhtwitter_4.5_iphoneos-arm64.deb
-Size: 6425314
-MD5sum: 1198d43992661002b8ed524ea2327fd3
-SHA1: 2abfd06ad901e82244a78c343e0e0235ae15cc5d
-SHA256: 9b534583eab452b481ddad76ec4c95c1964d640469edf3ffce87ab8a611708a7
-SHA512: c377ada193558ee7d22ed35930276b975d3da023e024984e2135716b9872ecf6d2108f275a53e418b8e91fa0d621de9b06a120928a595a05bf8aaf88fe079c28
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
 Version: 5.2-1
 Section: Tweaks
 Maintainer: NeoFreeBird
@@ -1545,26 +1509,6 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
-Version: 2.1.0-1+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 2564
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.igformat_2.1.0-1+debug_iphoneos-arm64.deb
-Size: 530172
-MD5sum: 918800160cf03fc3487e87d7c151ca5f
-SHA1: db879d7b0370f53d42b6a4c5cb33bc3d882135cd
-SHA256: 20087e2038e2fddd54bf1a5074423fac5d9f6e410eb432f8c66f848ab8f4cc3f
-SHA512: 592611689af692c7a2a260b6431694e92ac61ccdd651e68073be2be16a6d87704a187401bd7cee58f2c0250ab1ef0bfffa05c322b2b76cde694984e9f729f4eb
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64
 Version: 2.4.0-1+debug
 Section: Tweaks
 Maintainer: MrDeNsor
@@ -1576,6 +1520,26 @@ MD5sum: c28d99004b3c8329ec48b7a71c5472b3
 SHA1: 176045ae607cae1d8d7b8039d5c7156b864f3e5b
 SHA256: 85137bd72b5c29b898a27198a4e89718554cfd0720202e88758d2f0e39a3f66c
 SHA512: da449d6a58d043e39b31a3754d20a0f9943a851bb430068af0494ca6f8cdab0464693d1aa8316912c5424d78ccd47d10af198562804096b8a0f855db27277ba7
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 2.6.0-1+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 2880
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.igformat_2.6.0-1+debug_iphoneos-arm64.deb
+Size: 605680
+MD5sum: 335b226c5e162a9c26ec59e0f12f3a1a
+SHA1: 48e27c1ad7bff46de1ef19d7063020a71600aee5
+SHA256: 3f3e624cba1294bb306d8ddff6b9666ee1efc631e186aeaea4e42418beb88287
+SHA512: 89ecbbe0fa49deb77604b43be3ba14f5bbb4568e71c89283ac805cd470eaa1be82f87901b82b95d597e74d73bef88bf52a9706e2e0c28a19b0448fd9442ad839
 Description: Powerful Instagram Tweak
 Name: IGFormat
 Author: MrDeNsor
@@ -1657,26 +1621,6 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.den.twigalaxy
 Architecture: iphoneos-arm64
-Version: 1.10-10+debug
-Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 1080
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.twigalaxy_1.10-10+debug_iphoneos-arm64.deb
-Size: 167932
-MD5sum: c17d661d4357971a8af31cb46d507882
-SHA1: 09aed5cada5b9877152dd7638c557362f059804f
-SHA256: 49a4cee9749f663fa97ec17b5dee643a3dd931d681ff6baa2efb6acf8fbaa665
-SHA512: de808ed746c96e683677540e42feacad259b76b99f2ca81ba1acafc5fe23ce5524eb576ad213c8a677ffdddcf9e77820b750a5091a1a2139902643591ba15622
-Description: Make Twitter Better!
-Name: TWIGalaxy
-Author: DeNsor
-Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
-Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
-
-Package: com.den.twigalaxy
-Architecture: iphoneos-arm64
 Version: 1.13-1+debug
 Section: Tweaks
 Maintainer: DeNsor
@@ -1715,62 +1659,6 @@ Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
 Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
 
-Package: com.den.vibetok
-Architecture: iphoneos-arm64
-Version: 1.2-11+debug
-Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 616
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.vibetok_1.2-11+debug_iphoneos-arm64.deb
-Size: 91404
-MD5sum: a45071f6a183005b19af26022cde8519
-SHA1: bddc5ba1fc667d4cc68fc3d43373979c34853561
-SHA256: 604388779ab1b4c599fb05c7be298eab17d8cff5a742a67317b51fbb3ef87045
-SHA512: 5c2bbcc7fa256b852fcfb1d8d4d0f65216c1681ce8d7f25c16dacbf78c4859d279d3a0d0f32805996ad8978c26e49670eb90c847840f78dfbd7106dbbda370aa
-Description: Make TikTok Better!
-Name: VibeTok
-Author: DeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
-
-Package: com.den.vibett
-Architecture: iphoneos-arm64
-Version: 1.73-1+debug
-Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 1032
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.vibett_1.73-1+debug_iphoneos-arm64.deb
-Size: 167968
-MD5sum: b8d155b26d31f9aaa534e2ffa4668112
-SHA1: 8e7b82e7c0f5641a88fad1b497cfeb0aba3e3986
-SHA256: c0663081d0c9023f4696e1999acfa7c17497aa936838da38b9d3ec28bdc6c894
-SHA512: 14a8ea0006975946b40029b8969d93c05a3e1c495a6db2cf9370fdd833a3b7a43df23c434e475e88164864878b6926c6373fbccbcbe5640216c967bcdd30e50a
-Description: Make TikTok Better!
-Name: VibeTok
-Author: DeNsor
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.den.vibett
-Architecture: iphoneos-arm64
-Version: 1.73-2+debug
-Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 1408
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/arm64/com.den.vibett_1.73-2+debug_iphoneos-arm64.deb
-Size: 241502
-MD5sum: fc7e609e787fad972246f976b146f706
-SHA1: 5ca6644ff3bd849b80fec5ef9690e86f52355539
-SHA256: 3a99b573fc80ac425eaba9992f5b4adf238469b87d47042f206b38e9460362fc
-SHA512: 4375d6799b8e6cdbbea396cfc1da0c5c6f6f05578f57af16b3fb1a4e31770cf790b5fa89242092e1ab7063b1749b048df0c2e5b356f4e6d9ce9a74c28387595f
-Description: Make TikTok Better!
-Name: VibeTok
-Author: DeNsor
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
 Package: com.den.vibett
 Architecture: iphoneos-arm64
 Version: 1.75-1+debug
@@ -1784,6 +1672,24 @@ MD5sum: e45f04e74626e164cbaa436cfceca627
 SHA1: 3102ddf606db69e144ca1d55645ad146c2af8fb2
 SHA256: 8be0367f0840975af5eac587493d0c5a2edd023b27fba280c2d9dc3dd405aa39
 SHA512: 8b737fbd796ec353bfbb5da19c6806ee2dffc48d889e0d38f22158108811f88ffca69d8d1301697e527a2e6c86991adcc869d83e493d89fe9800f21c8be01756
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.den.vibett
+Architecture: iphoneos-arm64
+Version: 1.77-1+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 1540
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64/com.den.vibett_1.77-1+debug_iphoneos-arm64.deb
+Size: 258790
+MD5sum: 64540b0a5ee0b2c91654c1b850a3487d
+SHA1: faf0cdf2b2dfbb9d9b78d2a72314275ab0c283dd
+SHA256: 424d14cdb421ebf958cfcd100ba6d3f9916926fc9eb724474510a5139c453710
+SHA512: a6a5d68f598d7084f28c65ff1928911846776ba36de8013ac8be6ce595985b1b3d24846dc03af5f963d8a6c58450a0fd2a6305172c1dd4012b5a34ce08f19cbf
 Description: Make TikTok Better!
 Name: VibeTok
 Author: DeNsor
@@ -2450,6 +2356,26 @@ SHA512: 71bbdbc5b970f10614c8dfa9630edf4ec5dbf7e7518d3256ce4b65e21e6d9693bf3ae514
 Description: Bypass LG ThinQ jailbreak detection. Tested on v5.2.13420. Fuck LG
 Name: LG ThinQ JB Bypass
 Author: iCraze
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.itzzace.ytkace
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: itzzace
+Installed-Size: 6536
+Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
+Filename: ./debs/arm64/com.itzzace.ytkace_1.1.3_iphoneos-arm64.deb
+Size: 2038226
+MD5sum: 57ab0b2a9b539cada03ef0a33e71d1ca
+SHA1: 90f4cd09ee60171ec67e6dfa8f81e0b890461385
+SHA256: 26d6aa39123a183879276a75673cc2e854b38e648483a7e9b709ffc0a7060755
+SHA512: 921cc49b3beb4408c05528e8b7aac9803ece484c10c25179cd9329a933ced8bf8a2b2a7af049c4af6a6afc665473c722888187168cee2c935160b51df2be4580
+Homepage: https://github.com/itzzace/ytkace
+Description: Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Tag: role::enduser
+Name: YTKACE
+Author: itzzace
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.ivintagelover.solidglassrl
@@ -4761,6 +4687,26 @@ Description: Battery Color based on the battery percentage.
 Name: ColorMyBattery
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+
+Package: com.itzzace.ytkace
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: itzzace
+Installed-Size: 6536
+Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
+Filename: ./debs/arm64e/com.itzzace.ytkace_1.1.3_iphoneos-arm64e.deb
+Size: 2037774
+MD5sum: 38b8422aa9dc7772e4c56e8ab19048eb
+SHA1: 0912933897c604a1efaae0cfe52772b3e13a223a
+SHA256: eb1c8e5708e975c114ab0e54fa3e25663488a3b4056cec58dfd0b74ff52f52b5
+SHA512: a0e7795048e468414100332cfb60b05c196fbfec6fe79ced12dbd113c8b66306715e117546067b40008e5549accb4645cde47c5f67719c6955f9ef03dcb21eab
+Homepage: https://github.com/itzzace/ytkace
+Description: Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Tag: role::enduser
+Name: YTKACE
+Author: itzzace
+Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.ivintagelover.solidglassrl
 Architecture: iphoneos-arm64e
