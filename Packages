@@ -1,3 +1,22 @@
+Package: com.na9.tiktok
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 3812
+Depends: mobilesubstrate
+Filename: ./debs/arm/RootFull_com.na9.tiktok_1.0_iphoneos-arm.deb
+Size: 1284720
+MD5sum: baf3d7b110454094f4758fe8d93e9f21
+SHA1: 8b19a89c28df4334f549f5f877f0ead80540440f
+SHA256: 422a3744b4f20e34277867f26ddd152912f0813ff23770a6fc37c7eab2c02fc6
+SHA512: 6ff3ff2b7b0022483315490d91375ed81c1aa144c22a4ddfb7dd64e5fcca19c20ea9a1d22d9247511a3c5484b72b3d596935fe053c429b89bd54493ee1ab2497
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me. Tweak preferences can be found in the TikTok settings
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://raw.githubusercontent.com/nowesr1/NA9TikTok/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/NA9TikTok/main/Resources/depiction.json
+
 Package: com.0xkuj.blockwaupdates
 Architecture: iphoneos-arm
 Version: 1.1
@@ -1035,6 +1054,25 @@ Tag: role::developer
 Name: SwiftProtobuf
 Author: eevee
 Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.na9.tiktok
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 3812
+Depends: mobilesubstrate
+Filename: ./debs/arm64/RootLess_com.na9.tiktok_1.0_iphoneos-arm64.deb
+Size: 1284612
+MD5sum: 39d0490c2c00a7c03a2345fa89b8290f
+SHA1: 1bfac3d1bec0b1ae8aadf6e825968bcd4e09cec8
+SHA256: c0b7fc6d9da34e75d229a49c070e760e6a776f6fc27ecc5b1a2325c585cab486
+SHA512: 311d81c9f672e550834efece46e2f7ca70ebc588fdbe95c03c2c0ffa85b22a3cd0ceb32b8d4e25b385a041c13e21d13f239218d2f0675475003b88d14a1d9602
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me. Tweak preferences can be found in the TikTok settings
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://raw.githubusercontent.com/nowesr1/NA9TikTok/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/NA9TikTok/main/Resources/depiction.json
 
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64
@@ -3277,6 +3315,25 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Depiction: https://chariz.com/get/newterm-beta
 Support: https://hashbang.productions/support/
+
+Package: com.na9.tiktok
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 3796
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/RootHide_com.na9.tiktok_1.0_iphoneos-arm64e.deb
+Size: 1284504
+MD5sum: e965110bada36de6a81dee41ceb1561d
+SHA1: f5fb9d4e641a9048fb3a6566e6b8b13abe19e345
+SHA256: f2c05b954fa28d7e56029733d12eee1754e44c28d078dc6ac6ba2a5b018187b7
+SHA512: 83dea8dc46133a948c4bf9aa1d79f9b19e2118195b60e417872ba6b92587341f09c90ca328acdd61caf4cf60551a446d8a57f08b297d6cac1421ce0cbd16fcf8
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me. Tweak preferences can be found in the TikTok settings
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://raw.githubusercontent.com/nowesr1/NA9TikTok/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/NA9TikTok/main/Resources/depiction.json
 
 Package: ai.akemi.appsyncunified
 Architecture: iphoneos-arm64e
