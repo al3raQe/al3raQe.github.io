@@ -637,6 +637,32 @@ SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 dev: ichitaso
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.ichitaso.powerselector11
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Utilities
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 1816
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/arm/com.ichitaso.powerselector11_1.5.1_iphoneos-arm.deb
+Size: 423814
+MD5sum: 61b24a1f386b94de7794466567f39783
+SHA1: b357554fd27662c1a1fa6383eb2f872e87c3c26a
+SHA256: f241012fd877443fbf465d4896e1c910f7aa2d87572635787253298f688523d9
+SHA512: 23f2a34ffe52787cd9be8d4157a39441b1812571c72890fe5d384e2d676691677f3b46865fef4f79c02b55091a68974f958d274dd693a9c297583e72d9961236
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios26.0.1
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/PowerSelector/PowerSelector-icon-360.png
+SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+
 Package: com.ivintagelover.solidglass
 Architecture: iphoneos-arm
 Version: 2.0
@@ -2411,6 +2437,32 @@ Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
 Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+
+Package: com.ichitaso.powerselector11
+Architecture: iphoneos-arm64
+Version: 1.5.1
+Section: Utilities
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 2080
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/arm64/com.ichitaso.powerselector11_1.5.1_iphoneos-arm64.deb
+Size: 410204
+MD5sum: 88fb5d48683441b4d004f464a0d47217
+SHA1: d5c74c4238523281cd497939ba9390676c11484e
+SHA256: edef7f52e2f473f05ae056e19cf06ded5e2072442f220d2e655f75be288093e9
+SHA512: 6f249228ce76bd7222bde95fe0cd996f58c3acd116e8bfc5f2f7e443cefcaeeb04e14b235c0edfed062ece3d6d0256772851513e46cf2a883815b289085c4576
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios26.0.1
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/PowerSelector/PowerSelector-icon-360.png
+SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 
 Package: com.icraze.thinqbypass
 Architecture: iphoneos-arm64
@@ -4759,6 +4811,32 @@ Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
 Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+
+Package: com.ichitaso.powerselector11
+Architecture: iphoneos-arm64e
+Version: 1.5.1
+Section: Utilities
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Installed-Size: 2072
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/arm64e/com.ichitaso.powerselector11_1.5.1_iphoneos-arm64e.deb
+Size: 406288
+MD5sum: 40fee1ee752e3ce7b5eec69e8497ea1f
+SHA1: 2731e1f0b4ccf0f79e6002ad76b1336fe0ccaf74
+SHA256: 4b61557dac4ce68d5c495cca1a249c3625d4c502c155be723d272d6031a64523
+SHA512: 79e55987f33a0575fb3210e1b8dcf34ae561f2841f257e74e83522742ceacdb03f69e8686880f2f948e3e0a8242228c8fa14ae11b412d5a04cb15f65dd31144d
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios26.0.1
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/PowerSelector/PowerSelector-icon-360.png
+SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 
 Package: com.imkpatil.colormybattery
 Architecture: iphoneos-arm64e
