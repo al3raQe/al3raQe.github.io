@@ -911,24 +911,6 @@ Name: StoreSwitcher 2
 Author: subdiox
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
-Package: com.t4mag0.vidgrab
-Architecture: iphoneos-arm
-Version: 1.3.6b
-Section: Applications
-Maintainer: T4MAG0
-Installed-Size: 94683
-Filename: ./debs/arm/com.t4mag0.vidgrab_1.3.6b_iphoneos-arm.deb
-Size: 19153272
-MD5sum: a24f5befee6c2aa19905c8d9b10e6eb4
-SHA1: 721d75b9d976e563b5665c1f3e0126fea412c1e0
-SHA256: d6b8330d18752efe0273d272938f6c4fc5d91b48d15e7cc55eef907d4f787d68
-SHA512: 93d1db89372e7c394a05a7aa3220e5fde9526230cb632efb25962af3550c45082e42b19881b0eb12b7b856a576e9313c24d23c9d6f7e6a2de3e33a0b844b8314
-Homepage: https://github.com/iamjhe08/VidGrab
-Description: Download videos from YouTube and other sites. Paste a link or use the built-in browser.
-Name: VidGrab
-Author: T4MAG0
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
 Package: dev.extbh.fixpay14
 Architecture: iphoneos-arm
 Version: 0.0.4
@@ -3022,24 +3004,6 @@ SHA512: a0aab1277763caaf660713f4e36ddd761c2b05dcd5797bd56adba575338bae1e6697efe7
 Description: Adds a button to switch account in App Store account page on iOS 11+.
 Name: StoreSwitcher 2
 Author: subdiox
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.t4mag0.vidgrab
-Architecture: iphoneos-arm64
-Version: 1.3.6c
-Section: Applications
-Maintainer: T4MAG0
-Installed-Size: 95029
-Filename: ./debs/arm64/com.t4mag0.vidgrab_1.3.6c_iphoneos-arm64.deb
-Size: 19237788
-MD5sum: 0db8ef5bce8aace7ac2ae19dc50e3d80
-SHA1: 49cf9ac3e6c42da6802f5bd002532f5c9872b08c
-SHA256: 62635be73ae839d7524e23ddd7f7dd02f4f00fdbf0bae7ecb33c3636d52ca13d
-SHA512: 9572ec9f82dddb87a7f444115af83ca477feedf006166e95f69d4082b6e216899632c2e5064eb1d6e492f99f1a11ef64550cbbe4f7c53a13dc7eaa7e1b83b0fe
-Homepage: https://github.com/iamjhe08/VidGrab
-Description: Download videos from YouTube and other sites. Paste a link or use the built-in browser.
-Name: VidGrab
-Author: T4MAG0
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.tigisoftware.filza64bit
