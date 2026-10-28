@@ -892,6 +892,26 @@ Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.ps.ytx
+Architecture: iphoneos-arm
+Version: 1.7.24
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/arm/com.ps.ytx_1.7.24_iphoneos-arm.deb
+Size: 6350
+MD5sum: 8d6c91e6058f779a0a8ed144b1c65089
+SHA1: 23f88ba448c19348b9423ae3cbbeadc956b4411b
+SHA256: 8486651748041ed595e44de4892492b1687574047d0bab664ec92a2f419e5b04
+SHA512: 002d2027ad0d27c5d4e7daa65f4012c10054155b0c5d291cd2a2bd541c836ecdb070af2944c40f1708b6642560e02f8f0a818364bca49127931af5287f319b2f
+Description: A YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.ryannair05.cylinder
 Architecture: iphoneos-arm
 Version: 1.1.2
@@ -905,6 +925,26 @@ MD5sum: 5304fd25dae83b51729ca139b77c6162
 SHA1: 1184122b8454949b88956b833855e46018456612
 SHA256: 1935669eb241fb8ce5cbade090a08b312752801d4048e2f91488f551d7fd2f25
 SHA512: 2bc7341194e5eb32cefba4a95919a502500f55ff0fb1b68df9968e8ed0dc13671164ffcd4ee0e62c0cefaef8771641cf919b3d1e76349454209021501f478123
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cylinder Reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Depiction: https://chariz.com/get/cylinder-reborn
+
+Package: com.ryannair05.cylinder
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1567
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/arm/com.ryannair05.cylinder_1.2.0_iphoneos-arm.deb
+Size: 291014
+MD5sum: c1f00dd4c1cfb0ee9c28d981a722cd20
+SHA1: 34dd14862e1df190e39531b024a2f90d65880151
+SHA256: 5a946498af10b6432a21b2a69db6c9876bf97e37d0794438183338f69ec1f36c
+SHA512: e943bf6025216aab039e961942b5627d061654184c9a062234d1c0d1cc3f86be8e459b2c9834036b4d855df804e8933e411243016c28ddf2acc28e91fd0b066a
 Description: Make your icons dance
 Tag: compatible_min::ios11.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
@@ -2173,76 +2213,6 @@ Name: TikTok Fahd Downloader
 Author: Fahd
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
-Package: com.fahd.fahdutility
-Architecture: iphoneos-arm64
-Version: 1.0.0-113+debug
-Section: Tweaks
-Maintainer: Fahd
-Installed-Size: 1240
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/arm64/com.fahd.fahdutility_1.0.0-113+debug_iphoneos-arm64.deb
-Size: 245376
-MD5sum: 0b710b6a0f56fe54207bb36f12eed275
-SHA1: cf52f1b94470e886f5d38cf1f1bae431bc6dddb7
-SHA256: 5c1e2739f24f9e5de6dfa89a8ca66dc21fd7342e9094a52dac734b6f420bd7c0
-SHA512: 9b075be3e80ff632d1c0fb07579d55c647ef114b00a6de499177c4cde753e73d4d3b9da5a8dde6e33c2862857928068c3166f3bf0b36be40dba32017ce122ca1
-Description: A premium SpringBoard swipe gesture utility to inspect, clean, and manage apps.
-Name: FahdUtility
-Author: Fahd
-Icon: https://files.catbox.moe/bkzadt.png
-
-Package: com.fahd.tiktokdownloader
-Architecture: iphoneos-arm64
-Version: 1.2.3-8+debug
-Section: Tweaks
-Maintainer: Fahd
-Installed-Size: 1920
-Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.3-8+debug_iphoneos-arm64.deb
-Size: 318328
-MD5sum: 6e77b4be48e873e7f6bb0b515f332090
-SHA1: 71c6b86f398c7c27714eaf2279277fa40c5d9624
-SHA256: 567fdd99037c35927d15649c5d55c52b28f910db862a913e3ff6547bdbddba8f
-SHA512: ec2297caab3fb84791f673b7315fc2524eb115260b61c8fda6d8c7b085a0f58eb37988ab29c98a14a81f3d1d518689d6eb24f3dbf1e7033bf49b2644ce00c30b
-Description: A premium TikTok downloader tweak with iOS 26 style UI.
-Name: TikTok Fahd Downloader
-Author: Fahd
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.fahd.tiktokdownloader
-Architecture: iphoneos-arm64
-Version: 1.2.4-1+debug
-Section: Tweaks
-Maintainer: Fahd
-Installed-Size: 1936
-Filename: ./debs/arm64/com.fahd.tiktokdownloader_1.2.4-1+debug_iphoneos-arm64.deb
-Size: 322330
-MD5sum: f42bb4395e0bc6d2e0cacacfe78de891
-SHA1: fce854c8fb81fc29953da3f97d8346f7339f619d
-SHA256: 45748234b84ef8d3c768f00ad731a8dc17f81d9477037ac4a2e0d29a8d082de9
-SHA512: d7b1b0aebde4c47dc0d9d5a478af42e011f2d7d670b766fc9f398dc1c6c92bf90e496825b5bea956dfe66f90618ed52c9cab12d04842b6c4d9b4e540c315a13a
-Description: A premium TikTok downloader tweak with iOS 26 style UI.
-Name: TikTok Fahd Downloader
-Author: Fahd
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.fahd.twitterdownloader
-Architecture: iphoneos-arm64
-Version: 1.2.9
-Section: Tweaks
-Maintainer: Fahd
-Installed-Size: 7888
-Depends: mobilesubstrate
-Filename: ./debs/arm64/com.fahd.twitterdownloader_1.2.9_iphoneos-arm64.deb
-Size: 1757106
-MD5sum: 873f0bd2783bbaf920bbbad5ac40b76c
-SHA1: e25b3958b8f8090d49e3ae9ea5f65c7a9ab30b77
-SHA256: cf91b735c51634abfb382c0027e716e52fa946a3d21f9d870e0e75c86e36a8fa
-SHA512: 577b323cc756de71bb3779df8612f4d9054feba69ee8e4110687217fb77689e4f6dabdb6b918925f11ea1ffa9a7e6a6faf0884c28f4f47884677590f2d867cf3
-Description: A premium Twitter/X tweak with modern glassmorphic UI.
-Name: FahdTwitter
-Author: Fahd
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
 Package: com.fahd.twitterdownloader
 Architecture: iphoneos-arm64
 Version: 1.3.0
@@ -2256,6 +2226,24 @@ MD5sum: d375dc3c65eb717a02f0b2389fe2d3b2
 SHA1: bf3eedcbf17dcdda7f5286db9d4c940131c93102
 SHA256: 6916cf640830aa6be9d289a304482c5e2dcc98931141e0078668babc640cbe29
 SHA512: 497b0ff360c0c5bdc0a5a4c7f07fee36a1ca7ac1c57ed7cdc26f54966500522f5ed3f8d3f887d74908c52842d1b3ce70ec3967bd5ee6ec6bef24b71de3cc37bb
+Description: A premium Twitter/X tweak with modern glassmorphic UI.
+Name: FahdTwitter
+Author: Fahd
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahd.twitterdownloader
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 8068
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahd.twitterdownloader_1.3.1_iphoneos-arm64.deb
+Size: 1792632
+MD5sum: 76632e37e8457ba44abff4f3005c4ea2
+SHA1: 95b6821e8d017e975358c12792ab0d00884ac1d4
+SHA256: b533c21632b0eb1fc03dcf2469182b62ee2cdb0f04cc2db9ac3e2a791141f073
+SHA512: 347baa24c7fda315758cb795730abaa1887dc15a8472b87466c37bbbe37b0d62de2d4bd53fd3490e2c64eb4747f9adc9a0f6f864e46e2ed5a7f5aae4e4b75787
 Description: A premium Twitter/X tweak with modern glassmorphic UI.
 Name: FahdTwitter
 Author: Fahd
@@ -2944,6 +2932,26 @@ MD5sum: 7f2f5a5470a8b4c2bd656992d8bdedc1
 SHA1: 27bc4e1b0d0188fde3e6afc71abb6ed1da3b6669
 SHA256: bb5682906a1a38e845c40d7dc6d6112fa43405f3288b7d308d82d8af17e11859
 SHA512: 20cde9134faef99d708df33d1c36f8d016a8df9c81ce8c6a7e70c653d9dac71193edf4cdaa8504e6cee6dfea3cd0d9d06354b2bbb0d955160431869b0d7c8bcf
+Description: A YouTube improvement tweak.
+Name: YouTube X
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytx.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytx.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ps.ytx
+Architecture: iphoneos-arm64
+Version: 1.7.24
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debs/arm64/com.ps.ytx_1.7.24_iphoneos-arm64.deb
+Size: 6320
+MD5sum: d86dfee40906b0c5fbddab7a42363e55
+SHA1: bd22fbce6422e482bd4e8ec7ff4f4ebe8a528d30
+SHA256: 86621f78a3f997ff3101330db8d582261077a096e70e40a1d45f3df0397fc5ca
+SHA512: 23c22c0b5eba1990fccef80d9427a2b09a776f8cb9aa828553cda155eb88e233baa4536dc3f5aec5eca739a3a9735f1633a2d814399c92cf0064b171bcd4044c
 Description: A YouTube improvement tweak.
 Name: YouTube X
 Author: PoomSmart
@@ -5679,6 +5687,26 @@ Tag: role::developer
 Name: PatchLoader
 Author: roothide
 Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ryannair05.cylinder
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1527
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/arm64e/com.ryannair05.cylinder_1.2.0_iphoneos-arm64.deb
+Size: 286174
+MD5sum: 09ee1b41ffc3fb70b741272c90e05081
+SHA1: bcd38c8d2e6b94208d5ad0a048a7246babea76f1
+SHA256: 789c65bb44838f4afd5067264e387a417c4764e6f9c586117b0e5326f33cad2a
+SHA512: c22841aa09f7f5f6f575d46e1e591afb40a637f4ab2d76c3e9ac5cbfd0be7da1edbddc0711c18ce5ffbc117e9ebee9856f4f2e8353163935ae000ac454d67bf0
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cylinder Reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Depiction: https://chariz.com/get/cylinder-reborn
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64e
