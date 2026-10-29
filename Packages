@@ -2215,24 +2215,6 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.fahd.twitterdownloader
 Architecture: iphoneos-arm64
-Version: 1.3.0
-Section: Tweaks
-Maintainer: Fahd
-Installed-Size: 7888
-Depends: mobilesubstrate
-Filename: ./debs/arm64/com.fahd.twitterdownloader_1.3.0_iphoneos-arm64.deb
-Size: 1758078
-MD5sum: d375dc3c65eb717a02f0b2389fe2d3b2
-SHA1: bf3eedcbf17dcdda7f5286db9d4c940131c93102
-SHA256: 6916cf640830aa6be9d289a304482c5e2dcc98931141e0078668babc640cbe29
-SHA512: 497b0ff360c0c5bdc0a5a4c7f07fee36a1ca7ac1c57ed7cdc26f54966500522f5ed3f8d3f887d74908c52842d1b3ce70ec3967bd5ee6ec6bef24b71de3cc37bb
-Description: A premium Twitter/X tweak with modern glassmorphic UI.
-Name: FahdTwitter
-Author: Fahd
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.fahd.twitterdownloader
-Architecture: iphoneos-arm64
 Version: 1.3.1
 Section: Tweaks
 Maintainer: Fahd
@@ -2244,6 +2226,24 @@ MD5sum: 76632e37e8457ba44abff4f3005c4ea2
 SHA1: 95b6821e8d017e975358c12792ab0d00884ac1d4
 SHA256: b533c21632b0eb1fc03dcf2469182b62ee2cdb0f04cc2db9ac3e2a791141f073
 SHA512: 347baa24c7fda315758cb795730abaa1887dc15a8472b87466c37bbbe37b0d62de2d4bd53fd3490e2c64eb4747f9adc9a0f6f864e46e2ed5a7f5aae4e4b75787
+Description: A premium Twitter/X tweak with modern glassmorphic UI.
+Name: FahdTwitter
+Author: Fahd
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.fahd.twitterdownloader
+Architecture: iphoneos-arm64
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 8068
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahd.twitterdownloader_1.3.3_iphoneos-arm64.deb
+Size: 1795996
+MD5sum: ad0c8410465a510a60dc4b3fc41d454e
+SHA1: aa055ec2ba58d25a6e78842a56a8127ea93a0e95
+SHA256: 6e1f5742c92e22172346dd1dc2df1129d83499d5003ab04932c9885240b670fb
+SHA512: 580c2ddc006cc2cb2f5d067694876ffd491e8c824d562e677a46974ab5abe44d65c2f764716e22834bd501f2a9730925edd21c17b3a56aca3598b6ab420decdf
 Description: A premium Twitter/X tweak with modern glassmorphic UI.
 Name: FahdTwitter
 Author: Fahd
