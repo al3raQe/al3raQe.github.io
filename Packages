@@ -135,43 +135,6 @@ Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
 Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
 SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
 
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm
-Version: 4.4-1+debug
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Installed-Size: 18344
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm/com.bandarhl.bhtwitter.4.4-1+debug.arm.deb
-Size: 7336848
-MD5sum: 8f32f5d85357af6cbf60bc74257592a0
-SHA1: 802b6a538ea85ef4074103a08e62cfa35f81b4f9
-SHA256: f144ca94b79467fca5a895498c07212fbc108832caac8d6da2af31cd03566e20
-SHA512: 45a52f4dcc7264081dcb6c69e4ae6b9707f7d28101b10db79947a934da2b1cb91a23ac93a8fbbabfe188e578d5f8c7e77f3dd17dd077293f5adcd28b954d5d23
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm
-Version: 7.0.0-1+debug
-Section: Tweaks
-Maintainer: NeoFreeBird
-Installed-Size: 13708
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./debs/arm/com.bandarhl.bhtwitter.7.0.0-1+debug.arm.deb
-Size: 4750478
-MD5sum: e1749e8a7fefa94f82ccf67aa19d6748
-SHA1: f0b1cc53ff436d4fd8e1d7aa99fffef9810bbd21
-SHA256: 5f4de1250cf447515c57b0b944349296bf441819d6fb02fa14c16c5a305bd0f1
-SHA512: 2f204fa3b437adb8a92f4469b2e3e42eb6c416dd8e726a83685d8f628fb631df28558e2e9f78c72133ac2b7eabba2c89ea60b9a2ba194db80fa43896a297c33c
-Description: Awesome tweak for Twitter
-Name: orionblur-NFB-BHTwitter
-Author: NeoFreeBird
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
 Package: com.BandarHL.Hollow
 Architecture: iphoneos-arm
 Version: 1.8
@@ -1387,44 +1350,6 @@ Name: BHTikTok Plus
 Author: dvntm
 Depiction: https://al3raqe.github.io/depictions/bhtiktok/depiction.json
 SileoDepiction: https://al3raqe.github.io/depictions/bhtiktok/depiction.json
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
-Version: 5.2-1
-Section: Tweaks
-Maintainer: NeoFreeBird
-Installed-Size: 16796
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./debs/arm64/com.bandarhl.bhtwitter.5.2-1.arm64.deb
-Size: 7135864
-MD5sum: f129511c51feb629a044b519c2cc44fd
-SHA1: fd5e5c9708351ff88ba17db3c734c23899756ba4
-SHA256: 6a4a5de1d91f2360c5e6ea0bfae040b2e486ab7ec7ba4c4192104f4b15e29cff
-SHA512: 825cf7522752d436d07d47512bf8ffa62bc7b16eb1dda1f6bfd608d779a0da9647bcd741c7f2cb46402bfecca03b24c51385b2b549e7511a39a7da99ecb3347f
-Description: Awesome tweak for Twitter
-Name: NFB-BHTwitter
-Author: NeoFreeBird
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64
-Version: 7.0.0-1+debug
-Section: Tweaks
-Maintainer: NeoFreeBird
-Installed-Size: 13708
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./debs/arm64/com.bandarhl.bhtwitter.7.0.0-1+debug.arm64.deb
-Size: 4750730
-MD5sum: be95548f52cfbedaa189283fee76d848
-SHA1: 04bfb25297cc6eb5fce0b7db75a568c0ce3a73bc
-SHA256: 94f5ce330a4e0a506aff39abe7faa15f4340c21100ecf916ad3288a4ceccfbe6
-SHA512: 5a5121cf53f8c2f8b9cfc2e5543e33feeb50e806d1a5ea06198c350dd0e0cc33f91f89dc44e46d1ba3601e4629efc24cba6cdb5e7d8737ba4441889c6f5d65a3
-Description: Awesome tweak for Twitter
-Name: orionblur-NFB-BHTwitter
-Author: NeoFreeBird
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.brend0n.nopastedfrom
@@ -3494,29 +3419,6 @@ Name: Rootful To Rootless
 Author: none <a4237019c0@emailabox.pro>
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
-Package: twitter.nowesr1.waignorecalls
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 153
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/arm64/twitter.nowesr1.waignorecalls.1.2.arm64.deb
-Size: 46278
-MD5sum: a6a2c9d0485f08970256b29c5665e90a
-SHA1: 17eabb388879817e35acbecba35b14301844bda7
-SHA256: 8e1a461bf866894f118612051115560537ce28754716e642d4fa308d2e4ba563
-SHA512: a9c7e1bd7fe22a28109c11ffc0d88bbb1bf31417aec21b391ce398ad8b7818cb17122d9c40c03ca4b01a857409af802e3564267e8eff11d6719c63cfd12e15e4
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waignorecallsDp
-Description: Ignore unwanted calls! for WhatsApp
-Author: nowesr1 <nowe9r@hotmail.com>
-Name: WAIgnoreCalls
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waignorecallsDp
-SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/main/Sileo/depiction.json
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: nowesr1
-Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
-
 Package: ws.hbang.newterm3
 Architecture: iphoneos-arm64
 Version: 3.0~beta1-3
@@ -3958,25 +3860,6 @@ Name: BHTikTok Plus
 Author: dvntm
 Depiction: https://al3raqe.github.io/depictions/bhtiktok/depiction.json
 SileoDepiction: https://al3raqe.github.io/depictions/bhtiktok/depiction.json
-Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.bandarhl.bhtwitter
-Architecture: iphoneos-arm64e
-Version: 4.4.1
-Section: Tweaks
-Maintainer: Bandar Alruwaili
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/arm64e/com.bandarhl.bhtwitter.4.4.1.arm64e.deb
-Size: 18105466
-MD5sum: f8c3636f67e632e685045469e59bf3b8
-SHA1: 848bafbc71ebe48375daeb86ed8300fe50e43cb1
-SHA256: b57599883267f8124ce1070f8ad725719bbfc57d49c1f5ebbaf9473a7c94f54c
-SHA512: d7344987aec0b9769bf4dd385988130d120b4d208bc4212d6209f018cbc3231b94b27bd7b6c9c5e772d57f0a84569ffe441446a07d850c7338182a1c29b48119
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Author: Bandar Alruwaili
-Sileodepiction: https://al3raqe.github.io/depictions/bhtwitter/depiction.json
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.blockupdateioswhatsapp
@@ -6691,30 +6574,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photosplus
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: nowesr1
 Icon: file:///var/jb/Library/PreferenceBundles/PhotosPlusPrefs.bundle/icon@2x.png
-
-Package: twitter.nowesr1.waignorecalls
-Architecture: iphoneos-arm64e
-Version: 1.2
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 153
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/arm64e/twitter.nowesr1.waignorecalls.1.2.arm64e.deb
-Size: 57332
-MD5sum: 125e9782ceff002287d1ffbb86f42a9c
-SHA1: c24c6dcd930588855e02f27df3d074d60aa161d7
-SHA256: 8481f943228bc31b3683f3b4a060a26491d6014b1d31228d594f0838b36fc6f3
-SHA512: 924fc898b47d16fca4f7245f8e489257c6b0039958b280f27b00abe41a72ee3093d35222f0cd645b3beeda623c738d84e35a6205b7b1a507f5eaf7601b740a87
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waignorecallsDp
-Description: Ignore unwanted calls! for WhatsApp
-Author: nowesr1 <nowe9r@hotmail.com>
-Name: WAIgnoreCalls
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waignorecallsDp
-SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/main/Sileo/depiction.json
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: nowesr1
-Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
 
 Package: unrar
 Architecture: iphoneos-arm64e
