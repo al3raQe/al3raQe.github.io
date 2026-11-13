@@ -30,6 +30,25 @@ for deb in ./*.deb; do
     [ ! -f "$new_path" ] && mv "$deb" "$new_path"
 done
 
+# Rename packages already stored in their architecture directories.
+for ARCH in "${ARCHS[@]}"; do
+    ARCH_DIR="$BASE_DIR/$ARCH"
+
+    for deb in "$ARCH_DIR"/*.deb; do
+        [ -e "$deb" ] || continue
+
+        package=$(dpkg-deb -f "$deb" Package | tr -d '[:space:]')
+        version=$(dpkg-deb -f "$deb" Version | tr -d '[:space:]')
+        arch=$(dpkg-deb -f "$deb" Architecture | sed 's/^iphoneos-//' | tr -d '[:space:]')
+        new_name="${package}.${version}.${arch}.deb"
+        new_path="$ARCH_DIR/$new_name"
+
+        if [ "$deb" != "$new_path" ] && [ ! -e "$new_path" ]; then
+            mv "$deb" "$new_path"
+        fi
+    done
+done
+
 > "$OUTPUT_FILE"
 for ARCH in "${ARCHS[@]}"; do
     ARCH_DIR="$BASE_DIR/$ARCH"
