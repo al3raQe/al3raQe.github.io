@@ -669,11 +669,11 @@ Version: 2.0
 Section: Themes
 Depends: firmware (>=1.0)
 Filename: ./debs/arm/com.ivintagelover.solidglass.2.0.arm.deb
-Size: 5891868
-MD5sum: d3a1c3a620194adc1795e704d4a30696
-SHA1: 15b2816dc8dd6470c1d2e50e97d6b7bef7b10ffb
-SHA256: db2c529f1539837e2a52b175d720c90185c135d66379779face3051cf240af3d
-SHA512: e95bad0e27783e7b4ccd4522dab1219baa5003146174f89c9c5323c9b58fac4a7219bf8f11d748cedc1dd3537086df0105cb13735b10d54792557e37b8820615
+Size: 5123724
+MD5sum: 200b28df88e85415641c0fae4ace9de4
+SHA1: aa9313235bc5f5033398866bec52dab173533547
+SHA256: dd2f217ec938d46f20636cbf95accc2501271d01f325d681de11c3bbd4d48718
+SHA512: 1ea7fef467b00f7e50395ac873b1f2b72c31280ff6824a96193dec9684f556b715584f8f9413247757ead06fce29ce140bda330390214f7b16eb115e4587ee82
 Description: iOS 26 icons for older devices.
 Name: Solid Glass 2
 Depiction: https://github.io/depiction/web/com.ivintagelover.solidglass.html
@@ -2474,11 +2474,11 @@ Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
 Filename: ./debs/arm64/com.ichitaso.powerselector11.1.5.1.arm64.deb
-Size: 410204
-MD5sum: 88fb5d48683441b4d004f464a0d47217
-SHA1: d5c74c4238523281cd497939ba9390676c11484e
-SHA256: edef7f52e2f473f05ae056e19cf06ded5e2072442f220d2e655f75be288093e9
-SHA512: 6f249228ce76bd7222bde95fe0cd996f58c3acd116e8bfc5f2f7e443cefcaeeb04e14b235c0edfed062ece3d6d0256772851513e46cf2a883815b289085c4576
+Size: 421878
+MD5sum: d1a33f044b4b55615ee408417d6ceb6d
+SHA1: 74185d72262bdb3cd3651238d253b5aa7fa01685
+SHA256: 020cbf3a60251a33abe05040c6cdf2f99b569306151f7a57eb960f5dbe30c36f
+SHA512: 16280927adf9b5422910e5d297e937be7fcb88650b30e895b8f187e4c56fc2089e604cef44198b52b42b29aa8890c0cc888a9c0f3ba39ee9fb8cf7a285a8d85a
 Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
 Description: The power supply relation of a device is operated.
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios26.0.1
@@ -2796,26 +2796,6 @@ Description: Helper utility to install and manage TrollStore!
 Name: TrollStore Helper
 Author: opa334
 Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.p2kdev.colorcodedlogs
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate, firmware (>= 13)
-Filename: ./debs/arm64/com.p2kdev.colorcodedlogs.1.0.arm64.deb
-Size: 4934
-MD5sum: 02b81daaf45e5b0a9fcc088f69b6e63f
-SHA1: 12ff552497d1fd64cec6d132b7ca33a6011ff84c
-SHA256: 0904161de410ffe841cea7aeccf86d0092cd20e19f93e3766960f22bffa1043b
-SHA512: 7bc9f9866d0a8838e9e8ce6a1311015bc9bf4ecabfc24a5b104e1011eb898775e43517289d00e7891213a3558bf3f5203beaa1be370c609368e6de9adb5bd105
-Description: Color-coded recent MobilePhone app logs!
-Name: ColorCodedLogs
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.colorcodedlogs
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.colorcodedlogs/icon.png
-SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.colorcodedlogs.json
 
 Package: com.p2kdev.fivedock16
 Architecture: iphoneos-arm64
@@ -3263,26 +3243,6 @@ SileoDepiction: https://paisseon.github.io/depictions/Satella.json
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
 Icon: https://paisseon.github.io/icons/Satella.png
 
-Package: emt.paisseon.xinamine
-Architecture: iphoneos-arm64
-Version: 0.0.5
-Section: System
-Maintainer: Sudo + Paisseon
-Installed-Size: 564
-Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: ./debs/arm64/emt.paisseon.xinamine.0.0.5.arm64.deb
-Size: 76504
-MD5sum: e7592e6459767709b29c9674c3761969
-SHA1: 772c6d39b542c1cc5ae78485cec0eccef9774b47
-SHA256: 6ba536ff21c8aa89996739c3d5bd9110efe05f508283bef87d667dc8845df6f1
-SHA512: 39a2ad4c79f298facab458a4a68b0a49a2b0e2f9df6fdef4d12a31bb66fa18d15c00976af0058bed8db88f35dee1ce7d29d4448bce6c77f1a107e5fe95ddac16
-Description: Add Xina tweak compatibility to Dopamine
-Name: Xinamine
-Author: Sudo + Paisseon
-SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
-Icon: https://paisseon.github.io/icons/Xinamine.png
-
 Package: jp.dcsyhi.kbappdock
 Architecture: iphoneos-arm64
 Version: 1.7.1
@@ -3444,24 +3404,6 @@ Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechang
 SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.voicechangerx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 673e3d50e6fa61e9a22d888b9013b537
-
-Package: netskao.injectipa-rootless
-Architecture: iphoneos-arm64
-Version: 1.3-7
-Section: Netskao-Tweaks
-Maintainer: Nets
-Installed-Size: 28712
-Depends: firmware (>= 15.0)
-Filename: ./debs/arm64/netskao.injectipa-rootless.1.3-7.arm64.deb
-Size: 7173852
-MD5sum: 08ce2f1cda627160687e9bdc6276edec
-SHA1: 6cdad53513ad4419cc35aa2247424321792eeaa6
-SHA256: 5658008a721af4fd4810a785b522b31b6cdfaade2fe82164f9d124f785d21877
-SHA512: e9854a9b490f57c03cb3df3dd162b1601a60379c1437b1048bd0f42dd9aa83a2f53e4868d14209743ab288dcb57755880f3ea7dd3171b9e5c013644e875bccc5
-Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
-Name: injectipa-Rootless
-Author: Netskao
-Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: org.haxi0.derootifier
 Architecture: iphoneos-arm64
@@ -4198,11 +4140,11 @@ Installed-Size: 178
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: ./debs/arm64e/com.cydiageek.appcountswitcher.1.0.0.arm64e.deb
-Size: 10154
-MD5sum: 39a1358b360571a673ec65daeb95b12e
-SHA1: 0f1e20dd82984a71e704effa924a187eda194d5f
-SHA256: baa78e3c07cd23de0706cda36b489cbc325ab41f060c51ad32f68444197e141a
-SHA512: bd77938c066ac3c9113e74eec6816764cfed0a9bb2919330e4457b3a5c90704a996e2a7f6dd5d2a9f8a1c32caa42dc0f633026a132d4bd3ca484d217f3ce29b7
+Size: 9148
+MD5sum: 9ea5efa302587a7d4f9f34e966737e29
+SHA1: c144ec1ffce719deaf1bc2875e9e0341a95d2151
+SHA256: 8a6ffedc84b00dec89e6f6be0813947c9365800d401dc34aeef332b9641bc76a
+SHA512: d1525ee563e2d44d873474fd765540abd46fa210b3b83e7036140805c649599887c743d1ed0fc8e584cef57bd6834256b40a59bc741c9c9d46cbca6db23b6402
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appcountswitcherDp
 Description: Show Switcher Open Apps Number!
 Tag: purpose::extension
