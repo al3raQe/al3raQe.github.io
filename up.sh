@@ -30,7 +30,7 @@ for deb in "$BASE_DIR"/*.deb; do
     [ ! -f "$new_path" ] && mv "$deb" "$new_path"
 done
 
-# Rename packages already stored in their architecture directories.
+# Rename and move packages to the directory matching their Architecture field.
 for ARCH in "${ARCHS[@]}"; do
     ARCH_DIR="$BASE_DIR/$ARCH"
 
@@ -40,8 +40,18 @@ for ARCH in "${ARCHS[@]}"; do
         package=$(dpkg-deb -f "$deb" Package | tr -d '[:space:]')
         version=$(dpkg-deb -f "$deb" Version | tr -d '[:space:]')
         arch=$(dpkg-deb -f "$deb" Architecture | sed 's/^iphoneos-//' | tr -d '[:space:]')
+
+        case " ${ARCHS[*]} " in
+            *" $arch "*) ;;
+            *)
+                echo "Skipping unsupported architecture '$arch': $deb"
+                continue
+                ;;
+        esac
+
         new_name="${package}.${version}.${arch}.deb"
-        new_path="$ARCH_DIR/$new_name"
+        target_dir="$BASE_DIR/$arch"
+        new_path="$target_dir/$new_name"
 
         if [ "$deb" != "$new_path" ] && [ ! -e "$new_path" ]; then
             mv "$deb" "$new_path"
