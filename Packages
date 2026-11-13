@@ -2585,6 +2585,23 @@ ModernDepiction: https://github.io/depiction/native/com.ivintagelover.solidglass
 Icon: https://github.io/assets/com.ivintagelover.solidglassrl/icon.png
 Tags: compatible_min::ios12.0, compatible_max::ios18.6
 
+Package: com.JafarAli.jafarmasks
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Themes
+Maintainer: Jafar Ali
+Depends:
+Filename: ./debs/arm64/com.jafarali.jafarmasks.1.2.arm64.deb
+Size: 467972
+MD5sum: 99be408fa26b61d68ae4ea7744f0354a
+SHA1: 719672f16fde86cef41794309e9d2d34828c3526
+SHA256: efbf96e356fffbdcc2042631b58120ffc62be18d71c78d30e8600bbe0eb09eef
+SHA512: 1cdb5f994f176db755510fca5c4431e984c9fb45bc2d5ac0ce53e33eb7371f6a79d937ab51d136e29aaacee843a18b6560da66835312fc23e02d1b06386ec21b
+Description: Great masks for your icons!
+Name: Jafar Masks rootless
+Author: Jafar Ali
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.lema.wolf
 Architecture: iphoneos-arm64
 Version: 2.1
