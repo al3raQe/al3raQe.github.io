@@ -1,0 +1,35 @@
+name: Rename deb packages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rename-packages:
+    if: github.ref == 'refs/heads/Master'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: Master
+
+      - name: Set Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Rename packages in place
+        run: bash ./rename.sh
+
+      - name: Commit filename changes
+        run: |
+          git add -- debs
+          if git diff --cached --quiet; then
+            echo "No package filenames needed changes."
+            exit 0
+          fi
+          git commit -m "Rename deb packages"
+          git push
