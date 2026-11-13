@@ -1,4 +1,4 @@
-name: Run up.sh
+name: Run Update.sh
 
 on:
   workflow_dispatch:
