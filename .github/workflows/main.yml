@@ -41,12 +41,17 @@ on:
         options:
           - "false"
           - "true"
+
+concurrency:
+  group: workflow-runs-cleanup
+  cancel-in-progress: false
+
 jobs:
   delete-runs:
     runs-on: ubuntu-latest
     permissions:
       actions: write
-      contents: read
+      contents: none
     steps:
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@v2
