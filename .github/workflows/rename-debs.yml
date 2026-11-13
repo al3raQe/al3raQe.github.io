@@ -22,7 +22,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Rename packages in place
-        run: bash ./rename.sh
+        run: bash ./Rename.sh
 
       - name: Commit filename changes
         run: |
