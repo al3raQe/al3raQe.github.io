@@ -701,6 +701,25 @@ Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.na9.tiktok
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 3844
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.na9.tiktok.1.0.1.arm.deb
+Size: 1295054
+MD5sum: 2ad150e65e33f44edb3f553e43155df2
+SHA1: dea56a247cc41c7d246fdb96f86d6c2703104d57
+SHA256: e800be536e03491d5fd5cd6ecec7c49e427237fd5f55f654afe0d1af7b7194d8
+SHA512: 92d6d34039077c33ca51238538edadfd24c02575a57f1c59f8546a1ed3c3aef5618cb8fd89e84a8008a00092fdd96b051754fe77bbc74a87da4a331f75bae6ce
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me. Tweak preferences can be found in the TikTok settings
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://raw.githubusercontent.com/nowesr1/NA9TikTok/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/NA9TikTok/main/Resources/depiction.json
+
+Package: com.na9.tiktok
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Nasser | NoTimeToChill
@@ -2649,25 +2668,6 @@ Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 
 Package: com.na9.tiktok
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Nasser | NoTimeToChill
-Installed-Size: 3844
-Depends: mobilesubstrate
-Filename: ./debs/arm64/com.na9.tiktok.1.0.1.arm.deb
-Size: 1295054
-MD5sum: 2ad150e65e33f44edb3f553e43155df2
-SHA1: dea56a247cc41c7d246fdb96f86d6c2703104d57
-SHA256: e800be536e03491d5fd5cd6ecec7c49e427237fd5f55f654afe0d1af7b7194d8
-SHA512: 92d6d34039077c33ca51238538edadfd24c02575a57f1c59f8546a1ed3c3aef5618cb8fd89e84a8008a00092fdd96b051754fe77bbc74a87da4a331f75bae6ce
-Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me. Tweak preferences can be found in the TikTok settings
-Name: NA9 For TikTok
-Author: Nasser | NoTimeToChill
-Icon: https://raw.githubusercontent.com/nowesr1/NA9TikTok/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/nowesr1/NA9TikTok/main/Resources/depiction.json
-
-Package: com.na9.tiktok
 Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
@@ -3066,6 +3066,26 @@ MD5sum: fb8ba408073174e2273cdfe2c4a510d9
 SHA1: d26fea9b7783b09e4b72734b150b0ace988b1c25
 SHA256: 1ff9112d1c9b3aa4f53527c52f00ae34ec0827fff56d11ed5d8554708d551dd5
 SHA512: 5ff99384833cb9433be6e44e747410b77862b2e001077ee38d7e909bf0a285685437d8613f8a2052fd9bf83607228a21736200fe4908c77270a5fb4fc2094541
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Name: Cylinder Reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Depiction: https://chariz.com/get/cylinder-reborn
+
+Package: com.ryannair05.cylinder
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1527
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/arm64/com.ryannair05.cylinder.1.2.0.arm64.deb
+Size: 286174
+MD5sum: 09ee1b41ffc3fb70b741272c90e05081
+SHA1: bcd38c8d2e6b94208d5ad0a048a7246babea76f1
+SHA256: 789c65bb44838f4afd5067264e387a417c4764e6f9c586117b0e5326f33cad2a
+SHA512: c22841aa09f7f5f6f575d46e1e591afb40a637f4ab2d76c3e9ac5cbfd0be7da1edbddc0711c18ce5ffbc117e9ebee9856f4f2e8353163935ae000ac454d67bf0
 Description: Make your icons dance
 Tag: compatible_min::ios11.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
@@ -5801,26 +5821,6 @@ Tag: role::developer
 Name: PatchLoader
 Author: roothide
 Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.ryannair05.cylinder
-Architecture: iphoneos-arm64
-Version: 1.2.0
-Section: Tweaks
-Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
-Installed-Size: 1527
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: ./debs/arm64e/com.ryannair05.cylinder.1.2.0.arm64.deb
-Size: 286174
-MD5sum: 09ee1b41ffc3fb70b741272c90e05081
-SHA1: bcd38c8d2e6b94208d5ad0a048a7246babea76f1
-SHA256: 789c65bb44838f4afd5067264e387a417c4764e6f9c586117b0e5326f33cad2a
-SHA512: c22841aa09f7f5f6f575d46e1e591afb40a637f4ab2d76c3e9ac5cbfd0be7da1edbddc0711c18ce5ffbc117e9ebee9856f4f2e8353163935ae000ac454d67bf0
-Description: Make your icons dance
-Tag: compatible_min::ios11.0
-Author: Ryan Nair <ryannairtweaks@gmail.com>
-Name: Cylinder Reborn
-Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
-Depiction: https://chariz.com/get/cylinder-reborn
 
 Package: com.sergy.immortalizer
 Architecture: iphoneos-arm64e
