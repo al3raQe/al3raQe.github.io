@@ -699,6 +699,25 @@ Name: NA9 For TikTok
 Author: Nasser | NoTimeToChill
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.nfb.tweak
+Architecture: iphoneos-arm
+Version: 7.3.1
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 22516
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debs/arm/com.nfb.tweak.7.3.1.arm.deb
+Size: 8761014
+MD5sum: 13e4b4f14936e0dae6c838766b749a2b
+SHA1: 1439d432f8f796cd318b5b9dbb597c446375e76a
+SHA256: 1d1b9a164692f9f0153c5d3c28fd5c2427ed913ad54b737c9c248ab5d3e9feaa
+SHA512: d4ee6139770c65db74f0e051341c143c3e16c0ec507157878d1dd24aa0b650638949d74a1b8cb7bdc29800ce1944f4c21591b9230189ea180e70108681432faf
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: com.opa334.choicy
 Architecture: iphoneos-arm
 Version: 1.5.4-2
@@ -2682,6 +2701,25 @@ Description: Filza unlock full functionality, the main program please install in
 Name: Filza Crack
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.nfb.tweak
+Architecture: iphoneos-arm64
+Version: 7.3.1
+Section: Tweaks
+Maintainer: NeoFreeBird
+Installed-Size: 22516
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debs/arm64/com.nfb.tweak.7.3.1.arm64.deb
+Size: 8758234
+MD5sum: d716e7b6eb7e87b5ec8d6eabec4bdc09
+SHA1: cd3a1b00dafa1d8c650c8af242edf2366a72c0a6
+SHA256: d5902604031e45bf2ce6d18edd964d2a763a35be2e4aac7adc9fc1fe1a211384
+SHA512: 8a36c272b762d398aac124e3c0c5d6482b8164bf3c9777e3a0758eb6277681b7e2707967d562ca7f4d2880b4281a701f3a885b888442a06f783e1621b034cd9f
+Description: A tweak which brings back the old Twitter experience, with the features of X.
+Name: NeoFreeBird
+Author: NeoFreeBird
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.opa334.choicy
