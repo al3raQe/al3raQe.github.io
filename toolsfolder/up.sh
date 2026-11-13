@@ -2,7 +2,7 @@
 
 BASE_DIR="./debs"
 OUTPUT_FILE="Packages"
-ARCHS=("debs")
+ARCHS=("arm" "arm64" "arm64e")
 
 for ARCH in "${ARCHS[@]}"; do
     mkdir -p "$BASE_DIR/$ARCH"
@@ -36,10 +36,44 @@ for ARCH in "${ARCHS[@]}"; do
     [ -d "$ARCH_DIR" ] && apt-ftparchive packages "$ARCH_DIR" >> "$OUTPUT_FILE"
 done
 
-gzip -k -f "$OUTPUT_FILE"
-bzip2 -k -f "$OUTPUT_FILE"
-xz -k -f "$OUTPUT_FILE"
-zstd -k -f "$OUTPUT_FILE"
+PACKAGES_FILE="./Packages"
+TEMP_FILE="./Packages_temp"
+DEFAULT_ICON="Icon: https://al3raqe.github.io/photo/al3raQe.png"
+
+if [ ! -f "$PACKAGES_FILE" ]; then
+    echo "Error: Packages file not found."
+    exit 1
+fi
+
+awk -v default_icon="$DEFAULT_ICON" '
+BEGIN { RS=""; FS="\n" }
+{
+    has_icon = 0
+    new_package = ""
+
+    for (i=1; i<=NF; i++) {
+        if ($i ~ /^Icon:/) {
+            has_icon = 1
+        }
+        new_package = new_package $i "\n"
+    }
+
+    if (!has_icon) {
+        new_package = new_package default_icon "\n"
+    }
+
+    print new_package
+}
+' "$PACKAGES_FILE" > "$TEMP_FILE"
+
+mv "$TEMP_FILE" "$PACKAGES_FILE"
+
+echo "Icons added where missing ✅"
+
+bzip2 -c Packages > Packages.bz2
+gzip -c Packages > Packages.gz
+xz -c Packages > Packages.xz
+zstd -c Packages > Packages.zst
 
 git add --all
 git commit -m "Update"

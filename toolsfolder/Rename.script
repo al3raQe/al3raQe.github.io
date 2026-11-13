@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# This script renames all .deb files in the "debs" directory 
+# based on their package name, version, and architecture.
+# It extracts the necessary information using dpkg-deb and 
+# ensures that filenames are properly formatted without spaces.
+
+
+dir="./debs"
+
+if [ ! -d "$dir" ]; then
+    echo "Directory $dir not found!"
+    exit 1
+fi
+
+for file in "$dir"/*.deb; do
+    [ -e "$file" ] || continue
+
+    package_name=$(dpkg-deb --info "$file" | grep "^ Package:" | awk '{$1=""; print $0}' | sed 's/^[ \t]*//g' | tr -d ' \r')
+    version=$(dpkg-deb --info "$file" | grep "^ Version:" | awk '{$1=""; print $0}' | sed 's/^[ \t]*//g' | tr -d ' \r')
+    arch=$(dpkg-deb --info "$file" | grep "^ Architecture:" | awk '{$1=""; print $0}' | sed 's/^[ \t]*//g' | tr -d ' \r')
+
+    if [ -z "$package_name" ] || [ -z "$version" ] || [ -z "$arch" ]; then
+        echo "Failed to extract package info from: $file"
+        continue
+    fi
+
+    new_name="${package_name}_${version}_${arch}.deb"
+    new_path="$dir/$new_name"
+
+    echo "Renaming: $(basename "$file") -> $new_name"
+    mv "$file" "$new_path"
+done
+
+echo "Renaming completed for all files in $dir."
