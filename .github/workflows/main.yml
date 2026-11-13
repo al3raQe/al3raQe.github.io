@@ -3,13 +3,14 @@ on:
   workflow_dispatch:
     inputs:
       days:
-        description: "Days to retain runs"
-        default: "30"
+        description: "Days to retain runs (0 deletes all eligible runs)"
+        default: "0"
       minimum_runs:
-        description: "Minimum runs to keep"
-        default: "1"
+        description: "Minimum runs to keep per workflow"
+        default: "0"
       delete_workflow_pattern:
-        description: "Workflow name or filename (omit for all). Use `|` to separate multiple filters (e.g. 'build|deploy')."
+        description: "Workflow name or filename; leave blank to target all workflows."
+        default: ""
       delete_workflow_by_state_pattern:
         description: "Workflow state: active, deleted, disabled_fork, disabled_inactivity, disabled_manually"
         default: "ALL"
@@ -18,6 +19,7 @@ on:
           - "ALL"
           - active
           - deleted
+          - disabled_fork
           - disabled_inactivity
           - disabled_manually
       delete_run_by_conclusion_pattern:
