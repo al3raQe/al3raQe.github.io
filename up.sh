@@ -8,7 +8,7 @@ for ARCH in "${ARCHS[@]}"; do
     mkdir -p "$BASE_DIR/$ARCH"
 done
 
-for deb in ./*.deb; do
+for deb in "$BASE_DIR"/*.deb; do
     [ -e "$deb" ] || continue
 
     dpkg-deb -x "$deb" temp_dir
@@ -22,10 +22,10 @@ for deb in ./*.deb; do
     dpkg-deb --build temp_dir "$deb"
     rm -rf temp_dir
 
-    name=$(dpkg-deb -f "$deb" Name | tr ' ' '.' | tr -d '[:space:]')
+    package=$(dpkg-deb -f "$deb" Package | tr -d '[:space:]')
     version=$(dpkg-deb -f "$deb" Version | tr -d '[:space:]')
     arch=$(dpkg-deb -f "$deb" Architecture | sed 's/^iphoneos-//' | tr -d '[:space:]')
-    new_name="${name}.${version}.${arch}.deb"
+    new_name="${package}.${version}.${arch}.deb"
     new_path="$BASE_DIR/$arch/$new_name"
     [ ! -f "$new_path" ] && mv "$deb" "$new_path"
 done
