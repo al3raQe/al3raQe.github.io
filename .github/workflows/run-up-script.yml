@@ -26,5 +26,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Run package update script
-        run: bash ./up.sh
+      - name: Run Update.sh
+        run: bash ./Update.sh
