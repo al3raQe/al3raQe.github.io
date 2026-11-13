@@ -663,25 +663,6 @@ dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/PowerSelector/PowerSelector-icon-360.png
 SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 
-Package: com.ivintagelover.solidglass
-Architecture: iphoneos-arm
-Version: 2.0
-Section: Themes
-Depends: firmware (>=1.0)
-Filename: ./debs/arm/com.ivintagelover.solidglass.2.0.arm.deb
-Size: 5123724
-MD5sum: 200b28df88e85415641c0fae4ace9de4
-SHA1: aa9313235bc5f5033398866bec52dab173533547
-SHA256: dd2f217ec938d46f20636cbf95accc2501271d01f325d681de11c3bbd4d48718
-SHA512: 1ea7fef467b00f7e50395ac873b1f2b72c31280ff6824a96193dec9684f556b715584f8f9413247757ead06fce29ce140bda330390214f7b16eb115e4587ee82
-Description: iOS 26 icons for older devices.
-Name: Solid Glass 2
-Depiction: https://github.io/depiction/web/com.ivintagelover.solidglass.html
-SileoDepiction: https://github.io/depiction/native/com.ivintagelover.solidglass.json
-ModernDepiction: https://github.io/depiction/native/com.ivintagelover.solidglass.json
-Icon: https://github.io/assets/com.ivintagelover.solidglass/icon.png
-Tags: compatible_min::ios1.0, compatible_max::ios17.5
-
 Package: com.mhsternice.wasendfix
 Architecture: iphoneos-arm
 Version: 0.0.4
@@ -2565,25 +2546,6 @@ Tag: role::enduser
 Name: YTKACE
 Author: itzzace
 Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.ivintagelover.solidglassrl
-Architecture: iphoneos-arm64
-Version: 2.0
-Section: Themes
-Depends: firmware (>=12.0)
-Filename: ./debs/arm64/com.ivintagelover.solidglassrl.2.0.arm64.deb
-Size: 5892624
-MD5sum: cd421afdc4136334d037cb6097bd20e5
-SHA1: 337b652ef7d2f69ca345dfd701da378af6f33369
-SHA256: a24433c66721b2f495779cccd7687ab0b546912eaa824c011e12f6927d4cc8d8
-SHA512: 9c150bbcd7b112df60fe9ad0fe4b0585806c17e7a0ee55155b3f5411b9df2a6893969fbd9369bfd84cc99caac9e12f1296ee3bc573438d6676f5048bc26d4082
-Description: iOS 26 icons for older devices.
-Name: Solid Glass 2 Rootless
-Depiction: https://github.io/depiction/web/com.ivintagelover.solidglassrl.html
-SileoDepiction: https://github.io/depiction/native/com.ivintagelover.solidglassrl.json
-ModernDepiction: https://github.io/depiction/native/com.ivintagelover.solidglassrl.json
-Icon: https://github.io/assets/com.ivintagelover.solidglassrl/icon.png
-Tags: compatible_min::ios12.0, compatible_max::ios18.6
 
 Package: com.JafarAli.jafarmasks
 Architecture: iphoneos-arm64
@@ -5054,26 +5016,6 @@ Tag: role::enduser
 Name: YTKACE
 Author: itzzace
 Icon: https://al3raqe.github.io/photo/al3raQe.png
-
-Package: com.ivintagelover.solidglassrl
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: Themes
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=12.0)
-Filename: ./debs/arm64e/com.ivintagelover.solidglassrl.2.0.arm64e.deb
-Size: 11285808
-MD5sum: 7b0daa9436bab6052a944c21c4ef039c
-SHA1: 920d55a996008cd6a7866537096bd7ca96fddc3a
-SHA256: 341c7abdda455b81abf9a8497116505efd5946c07044cb741dca6376e0761fcf
-SHA512: 7e815d2850ad45ea90c0f73fb34ebeba781609b77dfd9fa4bf55eb0c800e89191acb5375c46c77a05765484d09dd6b907ee8b22c4319bcdf1e0b31034b69e600
-Description: iOS 26 icons for older devices.
-Name: Solid Glass 2 Rootless
-Depiction: https://github.io/depiction/web/com.ivintagelover.solidglassrl.html
-SileoDepiction: https://github.io/depiction/native/com.ivintagelover.solidglassrl.json
-ModernDepiction: https://github.io/depiction/native/com.ivintagelover.solidglassrl.json
-Icon: https://github.io/assets/com.ivintagelover.solidglassrl/icon.png
-Tags: compatible_min::ios12.0, compatible_max::ios18.6
 
 Package: com.lema.wolf
 Architecture: iphoneos-arm64e
