@@ -2649,6 +2649,44 @@ Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 
 Package: com.na9.tiktok
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 3844
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.na9.tiktok.1.0.1.arm.deb
+Size: 1295054
+MD5sum: 2ad150e65e33f44edb3f553e43155df2
+SHA1: dea56a247cc41c7d246fdb96f86d6c2703104d57
+SHA256: e800be536e03491d5fd5cd6ecec7c49e427237fd5f55f654afe0d1af7b7194d8
+SHA512: 92d6d34039077c33ca51238538edadfd24c02575a57f1c59f8546a1ed3c3aef5618cb8fd89e84a8008a00092fdd96b051754fe77bbc74a87da4a331f75bae6ce
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me. Tweak preferences can be found in the TikTok settings
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://raw.githubusercontent.com/nowesr1/NA9TikTok/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/NA9TikTok/main/Resources/depiction.json
+
+Package: com.na9.tiktok
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nasser | NoTimeToChill
+Installed-Size: 3844
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.na9.tiktok.1.0.1.arm64.deb
+Size: 1295142
+MD5sum: 07b82b32ff9678d40d0cdc641c0ef57c
+SHA1: a7d275aa73e8c5fcceffd451f5de44e49bbb6e33
+SHA256: d22de5b63cac4082de207c3cb12da31cb67e081b65d2a2053336e42a06eee2d5
+SHA512: c065be149c48db8249fdeb600fc016a48bd4edf8247e3b2872676c65c0d7dbc0f5a069caa1f2129ee9012bfde6c1b64ce2d47ec361e95e051e399542a203920d
+Description: An advanced tweak for TikTok by N+Store. Nasser iPA Sideload Store https://na9.me. Tweak preferences can be found in the TikTok settings
+Name: NA9 For TikTok
+Author: Nasser | NoTimeToChill
+Icon: https://raw.githubusercontent.com/nowesr1/NA9TikTok/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/NA9TikTok/main/Resources/depiction.json
+
+Package: com.na9.tiktok
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
