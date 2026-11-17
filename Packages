@@ -77,6 +77,69 @@ Name: iQTube
 Author: 7md
 Icon: file:///Library/Application Support/iQTube.bundle/icon.png
 
+Package: com.ahmad.asjtiktok
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 3224
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.ahmad.asjtiktok.1.4.1.arm.deb
+Size: 1065158
+MD5sum: 4f117e452b0ccba22d15f03bf896c728
+SHA1: 498dde6bed687d0425487932f0d26679ed652add
+SHA256: 17c2c6e448cef18372444cca93823c7c56af1877e26ce98f05dc4fa365006d9b
+SHA512: 2c67fb6b0c07806fc4518e455c77f9f1b32677e3587628bcb41017ce0e06f8f70fc9f3a30ea2484292b0181a0262643f2d2255be5ad4e022f7e6e3d376c147bf
+Description: Privacy, download and playback options for TikTok
+Tag: role::enduser
+Name: ASJTok
+Depiction: https://ahmadrashed.com/depictions/asjtiktok.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjtiktok.json
+Icon: https://ahmadrashed.com/icons/apps/asjtiktok.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
+
+Package: com.ahmad.asjtube
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 5952
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.ahmad.asjtube.1.5.arm.deb
+Size: 1859446
+MD5sum: c7823d07dbec7d1b4d7e3b8302e3ad44
+SHA1: f0cd36eaebb76b52b7962eb04d3c8d963c5e1489
+SHA256: e243257d0530025c4cfb4f420a3c1ef326787d3ac06604b80aa2eeadb9010c23
+SHA512: c9d3de1db3fe0cf6ee5386efb825495bd882918cefe8ad57f88ea64ddb1247093b7bbb2ba8f23786fb4d90b1629b93b25978a45df2c8f303bb9b23055c118aa2
+Description: Ad-free playback, background audio and downloads for YouTube
+Tag: role::enduser
+Name: ASJTube
+Depiction: https://ahmadrashed.com/depictions/asjtube.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjtube.json
+Icon: https://ahmadrashed.com/icons/apps/asjtube.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
+
+Package: com.ahmad.asjwa
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 3956
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.ahmad.asjwa.1.0.arm.deb
+Size: 1086088
+MD5sum: 3dea4067295c8a7edcfedc1dd3ff4f0f
+SHA1: ced85ee5bd3e9742f35cad2f242fd14309fedbc7
+SHA256: 2b6b40fe5f1f2dc06652f40eefaed44566098f034466b9bee59a4c34f059a881
+SHA512: 699cebdadbc569b11e0633c7faa30e5e19f87796d1a8aab0e7795799d8a1ad3bb597fd86244448b6cb2b0c801d6273495a9722b7e8a402e88bf4e27484191325
+Description: Privacy, statuses, backup and chat options for WhatsApp
+Tag: role::enduser
+Name: ASJWhats
+Depiction: https://ahmadrashed.com/depictions/asjwhats.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjwhats.json
+Icon: https://ahmadrashed.com/icons/apps/asjwhats.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
+
 Package: com.al3raqe.iq-xxx-qi
 Architecture: iphoneos-arm
 Version: 1.87.1
@@ -637,6 +700,54 @@ Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
 SileoDepiction: https://cydia.ichitaso.com/depiction/iconorder.json
 dev: ichitaso
 Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ichitaso.icontweak
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: Packix <support@packix.com>
+Installed-Size: 532
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
+Replaces: com.ichitaso.icontweak
+Filename: ./debs/arm/com.ichitaso.icontweak.1.0.9.arm.deb
+Size: 121088
+MD5sum: b138c04ca66e4c6b444a1b4cfd911e2e
+SHA1: 9825a98a1ffb26cded20975ee2a83a88679901e8
+SHA256: 0ed9495d8f521875e7bcc7feddbce3276ae6090108b60a0c26db73c75cd66f2c
+SHA512: 928ef1eeafcad176d3cf78a38b449e1dc60a2db6bba6154c83d43ac76670e50f2548910aaa071a224355b812307e679249489430628550a09eab96eff87e3ef2
+Homepage: https://ichitaso.com
+Description: Swipe icons to show control menu and more!
+Tag: cydia::commercial, purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Name: IconTweak
+Author: ichitaso <willfeeltips+ict@gmail.com>
+Depiction: https://repo.packix.com/package/com.ichitaso.icontweak/
+dev: ichitaso
+Icon: file:///Library/PreferenceBundles/IconTweakSettings.bundle/icon@2x.png
+
+Package: com.ichitaso.icontweak
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Havoc <support@havoc.app>
+Installed-Size: 728
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, tar, gzip, ldid
+Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
+Replaces: com.ichitaso.icontweak
+Filename: ./debs/arm/com.ichitaso.icontweak.1.1.1.arm.deb
+Size: 155118
+MD5sum: 16eaf75584d37f634e3f3ab63f4d27de
+SHA1: efcfcb788fffd9a75bc62e8b159d3d32f6e0b27c
+SHA256: 4d12db2f5cc6a74f793556e974ecc67fd42be0f4637e6ea512261d6dc3242af3
+SHA512: 67c7e482ea4fad0e82a770323ad1406a8f672d03401e8fce859cd50d877753b4774f9ff4b2101a68925d61505dc83ccd8dad5b63c74d0ce0c89fe8cecc7dcab6
+Homepage: https://havoc.app/package/icontweak
+Description: Swipe icons to show control menu and more!
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios14.8.1
+Author: ichitaso <willfeeltips+ict@gmail.com>
+Name: IconTweak
+Depiction: https://havoc.app/package/icontweak
+dev: ichitaso
+Icon: file:///Library/PreferenceBundles/IconTweakSettings.bundle/icon@2x.png
 
 Package: com.ichitaso.powerselector11
 Architecture: iphoneos-arm
@@ -1386,6 +1497,69 @@ Description: best Tweak for YouTube
 Name: iQTube
 Author: 7md
 Icon: file:///var/jb/Library/Application Support/iQTube.bundle/icon.png
+
+Package: com.ahmad.asjtiktok
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 3224
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.ahmad.asjtiktok.1.4.1.arm64.deb
+Size: 1065058
+MD5sum: c4f5cfb977d4abebb46826ca40066dc6
+SHA1: 103dde3d82304facade383bfb92d475a536b5add
+SHA256: 07704542328556a7ab2cae8311e1b01ea4f37875dc0bc679da7ec907744d0cef
+SHA512: 7ca4ae248929d9d38a96c73085bff58066160e063df2615c0eb4e529a6093a759bdbacb86f0e0925ffd1c47335475876a5730291af6146f51eea2fdcebdc0681
+Description: Privacy, download and playback options for TikTok
+Tag: role::enduser
+Name: ASJTok
+Depiction: https://ahmadrashed.com/depictions/asjtiktok.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjtiktok.json
+Icon: https://ahmadrashed.com/icons/apps/asjtiktok.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
+
+Package: com.ahmad.asjtube
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 5952
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.ahmad.asjtube.1.5.arm64.deb
+Size: 1859810
+MD5sum: 0d1ce51f24af2caef734b10f041bd2cb
+SHA1: 095a1e9cce2cf41d58807d4fffe5d114a9ff9bcb
+SHA256: af99d4960460ac4256389fc0efa26e32e0155b5ed45a770b63a242265945d294
+SHA512: 126dbd5c82200d6c4b06846c352b549643a5b88cd2cd75438ec411527200195a39179a2c472b5abef006c7457dfe533e484321c3a06e07b16fa23769acc03388
+Description: Ad-free playback, background audio and downloads for YouTube
+Tag: role::enduser
+Name: ASJTube
+Depiction: https://ahmadrashed.com/depictions/asjtube.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjtube.json
+Icon: https://ahmadrashed.com/icons/apps/asjtube.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
+
+Package: com.ahmad.asjwa
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 3956
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.ahmad.asjwa.1.0.arm64.deb
+Size: 1082108
+MD5sum: 8b3b67c51ff2624ca4ac8f42a2c6629d
+SHA1: 67ea7b24543992ac58f6b1a00b2b7111ad622140
+SHA256: 656c3cdbb1f2f6e7bd68c9df2e527f9a5f9ac0a72dcc42dbccaf0779cf7a6e6c
+SHA512: cba64a8068ec57f2a8af94ecd4ba6a14a4d8b2c58f6c9b19801d39366401516130d13cbdac3e2ccd0877cfd7a860867626b17db8454076f4b4d043f505e3db22
+Description: Privacy, statuses, backup and chat options for WhatsApp
+Tag: role::enduser
+Name: ASJWhats
+Depiction: https://ahmadrashed.com/depictions/asjwhats.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjwhats.json
+Icon: https://ahmadrashed.com/icons/apps/asjwhats.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
 
 Package: com.al3raqe.iq-xxx-qi
 Architecture: iphoneos-arm64
@@ -3278,6 +3452,26 @@ Name: Filza File Manager 64-bit
 Author: TIGI Software
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64
+Version: 5.0.1-4
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 32452
+Depends: firmware (>= 15.0)
+Recommends: zip, tar
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/arm64/com.tigisoftware.filza64bit.5.0.1-4.arm64.deb
+Size: 13148050
+MD5sum: a61d9050056e74ac22159c56eb5823d1
+SHA1: 33683c38834baadf4febf407ecab093b00c0f015
+SHA256: 1377d015be51289d38cbcb7ae9415e4634b71ac34e4e4c040bb050592131e923
+SHA512: b75a86fdf05a6f0d47e022a2c0c4328b96f740a091ce913c62de6410f7f034f8ab052514741964226400d2828ac8ae49f162345839b75acb20fd058664a99cde
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 15+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: cz.kolbi.sbtweaker
 Architecture: iphoneos-arm64
 Version: 1.3.2
@@ -3528,6 +3722,29 @@ SHA256: 84164f8da7a890209e84073d973601c184bac3357bd8b8d42d83d2abce258fb6
 SHA512: b2f77a81f5923a56ea4ce5732265b29d381579b5c8148e11e25d23957d9482ca061d1a19c95cc3d78296165677410105132f170849d5712cf90e39bad19807a7
 Description: Most Advanced iOS Call Recorder Ever!
 Name: AudioRecorder XS (rootless) (iOS 12 to 18)
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
+SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: net.limneos.audiorecorderxs-rootless
+Architecture: iphoneos-arm64
+Version: 5.2-6
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 6064
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/arm64/net.limneos.audiorecorderxs-rootless.5.2-6.arm64.deb
+Size: 1278728
+MD5sum: 725d38500332cdbff8abca80a09d2b06
+SHA1: 51b7d0978651375862a05a3d8991484ec71ccaec
+SHA256: 75937b2f2207c643585c5c3b3c8e8e262ac50644b65dc78c7024206b05df8a28
+SHA512: 3a8f7298acf11c9c7f60f06217f962f6d764d015687b8718515b5c2d85d7097c1eefa7e8acc36ebf1b5b64ab2a4f74516739e37cf2573372e41dcf69addf8d04
+Description: Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder XS (rootless) (iOS 12 to 26)
 Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorderxs
 SileoDepiction: https://limneos.net/cydia/sileo-depiction.php?package=net.limneos.audiorecorderxs
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -3855,6 +4072,75 @@ Description: Just a single mute icon on the status bar of iOS.
 Name: Single Mute
 Author: 82Flex <82flex@gmail.com>
 Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.ahmad.asjtiktok.roothide
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 3224
+Depends: mobilesubstrate
+Conflicts: com.ahmad.asjtiktok
+Replaces: com.ahmad.asjtiktok
+Filename: ./debs/arm64e/com.ahmad.asjtiktok.roothide.1.4.1.arm64e.deb
+Size: 1065208
+MD5sum: b2c348010f6064edb217e2d2a9967d19
+SHA1: f34e56055e12c951e4d6d2328025dcee6fe8223f
+SHA256: a63c0806086e54b78878a892e13c4e3ede891f6e01336e8618313774c357c72a
+SHA512: cbe620e2eb869b9550833d3718cc86d52c58e2166a46851e8f31a09ba8a4376eb9cc2a2a6c9b22a80e222cd34a628eb7be884a62b849f3792aafa266706c7e80
+Description: Privacy, download and playback options for TikTok
+Tag: role::enduser
+Name: ASJTok (roothide)
+Depiction: https://ahmadrashed.com/depictions/asjtiktok.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjtiktok.json
+Icon: https://ahmadrashed.com/icons/apps/asjtiktok.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
+
+Package: com.ahmad.asjtube.roothide
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 5952
+Depends: mobilesubstrate
+Conflicts: com.ahmad.asjtube
+Replaces: com.ahmad.asjtube
+Filename: ./debs/arm64e/com.ahmad.asjtube.roothide.1.5.arm64e.deb
+Size: 1859774
+MD5sum: 15874921039099a081e90e696be22d14
+SHA1: 715d08a201ca90d60a37d505b12c76c1fc6be6a5
+SHA256: abb2895ef09c87a3406b402a2278652e377bc6278056998556acd7d599f04e91
+SHA512: c2051db699d5905adcf964fb27a192b8a13f6d16a585853c7ac31051b38fa92e603f5771889ef17e1b070708987d1a71b7fcbfdb1465e6e368515d3730a8db97
+Description: Ad-free playback, background audio and downloads for YouTube
+Tag: role::enduser
+Name: ASJTube (roothide)
+Depiction: https://ahmadrashed.com/depictions/asjtube.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjtube.json
+Icon: https://ahmadrashed.com/icons/apps/asjtube.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
+
+Package: com.ahmad.asjwa.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Ahmad Rashed <support@ahmadrashed.com>
+Installed-Size: 3956
+Depends: mobilesubstrate
+Conflicts: com.ahmad.asjwa
+Replaces: com.ahmad.asjwa
+Filename: ./debs/arm64e/com.ahmad.asjwa.roothide.1.0.arm64e.deb
+Size: 1078968
+MD5sum: 883d2e048c4ab22df0059e3de244cc59
+SHA1: c53e2340ba069a1e703068fb108f4a0ae630d5fc
+SHA256: fe8075bdcced07752fc846e0d8fb5ce49f6fe73398c752dfc3b740ffe4ec9bd5
+SHA512: ec774ac1b7a4be973fe93de05fae6a456f3c01b1670fba1a69c39e890179832ed2619f8fbe36af4f07eaa0a43c11ba94dfd03c76530652a82a5e667a010a633c
+Description: Privacy, statuses, backup and chat options for WhatsApp
+Tag: role::enduser
+Name: ASJWhats (roothide)
+Depiction: https://ahmadrashed.com/depictions/asjwhats.html
+SileoDepiction: https://ahmadrashed.com/depictions/asjwhats.json
+Icon: https://ahmadrashed.com/icons/apps/asjwhats.png
+Author: Ahmad Rashed <support@ahmadrashed.com>
 
 Package: com.al3raqe.filzadebsmanager
 Architecture: iphoneos-arm64e
@@ -5983,6 +6269,26 @@ SHA1: 718d5c9bb34d0c749ca311e4917736804fe217ec
 SHA256: 35be3aa392b06cd7ed53dd3aa05bf5c3ddaa126ee692b33fba67321fc6cec28d
 SHA512: bcd8b044a4b877f5a2873b009ac40f0d61293ab01cf61326950a6137bfb55bb1445af0b395023ce910abc238456c39c5baedc4379ab2bc9904b16850746a12c8
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 5.0.1-4
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 32452
+Depends: firmware (>= 15.0)
+Recommends: zip, tar
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/arm64e/com.tigisoftware.filza64bit.5.0.1-4.arm64e.deb
+Size: 13150362
+MD5sum: 24a290a33d798785e89fb4172bf077d9
+SHA1: 6566b9901f3b9b54e8b47d9d7830ac480d85fbaa
+SHA256: 86077bdffec1b0cf14b9501fe1957a2a852394a724fb7c80f50a1f76a2d632d5
+SHA512: b355da17954b2cddd154869bcde1fa06c1a417b7e0ffa251ff53930a8d1216dc785f1b4517d023beb7b40657274c9bb12b7ee2318aef9a7eba8a41f548b53744
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 15+. This version only supports 64-bit devices
 Name: Filza File Manager 64-bit
 Author: TIGI Software
 Icon: https://al3raqe.github.io/photo/al3raQe.png
