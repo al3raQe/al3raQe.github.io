@@ -2290,6 +2290,60 @@ Name: TikTok Fahd Downloader
 Author: Fahd
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.fahd.fahdtiktok
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 1952
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahd.fahdtiktok.2.0.0.arm64.deb
+Size: 1072322
+MD5sum: b9d6f90c15c0a74724f7aeed09845c6c
+SHA1: e04b171c6bec79bc91c7014dfd23b4b41e779b98
+SHA256: ad2492437afac8571852151886b76507cc80d5843abf17409f7cc57f78aff8d0
+SHA512: edb82977d7f03be9373882a32ef8ae07217f13e42cc07bf39d83c21fa6eafda72ef5e1a7b008b834123bd3108a5118d6bfeb4a73dbc6b567911af8b75d4bcefc
+Description: أداة FahdTikTok V2 لتطبيق تيك توك - حفظ الوسائط بدون علامة مائية، والتخفي الكامل، وإزالة الإعلانات والتمرير التلقائي.
+Name: FahdTikTok
+Icon: https://iili.io/npVYPcl.png
+Author: Fahd
+
+Package: com.fahd.fahdtwitter
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 8916
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahd.fahdtwitter.2.0.0.arm64.deb
+Size: 2548408
+MD5sum: 0f46505b24a032795879da5b14af2703
+SHA1: a0da71fbff90aae2f06e67cbd0a6fe9a02c5e504
+SHA256: 699c3ba271bb0d04e5af5c81a4185ec225d6ff02a141a31582492fbd89369c52
+SHA512: 4d1c70a4e193e86b3141346da2e8c2f8d18d482688fec9a2a427fa7ca78b550c24a0c9f983fb4f8a9ffb140a946ba149ffae2d20f857a1317da0f05adf4e2b95
+Description: أداة FahdTwitter V2 لتطبيق X - حفظ الوسائط والصوتيات، ومنع حذف الخاص، والتخفي الكامل وتخصيص الواجهة.
+Name: FahdTwitter
+Icon: https://iili.io/npVBKJf.png
+Author: Fahd
+
+Package: com.fahd.fahdyout
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Fahd
+Installed-Size: 7896
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.fahd.fahdyout.2.0.0.arm64.deb
+Size: 2108562
+MD5sum: 1ba06fd80e35d5f75849eb1d55e2327e
+SHA1: 5b6bcddaa83b9d1375799104958e7c6c1a821b6f
+SHA256: 7cdd8dfa08e83fa6d36cd75620a45a31b2aa680a817710585136c85237d6161c
+SHA512: 3cbc91b1c8c0514c415b0f1d75ae5a548a2c57ce87ffe33a5273a7f4bcc7a8921a6985b1d680e9d4e6498acc13edd8d277e62a8e68fcc16585acda55be28f8ad
+Description: أداة FahdYouT V2 لتطبيق يوتيوب - تحميل مقاطع الفيديو والصوتيات، وحظر الإعلانات، والتشغيل في الخلفية وصورة داخل صورة PiP.
+Name: FahdYouT
+Icon: https://iili.io/npWTwJt.png
+Author: Fahd
+
 Package: com.fahd.twitterdownloader
 Architecture: iphoneos-arm64
 Version: 1.3.1
