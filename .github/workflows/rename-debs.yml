@@ -11,11 +11,6 @@ jobs:
     if: github.ref == 'refs/heads/Master'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository scripts
-        uses: actions/checkout@v4
-        with:
-          ref: Master
-          path: source
 
       - name: Check out published APT repository
         uses: actions/checkout@v4
@@ -30,7 +25,7 @@ jobs:
 
       - name: Rename packages on the published branch
         working-directory: repo
-        run: bash ../source/Rename.sh
+        run: bash scripts/Rename.sh
 
       - name: Commit filename changes
         working-directory: repo
