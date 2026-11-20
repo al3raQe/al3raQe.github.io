@@ -1,9 +1,7 @@
-# 🎭 وقعت بالفخ؟
+# 🎭 You fell for it!
 
-كنت تدور على الحزم؟ المفاجأة: **ماكو حزم هنا 😄**
+**Nothing to see here 😄**
 
-الحزم الفعلية موجودة في فرع النشر، وهذا المجلد على الفرع الرئيسي مجرد مزحة.
+<img src="https://www.publicdomainpictures.net/pictures/60000/nahled/cardboard-box-white-background.jpg" width="280" alt="Empty cardboard box" />
 
-<img src="https://www.publicdomainpictures.net/pictures/60000/nahled/cardboard-box-white-background.jpg" width="280" alt="صندوق فارغ" />
-
-[مصدر الصورة](https://www.publicdomainpictures.net/en/view-image.php?image=56626&picture=cardboard-box-white-background)
+[Image source](https://www.publicdomainpictures.net/en/view-image.php?image=56626&picture=cardboard-box-white-background)
