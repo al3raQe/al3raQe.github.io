@@ -1082,6 +1082,25 @@ Name: VidGrab
 Author: T4MAG0
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
+Package: com.tigisoftware.appdatamanager
+Architecture: iphoneos-arm
+Version: 2.0.0-3
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 5808
+Depends: firmware (>= 15.0)
+Recommends: ldid
+Filename: ./debs/arm/com.tigisoftware.appdatamanager.2.0.0-3.arm.deb
+Size: 2149806
+MD5sum: 3ca5a3687735aacf009661ea3f2011ef
+SHA1: f1abf0819727f15edc2f0907ecef28126e787df7
+SHA256: 3052d782a8d6db85ef793d0c6304af39a065357a38a77afee44c867ff83566f1
+SHA512: 1e0fa50691c55965add7bf62dfbb59990bb9cdb4f7adfaca19f682aa80c58ce4b5ade2b223e8b2cc099dd697e2f1543c3335a316f6967feae7795b8adaaada78
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps. Supports iOS 15+
+Name: Apps Manager
+Author: TIGI Software
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
 Package: dev.extbh.fixpay14
 Architecture: iphoneos-arm
 Version: 0.0.4
@@ -3855,6 +3874,24 @@ Homepage: https://github.com/iamjhe08/VidGrab
 Description: Download videos from YouTube and other sites. Paste a link or use the built-in browser.
 Name: VidGrab
 Author: T4MAG0
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.tigisoftware.appdatamanager
+Architecture: iphoneos-arm64
+Version: 2.0.0-3
+Section: Utilities
+Maintainer: TIGI Software
+Depends: firmware (>= 15.0)
+Recommends: ldid
+Filename: ./debs/arm64/com.tigisoftware.appdatamanager.2.0.0-3.arm64.deb
+Size: 2149376
+MD5sum: a4de4da7c8c120548cb5b4f395e9d2cb
+SHA1: 9fe5d2dd27c702a4fa83c76b3920ec0088a45fa0
+SHA256: d8656e490c0c0980a0d5b044dd2f66e819a03a941cb9c4530dbc53922b2153ce
+SHA512: d5d99357df5e8acd41ab670ef516e2d5ad00bf643b6bedffa1ff8b799f0dbeec864450f43cf66089c675a6e463399bd3f33c979bf40126304e5202d6bc960bf0
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps. Supports iOS 15+
+Name: Apps Manager
+Author: TIGI Software
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.tigisoftware.filza64bit
@@ -7100,6 +7137,24 @@ Homepage: https://github.com/iamjhe08/VidGrab
 Description: Download videos from YouTube and other sites. Paste a link or use the built-in browser.
 Name: VidGrab
 Author: T4MAG0
+Icon: https://al3raqe.github.io/photo/al3raQe.png
+
+Package: com.tigisoftware.appdatamanager
+Architecture: iphoneos-arm64e
+Version: 2.0.0-3
+Section: Utilities
+Maintainer: TIGI Software
+Depends: firmware (>= 15.0)
+Recommends: ldid
+Filename: ./debs/arm64e/com.tigisoftware.appdatamanager.2.0.0-3.arm64e.deb
+Size: 2149950
+MD5sum: 01286d4bf0bd5da0c95db589f03a659d
+SHA1: 603ea5e3e2059461e72a345f34dcc2f42eb1324d
+SHA256: 5d49a420fae8bcbc6b5b75183a8e7fd8b3fa9c19d0f4a1a2ed7183ac59412f7f
+SHA512: b4225ea48baaf7755964fa573ec3e87bc0e984c73546748f5952501d4ec0818097d8096d755c89a24521a7fd7b1867ef1c20f8beefb269f1140092e7c598d9f2
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps. Supports iOS 15+
+Name: Apps Manager
+Author: TIGI Software
 Icon: https://al3raqe.github.io/photo/al3raQe.png
 
 Package: com.tigisoftware.filza64bit
