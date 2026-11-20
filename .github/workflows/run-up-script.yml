@@ -11,11 +11,6 @@ jobs:
     if: github.ref == 'refs/heads/Master'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository scripts
-        uses: actions/checkout@v4
-        with:
-          ref: Master
-          path: source
 
       - name: Check out published APT repository
         uses: actions/checkout@v4
@@ -35,4 +30,4 @@ jobs:
 
       - name: Run Update.sh on the published branch
         working-directory: repo
-        run: bash ../source/Update.sh
+        run: bash scripts/Update.sh
