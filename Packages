@@ -290,54 +290,6 @@ Depiction: https://apt.cercube.com/depiction/FDXO5R
 SileoDepiction: https://apt.cercube.com/depiction/sileo/FDXO5R
 Icon: https://cdn.cercube.com/assets/icon.png
 
-Package: com.cydiageek.myautolock
-Architecture: iphoneos-arm
-Version: 1.0.0
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 322
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/arm/com.cydiageek.myautolock.1.0.0.arm.deb
-Size: 45148
-MD5sum: d78c745459d4553e6279262bd0f8f597
-SHA1: 70d034c6c2186ff871d1d9e21ce03ae3b5f756e8
-SHA256: f7540a8a691cd29fe8b04dbd845931b9c970b9dd6207af3ae57a37802c49129f
-SHA512: 329a7525d679725a2c63864c0d43ae940cd642976712de433f84d2654a3f9a8a05c7a6fb644ebae0446ed0bcb34bd3146ab2a3c9c9af7313938af337ea31317a
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myautolockDp
-Description: Custom Auto Lock options!
-Tag: purpose::extension
-Name: MyAutoLock
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myautolockDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/MyAutoLock.bundle/icon@2x.png
-
-Package: com.cydiageek.myautolock
-Architecture: iphoneos-arm
-Version: 1.0.1
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 302
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
-Filename: ./debs/arm/com.cydiageek.myautolock.1.0.1.arm.deb
-Size: 41780
-MD5sum: 114c79202deff3760955c4160adad981
-SHA1: 4172693b2b82cf34a113d388201cbf01ab5713d3
-SHA256: 070af9546865f81e0b8536c4228fc0bd71dc32b5ffbb60b6a1baa29af0a8ef13
-SHA512: 6bdf7c4c49a5c26246f52bb8df9435b20851bd136135c24c1ccc82376db9cd32d27decd744ff22640a34a6d64784f63f48504fc0843dc9eed2abc21fd4bbc70f
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myautolockDp
-Description: Custom Auto Lock options!
-Tag: purpose::extension
-Name: MyAutoLock
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=myautolockDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
-dev: lucaluca86
-Icon: file:///Library/PreferenceBundles/MyAutoLock.bundle/icon@2x.png
-
 Package: com.daveapps.quitall
 Architecture: iphoneos-arm
 Version: 3.1
