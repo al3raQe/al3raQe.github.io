@@ -4,6 +4,6 @@
 
 الحزم الفعلية موجودة في فرع النشر، وهذا المجلد على الفرع الرئيسي مجرد مزحة.
 
-![دخل يبحث عن الحزم فوجد لا شيء](https://images3.memedroid.com/images/UPLOADED88/5bb9630e5b12f.jpeg)
+<img src="https://www.publicdomainpictures.net/pictures/60000/nahled/cardboard-box-white-background.jpg" width="280" alt="صندوق فارغ" />
 
-[مصدر الصورة](https://es.memedroid.com/memes/detail/2496343/Clasico-internet)
+[مصدر الصورة](https://www.publicdomainpictures.net/en/view-image.php?image=56626&picture=cardboard-box-white-background)
