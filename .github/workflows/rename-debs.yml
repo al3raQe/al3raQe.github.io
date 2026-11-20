@@ -11,20 +11,29 @@ jobs:
     if: github.ref == 'refs/heads/Master'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out repository scripts
         uses: actions/checkout@v4
         with:
           ref: Master
+          path: source
+
+      - name: Check out published APT repository
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: repo
 
       - name: Set Git identity
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C repo config user.name "github-actions[bot]"
+          git -C repo config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Rename packages in place
-        run: bash ./Rename.sh
+      - name: Rename packages on the published branch
+        working-directory: repo
+        run: bash ../source/Rename.sh
 
       - name: Commit filename changes
+        working-directory: repo
         run: |
           git add -- debs
           if git diff --cached --quiet; then
@@ -32,4 +41,4 @@ jobs:
             exit 0
           fi
           git commit -m "Rename deb packages"
-          git push
+          git push origin gh-pages
