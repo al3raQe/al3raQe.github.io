@@ -1,0 +1,33 @@
+name: Run Update.sh
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-repository:
+    if: github.ref == 'refs/heads/Master'
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Check out published APT repository
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: repo
+
+      - name: Install required tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y apt-utils zstd
+
+      - name: Set Git identity
+        run: |
+          git -C repo config user.name "github-actions[bot]"
+          git -C repo config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run Update.sh on the published branch
+        working-directory: repo
+        run: bash scripts/Update.sh
