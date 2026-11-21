@@ -1,5 +1,2 @@
-<div align="center" dir="rtl">
-<h2>😏 وقعت بالفخ!</h2>
-<p><strong>كنت تدور على الحزم؟ المفاجأة: ماكو حزم هنا 😄</strong></p>
-<img src="empty-box.svg" width="280" alt="صندوق فارغ يبحث فيه عن الحزم" />
-</div>
+<p align="center"><img src="https://al3raqe.github.io/photo/header.png" alt="al3raQe" width="65%"></p>
+<p align="center"><a href="https://www.facebook.com" target="_blank" title="Facebook"><img src="https://al3raqe.github.io/photo/facebookMe.png" alt="facebookMe"></a>&nbsp;&nbsp;<a href="https://twitter.com/home" target="_blank" title="Twitter"><img src="https://al3raqe.github.io/photo/twitterMe.png" alt="twitterMe"></a>&nbsp; &nbsp;<a href="https://www.youtube.com" target="_blank" title="YouTube"><img src="https://al3raqe.github.io/photo/youtubeMe.png" alt="youtubeMe"></a>&nbsp; &nbsp;<a href="https://al3raqe.github.io" target="_blank" title="My Repo"><img src="https://al3raqe.github.io/photo/RepoMe.png" alt="RepoMe"></a></p>
