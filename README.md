@@ -1,4 +1,4 @@
-### <p align="center">al3raQe Roothide Jailbreak's Repo
+### <p align="center">al3raQe Jailbreak's Repo
 
 	
 <p align="center"><img src="https://al3raqe.github.io/photo/header.png" alt="al3raQe" width="70%"></p>
